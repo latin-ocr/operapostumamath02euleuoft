@@ -1,0 +1,86 @@
+ 
+
+De motu corporum cai-ca punctum fimum mobilium. 53
+
+2dedX
+dt²
+
+ΞάΜάἀΥ
+dt²
+
+QdedZ .
+0112 ²
+
+quarum virium directiones, his axibus parallelae, in ipso puncto Z applicatae sunt concipiendae,
+
+vis secund. Oa= 2 vis secund. Ost:
+
+ 
+
+ 
+
+² vis secund. Oy=
+
+ 
+
+115. Innotescunt ergo vires ad elementum corporis Z sollicitandum requisitae secundum axes
+; spatii absoluti agentes, quae per notam virium' compositionem vel ad duas, vel etiam ad unicam
+revocari possunt. Expediet autem eas reducere ad ternas alias, quae secundum axes corpori infixos
+j OA, OB, OC agant, ut calculus harum virium, etiam sine respectu ad motum habito, expediri possit,
+« *propterea quod elementum Z ad hos axes constanti et immutabili ratione refertur.
+
+1⁵6. Cum autem sit X :ae et ω constans, vis prima secundum Oa evanescit, et reliquae duae
+
+. secundum Οβ et Oy facile reducuntur ad directiones OB et OC. Resolvitur enim vis secundum
+Οβ 111 has duas V
+
+vis sec. OB ὲ vi sec. 0ss cos Ββ = vi sec. 0⁴6 cos 3,
+vis sec. OC = vi sec. Οβ cos Οβ == — vi sec. 0ss sin 3
+
+similique modo vis secundum (Or in has duas
+
+vis sec. OB = vi sec. Oy cos By -—- vi sec. Oy sin 3,
+vis sec. OC = vi sec. Oy cos Cy Ξ vi sec. Oy cos 3.
+
+117. Hinc ergo pro motu particulae Z requiruntur duae· sequentes vires
+
+altera sec. OB = ssg—ffflchos 3 -1- ddZ sin 3), altera sec. OC = ξιξ (- ddYsin 3 -1- ddZ cos 3).
+
+Cum autem hic variabilitas temporis spectetur, sola quantitas 3 erit variabilis, eritque ergo
+
+dY= — yds sin 3 - zds cos 3, ddY= - ydds sin 3 —zdds cos 3 -γά32 cos 3 -1- zds2 sin 3,
+dZ = yds coss — zds sinr 3, ddZ = -ι- ydds 13033- zdds sin 3 - yda? sin 3 - zds² coss,
+Ξ quibus valoribus substitutis' binae istae vires prodibunt:
+
+vis sec. OB = ξιξ (- zdds — γάρ) , vis sec. OC -- {gt—2⁰3 (ydola ὲ zds²);
+
+118. Quoniam corpus est mobile circa axem ΟΛ (Fig. 122) momenta harum virium respectu ejus
+
+Α sunt spectanda. At vis secundum OC seu YZ agens praebet momentum ad corpus in plagam BC
+
+- circa OA convertendum =vi sec. OC.y·; vis autem secundum OB seu XY dat momentum ad motum
+
+in plagam oppositam CB accelerandum =‘vi sec. OB.z‚ unde'utrinque nascitur momentum in plagam
+
+Ἴ BC tendens = {7²⁵¹ (yy- -1- zz) dds = 333 (γγ -1- zz) dM. Tantum scilicet momentum requiritur pro
+
+elemento corporis Z=dM ad motum, quo corpus ferri assumimus,- producendum.
+
+el ‘¹ ’ ³ 119. 'Cum igitur ob singula corporis elementa talia momenta requirantur, haec omnia momenta
+
+J in unam summam colligantur, quae quidem praesenti corporis instanti locum habeant. Jam ergo
+
+Qdds
+
+tempus constans statuendum, ideoque terminus Et? a solo tempore pendens, et variabilitas omnis in
+
+τ 'situmelementi Ζ erit transferenda, ita ut nunc coordinatae y· et z variabiles reddantur: ,ex quo
+
+ 
+
+ 
+
+’ summaeomnium momentorum, seu momentum totale in plagam BC tendens erit = 235} s(y²—r-z²) dM.
+
+’ conservatio nimirum motus, quem in corpore inesse ponimuS, hoc virium momentum requirit.
+

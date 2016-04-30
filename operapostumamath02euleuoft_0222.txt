@@ -1,0 +1,88 @@
+206 L. EULERI OPERA POSTHUMA. Astron mech. ’
+
+1. Angulus ille tempori proportionalis τ, qui pro revolutione integra abit in 360⁰, vocatur
+anomalia media, quae ergo est angulus, quem corpus ah abside ima digressum, si aequabiliter circa
+punctum A eodem tempore periodico revolveretur, dato tempore esset confecturum.
+
+11. Differentia inter anomaliam mediam τ et veram s vocari solet aequatio centri, -vel etiam
+prostaphacresis, quae igitur est nulla casibus v=0, c= 180⁰, v=3sso⁰ etc., hoc est quoties
+
+anomalia media in lineam absidum incidit.
+
+111. Angulus ille subsidiarias 6, cujus relatio tam ad anomaliam mediam τ quam ad ‘veram ε· ζ
+
+est assignata, vocari solet anomalia excentrica. Ex qua etiam distantia AB=0 expedite definitur.
+1—nn Γ f
+
+1-ncoso et 1—-nn 1-i-ncoss
+
+distantia absidis imae a puncto A :a (1 — n), et summae = α (1 —i-n).'
+
+Cum enim sit 1 -ι- η cos s =
+
+ 
+
+ 
+
+ 
+
+== ιι (1 - η cos 6), ideoque 33
+
+=a, erit ΟΞ ¹
+
+82. Scholion 2. Haec relatio inter anomalias veram, mediam et excentricam, quam per cal- i
+culum eruimus, ita geometrice doceri potest: Sit (fig. 178) AVB semiellipsis super axe transverso
+ΑΒ descripta, cujus centrum in C et focus in F, positoque semiase CA=a et excentricitate =n, ξ
+
+erit CF ε.- na3 tum super eodem axe constituatur semicirculus ANB. Sumta jam· in ellipsi anomalia> ἶ·
+
+vera seu angulo AFV=s‚ ei respondeat in circulo anomalia media seu angulus ACM: τ, atqu}
+necesse est, ut sector circuli ACM sit ad aream semicirculi, ut' sector ellipticns AFV ad amam‘semtww
+
+ellipsis. Per V ducatur ad axem AB perpendicularis PVN circulum secans in N, ductaque recta FN, ἒς
+est area elliptica AFV ad aream circularem AFN, ut semiellipsis area ad aream semicirculi, ex quo'}i
+
+'l
+,Ρ
+
+sectorem circularem ACM aequalem esse oportet areae circulari AFN. Unde notata rectarum FN etl}
+CM intersectione Ο, trilineum mixtilineum ΜΘΝ aequale esse debet triangulo rectilineo COF. Addatu'rssi Η
+
+i
+
+utrinque triangulum CON ducto radio CN, ut fiat sector CMN aequalis triangulo CFN. Nunc prim&
+patet angulum' ACN esse anomaliam excentricam 6, nam hinc fit ι *je
+
+  
+     
+  
+    
+
+PN=asin6 et PV=asin6V(1—nn)‚ ³¹2
+
+· tum vero est CP= a cos 6 et* FP = a (cos 6 — n), hincque FV=a(1— n cos 6); unde fit ut*²
+invenimus ’ἴ ’
+
+cosa-n . sino τίω-ηπ)
+0083: 1—-ncos¹6' SOU Slss8= ¹—ncoso ·
+
+ 
+
+ 
+
+Porro ob angulum ΜΕΝ-τ σ-τ, er’rt sector JMCN= ξ αα (σ-τ), area vero trianguli CFN= ξ naa sin 6,...μ ἰ
+
+quibus valoribus aequatis fit 6 —— τ --- n sin 6 seu ’ τ = 6 — η sin σ, quae aequalitas cum supra ina}
+
+venta congruit. μ’ ’
+
+83. Problema. Data excentricitate orbitae ellipticae et anomalia media, invenire‘an'o‘malifflei
+
+excentricam, indeque anomaliam veram et aequationem centri seu prostaphaeresin.
+
+solutio. Posita excentricitate = n, et anomalia media zv, inde primo definiatur anomalia 4
+excentrica 6 ope aequationis v: 6—nsin 6, quod commodissime per approximationem praestatu'rff Α,
+Ponamus enim pro 6 valorem jam prope verum esse inventum, qui εῆἐλ, et pradieut λ-ηειὶηλετ-ι-δ,
+
+ut error sit valde parvus δ, ac statuamus σΞλ-ι-ω, unde ob ω valde parvum, erit sin6=sin24oecom i
+

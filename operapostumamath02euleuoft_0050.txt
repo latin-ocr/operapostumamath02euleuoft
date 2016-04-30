@@ -1,0 +1,59 @@
+,34 L. EULERI OPERA PosTHUMA. uxama.
+
+182. Col-011. 1. Fig. 100. Si curvae AB ‘hoc modo potentiae verticales fuerint applicatae
+juxta curvam' AD, et quaeratur summa momentorum omnium in‘punctn'm M ubilibet assumtum, v(lu-
+catur applicata MP et prolongetur in N, ut sit ΡΝ ε- CD, ducaturque recta DN. Exprimet quaevis
+applicata rw summam omnium potentiarum arcus Ach3 etenim cum ἰιιΒμ nullae potentiae sint ap·
+plicatae, summa. omnium potentiarum BD per totum spatium BM non augetur neque minuitur. Ergo
+summa momentorum in M est ut -area ACD÷ CDPN (Pam).
+
+183. 'cm-011. 2. Fig. 101. Dicatur AP=ae, PM=y et summa potentiarum arcus AM sit
+P; erit summa omnium momentorum in M = s Pdc'n. 'Ergo si arcui AM in quolibet puncto poten-
+tiae aequales applicentur, erit P ut arcus AM, qui si dicatur s, erit P =s, et summa momentorum
+omnium in Merit ssdoe. .
+
+185. col-011. 3. Si curvae AM potentiae qualescunque suerint applicatae, resolvantur singulae
+in laterales, unas verticales secundum MP agentes, et alteras horizontales, juxta MR trahentes. Di·
+catur summa horizontalium arcus AM = Q, erit summa momentorum potentiarum horizontalium
+= sQdy, existente summa verticalium = sPdae.
+
+185. col-oll- 4. Cum momentum sit vis, punctum, in quod agit, circa se ipsum convertendi,
+videamus, num momenta potentiarum verticalium et horizontalium sint conspirantia, an vero minus?
+Potentiae verticales punctum M conantur convertere secundum plagam AM3 at vero potentiae hori·
+zontales MR secundum plagam ΑΒ; sunt ergo contrariae ambarum actiones.
+
+186. Coroll- 5. Sin autem potentiae horizontales MR fiant negativae, ut trahant juxta Mr,
+erunt et momentorum vires contrariae, et propterea conspirantes cum verticalibus3 omnes enim
+punctum M conantur convertere secundum eandem plagam ΑΡ.
+
+187. Col-011. 6. ln illo igitur casu, quo horizontales agunt juxta MR, et summa omnium
+momentorum, punctum M secundum ΑΡ convertentium, = s Pdae — sQdy·; at in hoc casu poten·
+
+tiarum horizontalium, juxta Mr trahentium, erit communis vis convertens punctum M a dextro in
+sinistrum = ssze-i- sQdy.
+
+188. coron. ⁷· Fig. 102. Sint curvae AM in quovis loco μ, potentiae normales μω appli- l
+
+catae3 resolvantur eae in verticales μο et horizontales ωο. Sit An=ae, πμ-- y· et potentia
+
+dul-v = ” dzdy
+
+ὼ 2 et ωοε-αῖ denotante s curva Αμ. Erit summa omnium potentiarum
+dz και]
+
+ 
+
+μὰ).- -— dz3 erit μο- -
+
+verticalium— = s²—‚ et summa omnium horizontalium = s— · Si in integralibus loco a: substi· ἰ-
+
+tuatur ΑΡ, et loco y, PM, habebuntur summae potentiarum verticalium et horizontalium arcus AM;
+
+unde momentum omnium in M erit s dcc s d—“ff-i- s dy· s {⁶3⁹ sunt enim conspirantia momenta hori·
+
+zontalium .'et verticalium.
+189. Problema· 19. · Fig. 103. Curvae AG ‘in singulis punctis potentiis verticalibus applIca-
+tis, determinare punctum O, in quo potentia ΟΒ omnibus aequivalens applicari potest.
+solutio. “Cum directiones omniumpotentiarum - supponuntur parallelae, erit potentia aequiva-
+lens omnibus simul sumtis aequalis. Designante ‘autem AD. curvat supra descripta, erit BD aequalis
+

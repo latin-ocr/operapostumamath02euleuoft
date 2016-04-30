@@ -1,0 +1,64 @@
+Slatzba. , ’ ,, , 9
+
+'492 Definitio 8'· Centrum 'plurium potentiarum puncto applicatarum voco punctum, cujus a
+
+puncto, cui ‘potentiae applicantur, distantia, per numerum potentiarum multiplicata, exprimit poten-
+tiam omnibus-:potentiis 'applicatis aequivalentem.
+· ’ἶ - 50. ’ C'orol'l· 1. Punctum ergo M, ex praecedente problemate determinatum, est centrum ‘po-
+tentiarum sex3: AB, AC, AD, ΑΕ, AF et AG, et quomodo pro quotcunque potentiis determinetur,
+ex eodem problemate constat. ·
+
+’ 51. coron. 2. Patet etiam ex problemate (1⁸8), punctum M, nonnisi ex extremitatibus Β, C,
+D, Ε, F, G linearum, potentias exprimentium, determinari, quae si sint eaedem, centrum potentiarum
+
+idem erit, ubicunque situm sit punctum, cui potentiae applicantur.
+
+'i' 52 Scholion. De hoc centro in sequentibus demonstrabitur, esse id centrum gravitatis punc-
+
+torum potentias determinantium, nempe 'esse M centrum gravitatis punctorum B, C, D, E, F et G.
+
+³⁶.. 5.3 Lemnia 1. Fig. 20. Si siut duo puncta C et D, ex iisque ad lineam quamcunque ΑΒ
+demittantur perpendicula CA, DB, linea autem (² D ita secetur in· F, ut sit CF: DF - 1: n, et ex
+’ F in AB perpendiculum FE demittatur, erit ’ ·
+
+Ι, ⁴ ῃ (η-ι-1)ΡΕτ-η AC—i-BD. Ι
+¹ ⁵ Demonstratio. Ducatur CG parallela ipsi AB, erit DG· Γ Η Γ D CF: n—i-1: 1, ergo
+FH=-di· sed Dc: BD- Ac, ergo FH-—BD ²¹⁰
+
+¹241 0241
+
+· Ergo
+
+ 
+
+ 
+
+'— AC—1- FH= EF= BD÷n. AC, consequenter (n -ι- 1) EF: n.Ac-1- BD, Q. E. D.
+
+τιή-1
+
+’ 5'14. 'l’heorema 6. Fig. 21.- Sint B, C, D, ”E extremitates rectarum, potentias puncto cui-
+dam applicatas exprimentium, M centrum potentiarum. Assumta quacunque recta· be, ad eamque ex
+punctis B, C, D, E, item ex- centro M demittantur perpendicula Bb, Cc, Dd, Ee et Mm, erit Mm,
+in numerum punctorum B,C, etc. ducta, aequalis summae perpendiculorum Bb, Cc, Del, Ee.
+
+nefnonsnatio. Juncta BC bifariam secetur in F, ductoque perpendiculo Ff’ erit
+πίε Βὸ-ι-σο (53). ’ ’
+Juncta FD secetur in G, vut sit FGt'DVG=1'22; demisso *ex G perpendiculo Gy, erit
+‘3G9‚==2Ff÷Dd=Bb÷Cc÷Dd.
+
+Porro juncta GE, eaque secta in M, ut sit GM: EM = 1:3, erit M centrum potentiarum in punctis
+B, C, D et E desinentium (148, 50); demittatur ex M perpendiculum Μιῆ, erit
+
+lva = 3Gq-1- Ee (53) = Bb -ι- Οο-ι-Βά-ι- Ee. ,
+
+Simili modo de quocunque potentiarum numero demonstratur Mm, in numerum potentiarum ductam,
+
+aequari summae omnium· Bb, Cc, Dd etc.- Q. E. D.
+Nota in marq. ldem exvresolutionewpotentiarum potest demonstrari.
+
+55. Coroll. Me non monente patet, si quae puncta ultra lineam be cadant, perpendicula ex
+
+iis demissa in be negativa accipi debere.
+Lluleriop.posthuma. 1211. x ' 2
+

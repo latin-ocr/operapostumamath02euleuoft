@@ -1,0 +1,69 @@
+Astronomt'a mecham'ea. 223
+
+1¹29· Cor-011. ι. Pro curva⁴ vero, quam alterum corpus B motu absoluto describit, erunt
+
+coordinatae
+
+ds Areos (s 4— a)
+(1 ,μ η 00⁸2>2 *¹- Μ’
+
+- ΟΡΞΧ-ι-νοοεφ--Θ-ι-Ιῖ
+
+ΡΒὲΥψοεῑηφέξς-μρ] ‘¹⁸ Δῑεῑιιωψα)
+
+(1 -r-ncoss)² ψμτωπῆἶῆ·
+
+ 
+
+Unde patet casu, quo E= Ο et F = Ο, utramque curvam fore sectionem conicam.
+
+12¹. Scholion. Hinc perspicitur egregius consensus inter ambas methodos, quibus sum usus
+‘ad motus binorum corporum determinandos‚ ac simul patet, utramque methodum ita inter se cohae-
+rere, ut determinatio motus respectivi praecipuam partem in motus absoluti investigatione constituat.
+Haec methodus scilicet latius patet, quam illa, c‘um non solum motum respectivum perinde ac illa
+η patefaciat, sed etiam motum absolutum utriusque corporis declaret, atque hoc quidem ita, ut ratio
+ι motuum absolutorum facillime e calculo eliminetur, totumque negotium ad motus respectivi deter-
+ι minationem perducatur. Hoc enim cognito nihil aliud superest, nisi ut motus communis centri iner-
+ι tiae, qui semper est uniformis secundum lineam rectam, in computum introducatur. Quare etiam in
+ι investigatione motus plurium corporum se mutuo attrahentium semper sufficit motus respectivoS‚ qui
+
+'spectatori in uno eorum collocato sint apparituri, determinasse. Etsi enim hic unum corpus tan-
+
+j quam quiescens consideratur, tamen facile est deinceps toti systemati 'ejusmodi motum mente saltem v
+
+{fflucerffi quo commune centrum inertiae vel ad quietem vel motum uniformem rectilineum redi-
+ι fitur, hocque modo ad motuum absolutorum cognitionem pervenietur. lstud ctiam eo clarius patebit
+aex sequente problemate, ubi motus binorum corporum, quando non in eodem plano absolvuntur,
+
+ι mm evoluturus.
+
+122. Problema. Si duo corpora sphaerica se mutuo attrahentia ita moveantur, 'ut motus
+eorum non in eodem plano absolvatur, definire utriusque corporis motum absolutum.
+
+solutio. (Fig. 181) Sint jam elapso tempore :t ambo corpora in A et B, quorum massae
+iisdem litteris A et Β indicentur. Referantur eoru‘m loca ad ternas directiones fixas inter se nor-
+cnnles OE, OF, OG, quibus constituantur pro utroque parallelae coordinatae, quas pro A vocemus
+¹01=X, XY== Y et YA= Z. Pro corpore autem Β statuamus primo distantiam AB=‹›, tum
+livero ejus inclinatio ad ternas illas directiones fixas OE, OF, OG indicetur angulis ζ, η, θ, ut sit
+k÷²eo⁸²§-{-cos n÷cos²19=1, hincque coordinatae pro B erunt OP== Χ-ι-νοοεζ, PQ= Y—4-vcos27,
+
+3108=z -ι- v cos θ, seu posito v cos ζ- - ω, ο cos η =y, v cos θ- --- z, ut sit W— .- ωω-ι-γγ-ε-ζζ, ha-
+iubebimus aP=X÷oe, PQ= Y÷y‚ Q=B Z -ι- z. Cum Jam vis attractrix secundum AB sit= AB,
+{tmpus Α ab ea sollicitatur
+
+- ΑΒ
+
+ΑΒ ΑΒ
+
+ 
+
+ζ ⁴⁴²· ν seeundum OE vi= vv cos ζ, sec. OF vi=T coen, sec. OG νῐε-νῑ-οοεθ,
+{effipia vero B his viribus ’
+sec. OE vi = '‘:Bcos ζ, sec. OF vi = ’ΣΒ cos η, sec. OG vi- — ’ΤΔΕ cos θ,
+
+ 
+
+ 
+
+*unde principia accelerationis suppeditabunt has aequationes
+

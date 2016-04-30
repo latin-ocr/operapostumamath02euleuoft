@@ -1,0 +1,81 @@
+96 L. EULER'I' OPERA POSTHUMA. Μᾳοιιαηεεα.
+
+determinent l’etat οὐ le tube avec ‚les trois corps s'est trouve au commencement du mouvement, et
+pour resoudre parfaitement 13 question, il faudra, au moyen de ces donnees, determinet, pour chaque ἰ
+
+moment vouIU, tant la situation du tube avec les corps, que leurs mouvements. i
+
+§ 25. Supposons qu 'apres un temps econle quelconque t, le tube soit parvenu en OS, ayant ᾖ
+
+decrit par son bont F l'arc FS=s‚ et soit maintenant la vitesse du point S= Vu, de sorte que ζ
+
+lelement du temps dt soit exprime par Ξ· Que les trois corps enserme's se trouvent a pre'sent aux 1
+
+points P, Q, R, et designons les distances ΟΡ par m, OQ par y· et ΟΒ par z; nous en ιὶτετοηὲι ἰ
+
+ 
+
+(1’31)οι·(1 les vitesses rotatoires‚ car celle du corps en P sera =ss2 en Q=⁹¹;“‚ et en R=ssq
+
+Enfin, soient les vitesses propres 3 chaque corps dans le tube
+
+celle du premier corps en P=Vp
+du second en Q=Vq
+du troisieme en R=Vn
+
+1
+La consideration du mouvement nous fournit 3 present d'abord les equations suivantes ··! 1,
+
+dtszxl-‚s ‹13:3³2› ‹12:3⁶2-
+
+Or, ci-dessus nous avons trouve (12:33, de sorte que nous avons deja quatre equations. Cependanv
+
+le nombre des quantites inconnues ou variables: t, s, α, oe, γ, z, p, q, r se monte ἐι neuf3 il nous ·
+
+faut, en consequence, encore quatre e'quations pour la solution du probleme.
+
+§ 26. Comme tout changement qui sopere dans ces mouvements, vient uniquement des pres--¹
+sions avec lesquelles les corps poussent le tube, et en sont egalement repousses, il saut avant tontes,
+choseS‚ determiner ces pressions. Designons les par les memes lettres qui, dans la figure marquent5
+
+leurs lieux respectifs, c'est a dire, soit ι Ι s}
+la pression du corps en P=P ἱ , ’ ”ι ’.’
+celle du corps en Q = Q
+
+et celle du corps en R = R
+
+et concevons que, par l'effet de ces pressions, le tube est repousse ou retarde, et qne partant le
+
+mouvement rotatoire de chaque corps est accdi re En tant que ces pressions agissent sur le tube,
+
+ 
+
+ 
+
+il en faut considerer le moment qui seia - -Ρω-ι-Ωγ-ι- Rz, d'ou resulte la retardation du tube au
+point S =·(Px*ss⁹kk4 mn, et par consequent, pendant que le point S parcourt l’espace ds, 83 re·¹
+
+tardation sera exprimee par cette equation ,1
+
+(Px -ο- Qy -ι- Rz) [ds.
+Mkk
+
+. 1
+
+du:—
+
+ 
+
+ 
+
+Or, le point S qui, sans cette retardation, aurait parcouru, de son mouvement uniforme Vu, Pes-i
+
+pace ds, parcourra a present un espace moindre
+
+f(Pae-i- Qu -ι- Rz) 01³²
+
+'5⁸ Ξ ‘²⁸ ““ Mu 4κ’
+
+,Α .-
+.- . , ...μ
+

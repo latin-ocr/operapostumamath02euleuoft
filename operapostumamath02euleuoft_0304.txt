@@ -1,0 +1,68 @@
+288 ’ L. EULERIOPERA PosfflUMA.. mamea,
+
+207. Scholion 3. Effectus corporis N in motu corporis M perturbando es't ceteris> paribus
+maximus, si vel distantia MN = w, vel LN=u suerit minima, hoc est si corpus N vel ad >M vel
+ad L proxime accedat3 priori autem casu effectus'major erit quam posteriori, quoniam w tantum in
+denominatore nostrarum formularum inest, u vero etiam numeratores afficit. Quodsi igitur L sit
+sol, M planeta quidam primarius et N cometa ‘in plano ‘orbitae planetae decurrens, motus quideul
+planetae maxime turbabitur, quando cometa 'ad eum proxime accedit} verum etiam dum cometa
+prope solem praeterit, perturbatio erit co major, quo vicinior >fiat soli et >q'uo major suerit ejus
+massa. lta cometae nou solum in perigaeo *motum terrae perturbant, sed etiam in perihelio. Ceterum
+si fieri posset, ut alterutra distantiarum w et ιι prorsus in nihilum abiret, formulae nostrae omni usu
+destituerentur, quandoquidem perturbationes fuerint infinitae. Casus hic‘locum esset habiturus, si
+corpus N subito alteri corporum L vel M ita? jungeretur, ut in unum coalesceret, qui etsi per-for*
+mulas nostras inexplicabilis videtur, tamen 'in se est facillimus, propterea quod dum dno tantum
+aderunt corpora, motus erit regularis, in sec-tione* conica procedens, ‘quanquam haec sectio conica ’
+diversa erit ab illa, quae ante accessionem massae N fuerit descripta. Atque hic casus, etsi nonnis} ς
+per miraculum locum habere potest, dum massa alterius corporum L vel Mmaugeretur, expendi
+
+merctur.
+
+208. Problema. Si dum corpora L et M se mutuo attrahentia motu regulari seruntur,
+alterius vel utriusque massa subito augeatur vel minuatur, definire motum subsecuturumq. 2
+
+    
+
+Solutio. Hactenus ergo corpus M ex L visum descripserit sectionem conicamwBM, cuius ζ
+
+semiparameter sit = p, excentricitas =q et longitudo absidis ALB=a3 nunc autem sit corporis Ι
+14: cose ἶ.
+tum vero expositis horum corporum massis per litteras L et Μ, tempusculo dc describeretur angulus
+
+ 
+
+M longitudo ALM = ῳ et distantia LM = v, erit anomalia vera BLM = q2—oe= s et v =
+
+elementaris MLm— - ἀφ- - ds— = — gch29P (L -ι- Μ). Jam hoc momento perpendatur corporis M situs
+
+ac motus; situs quidem cum distantia LM=0, tum angulo ALM= φ definitur, ac motus primus<
+directione seu angulo BML, tum vero celeritate ipsa per Mm determinatur Sit ergo augum
+BML=⁷7 et celeritas in M -e’ ita ut jam hae quatuor quantitates o, φ, η et s· tanquam data·
+sint spectandae, ex quibus praecedentia motus elementa definiri debent, ac primo quidem dum cm·-¹ ·
+porum massae sunt L et M, deinde vero dum massae sunt mutatae, puta L' et MC ,Primo igitur?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+habemus ι Β ¹ ., .
+tangn=⁸2³22 sed ob φεμ-Ρ est dv: ⁹⁹d³⁸¹⁰⁸22²⁶ y
+qcoss Δ . (με-910093) ἱ .
+quia crgo est ds = ἀφ, erit ’
+tang η = ν’(ἱ -4-ᾳοιιε.ι)’2 = 1 -i—qcoss·
+pq sins quine
+, ’ , , ’ . ’ · ’ . - ...nd ς
+Deinde hinc est Mm=ffi=1452P00„ls(¹-1-2‘10085-1-:11‘1L2idwq00.·05²¹015t³⁸ ¹ a · Μ, ,Δ
+, , = ν f . ’ ⁷ · ⁴ · f ' = · ⁵ inp
+ε = ξε ww mV2qp (L÷ M) ε--ᾲ--ψγὴρ(ἱῖᾔ)4(-19”“ο“οῗὲ)ω”””“ῃ)» seu πήξει-ἶ n) < ἑ cun ί
+
+ 
+
+ 
+

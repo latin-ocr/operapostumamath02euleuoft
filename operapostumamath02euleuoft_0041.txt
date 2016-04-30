@@ -1,0 +1,61 @@
+ 
+
+Stattba. ’ , , ῑ 25,
+
+. 13428. Scholion 9.· Ex· hoc: principio omnes casus potentiarum virgae rigidae non in eodem
+puncto applicatarum resolvuntur. Cum enim punctum. illud, quo sese mutuo intersecant duae po·-
+tentiae, nonnisi. imagini opituletur, cuicunque figurae poterit affingi ‘tan-tum planum, ,quantum sufficit
+3ι1 punctum intersectionis excipiendum.
+
+¹. 129. Divisio. Divido hanc Sectionem in (1333 parteS, prout virga vel libera sit, ut omnibus
+potentiis aeque facile cedere valeat, vel 31ι obstaculo utcunque impedita. Utramque partem iterum
+
+subdividere convenit pro figura virgae, utrum„ eae recta· sit an, curva. Quos casus omnes in hac
+
+sectione evolvam, aut ad minimum principia praebebo, quibus singuli casus resolvi poterunt.
+
+¹30. Problema 15 Fig. 72. Si virgae rectae AB duae potentiae AC, BD applicatae suerint,
+
+, in eodtm plano positae, oportet applicare potentiam OM duabus datis aequivalentem.
+
+. 2 solutio. Producantur CA et DB donec se mutuo in a intersecent. Considerari erg ὀ potentiae
+
+’ AC et BD possunt quasi puncto a applicatae (128);1’ἱ31 igitur ac=AC et ad: BD, quae poten-
+''ti-as datas tanquam in α applicatas exhibent. Ducatur cd, eaque bisecta in e, ducatur ae, cujus
+
+duplum qm exhibet potentiam duabus ac, ad aequivalentem (38). Transferatur haec in ae producta
+in OM quae adhuc aequipollet duabus ac et ad (128>; aequivalet igitur quoque potentiis AC
+
+etBD. Q...E1
+
+131.co1·011.1. Quia potentiae datae in eodem plano positae esse debent (12'7),*⁰patet‚⁴ pro
+potentiis ιιοιι ‘in ‘eodem plano 'sitis‘ aequivalentem inveniri ιιοιι posse. Ponatur- enimdari potentiam
+'aequivalentem duabus ιιοιι in eodem plano sitis, resolvatur'u'traque in duas, ‘quarum‘ una in eodem
+
+plano cum aequivalente, altera ·ἰιι id normalis. Patet thas· normales ab assumta aequivalente non
+
+'compensari posse. quare aequivalens non datur.
+
+132. Col-011 2. Poterit quoque punctum '0 ex hac proprietate inveniriz³1n Aacd, <a recta 'ae
+secto, est sin cae ι sin dae == (36.αά : (16.αο z ad : ac (ob ‘ee -·—= ἀὼς. ΒΒ : AC·(per hyp.) Dein in ΔΑαΒ
+ab a'O -vsecto- ¹ 'est sin cae z sin dae == AO.aB: BO.aA; unde. ‘conficitur BD : AC =A 0.an ; ΒΟ.αΑ.
+Est vero aBzaA = sinBAaisinABa=sin CAB:sinDRA; ,ergo erit BDzAC=A0sinCAsszssosinDBA;
+consequenter AO: Bo..- -·- BDsinDBA: ACsin CAB3 est ergo AC. AO sin CAO— — BD. ΒΟ sinDBO: factum
+
+AC m AO et sin CAO vocatur momentum potentiae AC respectu puncti O. Ergo momenta vis et
+
+ultra O debent esse aequalia.
+
+¹ - 133. Coroll- 3. Fig. 73. Definito hoc modo puncto O, in quo potentia aequivalens applicari
+debet, magnitudo ejus et positio sequenti modo facilius invenietur: Ex B ducatur Bc parallela et
+aequalis ipsi AC3 ducta cD et bisecta in e, ducatur Be, cujus duplum erit Bm; huic ex Q aequalis
+et, ξιιμ-311313 ducatur OM, erit baec potentia aequivalens quaesita. ’ ’
+Seript ad marg. ad Fig. 711. Momentum potentiae BA in 0 aequatur BA. ΟΕ, 'demisso
+OE perpendiculo in BA productam. , , =
+134. Col-011. 11. Fig. 75. Si potentiarum applicatarum directiones AC, BD fuerint inter se
+parallelae, erit sin CAB- - sin DBA, adeoque erit AO: BO= BD: AC, seu est AC. AO— - BD. ΒΟ.
+Dein, quia in hoc casu Bc (Fi‘g. 73) incidit ιιι BD, incidet qnoque Bm in BD, eritque ’ ’
+Βηι--ΑΟ-ι-ΒΒμ-ΟΜ. ’ ’
+
+nani ιιομροηιωωτΛι. 4
+

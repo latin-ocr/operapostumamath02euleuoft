@@ -1,0 +1,91 @@
+ 
+
+Statz’ca. 2 l
+
+105. Exemplum. Sit Q = hae, erit γγ -ι- oeoe (1—hh) -ι- 2oe (b—ah) -ι- bb — aa = 0, quae
+aequatio, si 1> Ιι, est ad ellipsin, si autem 1 <h‚ 'ad hyperbolam3 si vero 1=h, ad parabolam.
+
+Erit tum yy=2oe (a—b)-}-aa—bb; erit ergo ΒΟΞα-’ἐὲΞ et DB=⁶ss2⁰ffi Sit
+BP=t=x÷⁰-}‘-'‚ ergo oe=t—⁰—{E, consequenter yy=2t(a—b);ss
+
+est ergo curva parabola, cujus parameter =2a—2b. Facta ergo Fig. 55 parabola 0130, cujus
+axis verticalis BC, constitui debet punctum fixum D in foco. Punctum C autem ubi lubet accipi
+
+potest. Et dein longitudo fili erit =2BC÷2BD, atque hoc modo parabola satisfacit. Sin autem fuerit
+b—ah V-bb—fl-aa
+ι -
+
+ιιι. - ω. - 1
+per D transeunte.
+
+² erit a = hb et 37(wa = b ÷ ae, seu by = (b—r-oe) V(aa — bb) pro linea recta
+
+ 
+
+106. 'rhem-ema 13. Fig. 56. Si duo pondera Ο et 0, filo rigido Oo alligata, incumbant
+= ‘respective planis inclinatis AB et Ab, erunt ea in aequilibrio, si fuerit O ad ο ut (ducta horizon-
+} tali Bb) factum ex BA in cos.AOo ad factum ἐκ Ab in cos.AoO.
+
+Demonstratio. Accepto in 00· puncto quocunque D, patet ad aequilibrium obtinendum,
+, punctum tanta vi versus o trahi debere, quanta versus O trahitur. Etenim ut O in statu suo con-
+servetur, oportet ut filum OD ad D certa vi trahatur. Sed 0, quia descendere conatur, filum oD
+
+ι certa vi trahit3 hae ergo vires ad aequilibrium obtinendum aequales esse debent. Vis autem, qua
+
+ 
+
+3 ergo ut sit
+
+O. sinABb osin AbB
+
+1 ⁵ OD versus D trahi debet, est = cosm—03 vis vero, qua o filum Do tendit, est = cosAoo
+
+zzzssb=⁰c⁵gffg3 sed sin ABbtsin AbB=Ab:AB‚ ergo
+
+O ε o Ξ AB cos Aoo :Ab cos Aoo. Q. E. D.
+
+· Oportet
+
+ 
+
+ 
+
+ 
+
+ 
+
+cos Aoo cos Aoo
+sin Am> ³ εἶα-,Μ’
+
+ 
+
+107. col-oll- 1. Ex demonstratione patet esse etiam O:o==
+
+Script. ad marq. Corollarium hoc in theorema, theorema vero in corollarium mutetur.
+
+108. Col-oll- 2· Fig. 57. Si «lineae AB, Ab fuerint parallelae, obtinebitur ob sin ABb—-sin AbB
+et cos Aoo = — cos Aoo, haec analogia Ο : o = — 1 ε 1 i. e.¹ Ο = — 0, seu alterutrum corpus sur-
+
+sum tendere debet, ut figura annexa monstrat.
+
+109. coron. 8. Fig. 58. Si altera linea Ab fuerit horizontalis, erit ABzAb= 0: 1, hincque
+
+Ozo= 0.cosAOo:cosA00. Quia autem 020 datur, oportet ut sit cosAoO=0 'seu ang. AoO rectus.
+
+cosAOo · cos Aoo
+
+110. Col-011. 11. Fig. 59. Si altera linea AB fuerit verticalis, erit O:o= ——1—.sinAva ergo
+
+ 
+
+cos AOotcosAoO=O.Ab:o.AB. Constructio hujus ex sequenti generali patebit.
+
+K 111. Col-oll- 5. Fig. 60. Sint latera AB, Ab utcuri'que posita, et Bb sit l1orizontalis; oportet
+sit 020=ABcosAOo :AbcosAoO, erit· cosAOozcos Aoo: O.Ab:o.AB. Ad 00 erigatur normalis
+
+OE, ipsi bA productae in Ε occurrens. Erit
+sinEOA = cosAOo et sinAEO = cosAoO;
+
+sed sinEOA:sinAEO=AE':AO. Ergo haec habetur analogia¹ AE:A0= O.Ab:o.AB. Datur *igitur
+ratio ipsius ΑΕ ad AO, unde haec oritur constructio. Cum detur ratio ponderum, producatur
+

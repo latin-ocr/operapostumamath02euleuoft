@@ -1,0 +1,105 @@
+Sept chapt'tres d'un ouvraqe de dz'optrique. Chap. 3. 633
+
+κγ
+
+-yj 68. 1³³¹re Beflexion. ΙΙ est extremement difficile de decidet en general, quelle valeur on
+
+    
+    
+   
+   
+  
+     
+   
+     
+   
+   
+   
+   
+    
+  
+ 
+   
+
+obit donner au differentiepl dn, pour que ’13 raison η-ι- dnzi exprime 13 refraction des rayons
+
+j'sn'iets, et celle-ci n—‘·dn:1 la res-raetica des rayons rouges, pendant que n=1 est 13 raison de
+‘⁸‘ raction des rayons moyens( On est bien 333313 que si la refraction se fait de l'air dans 13
+
+{ti
+t
+
+rre, et que la refraction moyenne soit en raison de 1,55 3 1 ou bien n=1‚55‚ alors il faut
+1
+
+33(11·3 dn- — ¹5⁰3 mais pour le flintglas d’Angleterre, dont 13 refraction moyenne est en raison de'
+
+l: 0 3 1 ou n=1,60, 03 pretend que 13 valeur du differentiel dn est alors 3 peu, pres :5⁰3
+
+· cette determination ne parait pas encore assez constatee. D'autres experiences semblent plutot
+
+1
+
+·'=rmer cette hypothese, que si 13 raison de refraction des rayons moyens en passant de l'air
+
+ῘΡ ss un milieu transparent quelconque est =n: 1, alors il y aura dn=”(m2³ff¹)
+
+{n proportionel 3 n(nn— 1). Mais pour ne pas astreindre mes recherches 3 une hypothese, qui
+
+ 
+
+2 ou simplement
+
+*strant etre fausse, je ne determinerai rien sur 13 valeur de ces differentiels‚ et si 13 raison de
+
+’ἓ taction est =n:1 pour les rayons moyens‚ j'employerai en general pour les rayons violets 13
+2
+
+i'sf‘son n—ff-dn: 1 et pour les rouges celle-ci η- dn: 1. ·
+
+1»
+
+’11 ,3, violette et moyenne. Pour cet effet soit Rr (Fig. 260.) l'image rouge, et Vv 13 violette‚ 13
+
+ik! az
+
+² 3333 etant Fg 3 13 distance AF =a, et 33 grandeur Fg τ- 333 et j'observe d'abord que tant
+
+69. 11⁶0 Rdflexion. Considerons plus attentivement le rapport, qui se trouve entre les imagos
+
+,ζ’ intervalles FR et FV peuvent toujours etre regardes comme eganx, que les differences entre les
+
+ι ,333 Βν-Ρζ et Fg— Vv, puisque cela est conforme 3 13 nature des differentiels que nous
+
+, ¹ loyons pour exprimer 13 difference dans 13 1311331103 des differents rayons. Donc par 13 solution
+
+probleme nous aurons.
+
+aggi-agan et AV=a-“(‘²*“)‘3¹L²‚
+-)a η(η-1)α
+
+ 
+
+η . « ἈΒὲε-α-ι-
+
+ 
+
+,ζῬοιιι· 13 grandeur (133 images:
+
+Rr= Fg-1-‘JE' Ρζ et Vv-..Fg-ffl Fg.
+
+' vite il est evident que tout l'espace RV est rempli d-'une infinite dimages moyennes entre les
+¹ Ᾰ ⁶ ἰιι33, qui seront toutes terminees par une ligne droite νζν, dont il sera important de remarqner
+ἶ rsection o avec Paxe, puisqu'alors en sachant l'image principale Fg, la grandeur de toutes 133
+‚ es se* determine le plus aisement. Or par le 12r Chapitre 11 est clair que cette intersection o
+' fue precisement dans 13 centre de courbure de la surface PAP, puisque 13 rayon εαο doit
+j] 113111331 passer par les extremites de toutes les images, cette propriete etant independante de
+δ’ , ison de refraction. La meme chose suit aussi des formuies trouvees ici, en faisant cette pro-
+
+⁶ on: Rr-ngFR=Fg: Fo, ou bien:
+aa? th —adzy—a) Ξ nga—s'
+· zque Fo=a-f'et pai-tant Ao=fi
+,ι ικιιοιιορψοσιιιωιται. 80
+
+ 
+

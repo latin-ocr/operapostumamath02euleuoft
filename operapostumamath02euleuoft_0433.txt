@@ -1,0 +1,80 @@
+1
+1 ..1, Sur les, ine'qalt'tds dans Ic mouvement cles planetes, 417
+
+1⁴⁸0» Les forces dont nn corps cc'leste est sollicitc', e'tant donndes, trouver lc mouvement (16 ce
+{ff . corps.
+
+lspr suivant 13 theorie de N ewton, on peut regarder 663 forces comme conones, puisqu'on ne sau-
+vsst' plus deuter, que tous les corps celestes ne s’attirent mutuellement en raison reciproque des
+
+ 
+
+Ques de leurs distances.
+
+1111 lt. Pour resoudre cette question, il convicndra de conside'rer deux cas: l'un, 011 16 mouvement
+ᾧ corps se fait toujoursdans le meme plan, ce qui arrive lorsque les forces sollicitantes se trou-
+ffi't (13113 66 meme plan. L’autre cas est' plus general et comprend les mouvements qui ne s'e'ffec..
+¹ant point dans un meme plan3 ce qui arrive ‚lorsque les forces sollicitantes ont des directions
+
+,wlconqueffi dont la moyenne ne tombe pas dans le plan 011 16 corps se meut ἐι chaque instant.
+
+      
+
+1 (11161 (1116 soit le mouvement du corps, on peut toujours concevoir un plan dans lequel le mou-
+vfiment ait lieu pendant un temps infiniment petit! ct c’est 3 cette variation du plan, qu'il faut
+'⁸1⁸ egardvdans la determination du mouvement du second cas. Je tacherai donc de developper
+Q regles les plus sures pour determinet· le mouvement dans l'un et l'autre cas, et je commencerai
+
+ᾗ· 16 premier cas, puisqu'il est 16 111113 simple et qu'il servira de gulde pour la resolution de l’autre.
+
+' ⁵ 5. Ριοωὲηιε 1. (Figu-218) Le corps etant sollicite par des forces quelconques donnees qui
+l* le sont decrirc 13 ligne courbe AQ situee dans lc meme plan, trouver les changements
+j instantanes de ce mouvemenfl
+l Solution. Qu’on choisisse dans le plan ou 16 mouvement se fait, un point fixessC >auquel on
+*1·-'s··rte le mouvement du corps. Pour cet effet, l'on tirera par 16 point C une ligne droite fixe
+
+’ 111113, et·l'on connaitra pour chaque temps propose, le vrai lieu du ,corps Q, lorsqu’on pourra assi-
+
+   
+
+11, tant sa distance CQ au point fixe C, que l'angle ACQ qui exprimera en astronomie la longi-
+
+ign du corps Q. Soit donc 13 distance ‚60:ae et l’angle ACQ= cp, et que t marque le temps
+
+1-*51 6 depuis une certaine epoque 011 6613 arrive.
+
+1 ζ’, Ensuite, quelles que soient les forces (1111 sollicitent le corps cn Q, puisque' le mouvement 36
+111ῗ’“” dans le plan ACQ, elles se pourront toujours reduire 31 deux forces, dirigees dans le meme
+
+ll> ῐ’61113116 a QC. Comme 11 116 s'agit ici que de forces acceleratrices, soit 13 force acceleratrice
+
+lg , 361011 QC = P
+l s, et celle qui agit selon QV= Q
+
+’ [2800 sera de ces deux forces qu’il saudra deduire le mouvement du corps, ou les valeurs des
+
+61 31 et φ 110111· un temps quelconque.
+J 42⁶⁴ Pour ramener cette recherche aux premiers· principes de la Mecanique, on doit rapporter le
+'¹ ··ent ἐι (163 6001·ᾱο1111663 orthogonales: Qu'on tire 3 cet effet, du‘point Q sur 13 droite fixe
+
+l lv) 13 perpendiculairc QP, et ἐι 631136 (16 CQ=oe et l'angle ACQ== φ, ou aura CP=oecosq> et
+
+· · ' ἴ =oesin φ, valeurs que nous designerons‚ pour abre-ger,
+
+(1.1 1’311361336 C P = ω 603 φ 1131· p
+ι, 1’01·(10111166 PQ = ω 3111 φ 1131· q.
+
+V
+
+53
+
+10. Eulerl Op. posthuma 1211.
+
+1
+
+l
+1
+Ξ
+
+⁴> , dont l'une tend directement vers le point C selon QC, et l'autre selon la direction QV‚-per- '
+

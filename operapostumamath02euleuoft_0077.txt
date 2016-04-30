@@ -1,0 +1,61 @@
+ 
+
+De motu corporum circu punctum fimum mobilium. 61
+
+Problema generale.
+
+Corporis circa punctum fixum 0 mobilis et a viribus quibuscunque solli·-
+
+citati definire motum.
+
+solutio. (Fig. 124.) Assumantur in corpore tres axes se mutuo in puncto fixo 0 normaliter
+secanteS, qui sint oA, OB et OC, secundum quos cujusvis elementi Z corporis situs definiatur ternis
+coordinatis OX, ΧΥ et YZ illis axibus parallelis. Sit massa elementi corporis in Z siti :dat
+ejusque ternae coordinatae ΟΧ =ae, XY=y et YZ=z. Tum ex figura et indole corporis eolli-
+’ gantur per integrationem pro toto corpore valores sequentium'sormularum, ubi M denotat massam
+totius corporis: —
+s(yy -ι- zz) dM= Mff, syzcle Mu, Ι
+s(oeae -ι- zz) dM= Myy, ’ soesz= Mmm,
+s(oeae —i— yy)dM = Mhh, soeydM = Mnn.
+
+His valoribus inventis ponamus (Fig. 125) elapso tempore ternos axes corporis in spatio absoluto* tenere
+· situm ΟΛ, OB et OC, qui ita respectu ‘poli fixi α et quasi meridiani fixi αβ sit comparatus, ut sit
+
+βαΑεεν, aA=p et aAB=q
+
+nuncque considerentur vires, quihus corpus sollicitatur, indeque momenta respectu ternorum axium
+corporis colligantur. Sit igitur
+
+Momentum circa axem OA in plagam BC=F
+« « « OB « CA = G·
+α , α « OC « AB = H,
+
+¹ quae virium momenta plerumque ab angulis p, q, r seu situ corporis in spatio absoluto pendent,
+
+⁴ neque idcirco pro cognitis accipi possunt. Porro vero aliae tres quantitates P, Q, R in computum
+
+ 
+
+duci dehent, quae ab istis angulis p, q, r ita pendent, ut sit
+Pdt = dr sinp sinq — dp cosq, th = dr sinp cosq -ι- dp siml, Rdt = dr cosp — dq.
+
+'Denique vero inter virium *sollicitantium momenta F, G, H et has quantitates sequentes intercedunt
+relationes
+
+F {ff-Z74÷(hh-99)PQ÷zz(PP—QQ)'
+ff: —mmf—'f—meR—nnff—Q-s-nnPR
+at dc
+
+a {99 ,ἔξ-ι- (ff— hh) PR -ι- mm (RR—PP)
+
+ΞΜ -ηηῧξέ-ηηΡρ-ιιξζ-’ψιιριῑ
+
+dn
+
+— -ι- mmPQ.
+
+Η {hh-23÷(99—ff)QR÷nn<QQ—RR)
+α,
+
+-ιι·ξ-ιιΡΒ-ιηηι.
+

@@ -1,0 +1,53 @@
+18 L. EULERI OPERA POSTHUMA. Machanica. ’ἶ
+
+89. coroll- 2. Ex solutione manifestum est, conferendo cum ea § 8³, quanta vi obstaculum ]
+AB, in quo vis casu prematur, nempe applicata potentia OK vel OM, obstaculum premetur vi, quae ἐ
+exponitur recta HK vel HM. Cum in priori casu sit HK :OE—OG, in posteriori HM=OE÷OL. .
+
+90. Col-011. 3. Fig. 145. Si ergo fuerit obstaculum* ΑΒ ad horizontem inclinatum, eique in-
+cumbat punctum grave 0, seu cui applicata est potentia verticalis OC: patet, quomodo id in statu
+quietis servari debet. Erecta nempe verticali OH-= OC, ducatur infinita HR, directionem AB ob-
+staculi in F normaliter secanS. Quaelibet recta OK, OM, ex O ad hanc HR ducta, exhibet poten·
+
+tiam,¹ cum OC statum quietis servantem. Et loco harum potentiarum poterunt pondera adhiberi (12).
+
+91. Scholion. Facile patet, quare perpendiculum HF in plagam R in· infinitum liceat pro-
+ducere non item ultra H. Cum enim pressio, quam sustinet obstaculum AB, sit proportionalis ipsi
+KH electa potentia ΟΚ. Si ergo applicetur potentia OH, pressio haec evanescet. Siu autem po-
+tentia ultra OH accipiatur, vis obstaculum premens erit negativa. Ergo (814) puuctum O directe ab
+obstaculo removeretur.
+
+92. 'theorema 11· Fig. 126. Puncto O obstaculo AB adjacenti, applicatis potentiis CO, OD,
+
+id in quiete conservantibus, erunt potentiae OC et OD inter se reciproce ut cosinus angulorum doc,
+BOD, quos cum AB constituunt.
+
+Demonstratio. Cum OC et OD quietem conservent, patet ex solutione problematis praece·
+
+dentis, demissisin AB perpendiculis (ΖΕ, DF, sore OE = OF. Est autem cos ΑΟΕ--Ξ-Εό et cos BOD=Q
+
+unde erit cos AOthosBOD=OE.OD:OF.OC=ODtOC. Ergo OCzOD=cosBODtcosAOG Q. EGO).
+
+93. Col-011. 1. Obstaculum autem AB premitur¹ potentia, quae est :GE—Dm exprimit
+autem ΟΕ tangentem anguli AOC et DF tangentem anguli BOD, ob radios ΟΕ, OF aequaleS.
+Premitur ergo obstaculum AB potentia, quae est ut tang AOC-—tang BOD. Cavendum igitur, ne
+haec expressio negativa evadat, quo in casu O ex. statu quietis exturbabitur (91).
+
+91». col-011. 2. Fig. 47. Si fuerit planum ΑΒ, cum horizonte ΑΕ angulum BAE constituens,
+eique incumbat grave 0, seu cui applicata est potentia verticalis OC, trahaturque O quoque a pon-
+dere P secundum OD. Ad id, ut O in quiete servetur, requiritur ut sit pondus P ad pondus
+puncti O, seu ad vim, qua deorsum niti supponitur, ut cos AOC : cos BOD=siu BAEzcos BOD id
+est, ut sinus anguli inclinationis plani, ad cosinum anguli, quem directio OD cumqplano AB conficit.
+
+95. col-011. 3. Fig.1÷8. Si ergo angulus DOB evanescit, recta DO incidente in AB, erit
+
+cosinus hujus anguli = sinui toto. Erit ergo B ad pondus ipsius O ut sinus ang. ΒΑΕ ad sinum
+totum, i. e. ut BE ad AB.
+
+96. 'theorema 12. Fig. 49. Si fuerint duo pondera O et o, planis inclinatis AB et ab
+incumbentia, cumhorizontalibus AE, ae angulos'BAE‚ bae constituentibus, sintque ea pondera O
+et ο juncta filo ODo, supra clavum firmum D protenso, aequilibrium habebitur, si ex utraque parte
+
+factum ex pondere in sinum anguli inclinationis applicatum ad cosinum anguli, quem filum cuin
+directione plani constituit, fuerit idem.
+

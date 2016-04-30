@@ -1,0 +1,52 @@
+De motu corporum in tubo mobili circa axem fixum. 87
+
+matres circonstancesqui pourraient embrouiller le calcul, afin que, parce moyen, l’application des
+‘principes de la Meeanique devint plus aisee et plus propre 3 eclairer une nouvelle partie de cette
+‘'science. ’ ’
+¹ ’ § 5. Dans ce nouveau probleme, dont j'entreprends ici la solution, on considere un tube droit
+'dans lequel un ou plusieurs corps puissent se mouvoir sans aucune resistance‚ de sorte que ces
+· f c',orps demeurant ensermcs dans le tube, en suivent partout 13 mouvement, pendant qu ils se meu-
+* vent le long du tube, selon que les forces sollicitantes l’exigent. Ce tube sera suppose mobile
+1 autour d'un axe 1133, perpendiculaire 3 l'horizon, et passant par lun de ses bouts3 (1ὀ3 il est clair
+, que le mouvement de ce tube se fera toujours dans un plan horizontal. Nous avons choisi cette
+’ s'ituation, pour ecarter les effets de la gravite, et partam, tout changement qui arrivera dans le
+*incurement du tube et des corps y enfermes‚ viendra uniquement et des pressions que les corps
+‘¹ exercent sur le tube, et de celles qu ι13 en souffrent reciproquement. Mais avant que de determiner
+, ‘les mouvements de plusieurs corps enfermes dans un tel tube, je donnerai ‘la solution du probleme‚
+ξ '01¹1'ss n'y a qu’un seul corps'3 cela servira 3 33 former une ldee plus claire de la methode que
+f 3’mploirai, et 3 mieux connaitre l'etat de la question¹ dont il sagit, et des difficulties qu'il faudra
+,ἶ sumentem ’ ’
+’ Ριόίιιὲιιιε 1. De'terminer le mouvement d’an corps cnserme' dans an tube mobile autom· d’un
+’ aaee lime certabat, apres avoir donne' un mouvement queleonquc tant αα tube qu’au corp-5
+enf'crme'. ¹ ⁷
+§ 6. (Fig. 1²03.) Que la droite OF represente la position du tube 33 commencement du mouvement,
+
+, comme ’13 mouvement du tube est rotatoire autour du point fixe 0, les vitesses des parties du tube
+'seront entre elles comme leurs distances 3ιι point 03 de sorte que, connaissant la vitesse rotatoire
+ε ⁴(lu boutF, on connaitra en meme temps la vitesse de tous 133 autres points< Soit donc la vitesse
+
+ 
+
+= que 13 point F a eue au commencement = Vq, οὺ 9 signifie 13 hauteur par laquelle uu corps tomhant
+¹ acquiert 13 meme vitesse que nous donnons 'au point F. De 13, 03 tirera 13 vitesse du point
+
+ᾗ Α —a—tsy
+ἶ Ι
+= le corps peut avoir recu⁷ outre ce mouvement commun avec le tube, un mouvement particulier
+
+qui doit etre commune au corps enferme que nous supposons avoir ete alors en A. Mais
+
+,ἵ 33133 13 direction du tube. Soit donc Va 13 vitesse que le corps 3 recue‚ au commencement, dans
+
+13 direction AF, outre 13 vitesse Ψ qui lui est commune avec le tube. Composant maintenant
+333 deux mouvements comme 3 lordinaire, ou aura le mouvement vrai du corps· donc 13 vitesse sera
+
+Ρ εξΥ(α-ι--), et 13 direction fera avec AF un angle dont la tangente sera εἶχ’ supposant‚ ce
+
+κ que je fais toujours, 13 sinus total egal 3 l'unite.
+
+§ 7. Cela pose, on voit aisement que ces deux mouvements doivent etre bientot troubleS, car
+13 corps enferme, s'eloignant du point 0, acquerra un plus grand mouvement rotatoire, et cette
+augmentation ne se pourra faire qu'aux depens du mouvement du tube, de sorte qu'un changement
+continuel devra nesessairement arriver. Supposons qu'apres quelque temps, le tube soit parvenu dans
+

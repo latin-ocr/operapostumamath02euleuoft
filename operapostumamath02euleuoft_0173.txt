@@ -1,0 +1,84 @@
+ 
+
+De'termt‘nacion de l’effiec d’une machine hydraulique. 157
+
+la multiplier par 13 masse de l'element Min Nn=zz ds, pour avoir 13 force motrice dont l'element
+} d'eau Mm Nn pousse suivant 13 direction NS perpendiculaire 3 13 tangente du tuyau.
+
+Dono cette force metrice selon NS qui resulte de l'element d’eau Mm Νη sera:
+
+ds 4ffd³ 22⁴ du
+
+2f⁴vffi— Vav÷aTYY3²dae-aa21suY²de·
+
+ 
+
+ 
+
+a
+
+Cette force tend ἐι tourner le tuyau autour de l'axe 0 dans 16 sens AG, et partant ἐι acceleret· 16
+4 mouvement de rotation du tuyau qui se fait dans le meme sens, Le moment de cette force, pour
+
+produire cet effet se trouvera done, si l'on multiplie 13 force tant par 13 distance OM=y¹ que par
+
+le sinus de l'angle OMR qui est :3313 ou en tout par ’ΛΞ-Ι· Par consequent, le moment de la force
+elementaire NS sera:
+2san-4ffvdyVUU4Q—v2' zdwdy—-Lu—‚vy 26312
+rzz a a3 ds adt‘tsu da
+
+ 
+
+ 
+
+y Et partant 16 moment total de toutes les forces-de l’eau pour faire tourner le tuyau autour de l’axe
+
+ῖ dans le sens AG sera:
+
+ 
+
+ 
+
+ 
+
+ 
+
+⁷ 3 2
+2r⁴v ξά-ΖΞ-Ξεννναυ-ι-Ξω “0:20111— -1-2affvam
+
+⁰ en prenant les integrales en sorte qu'ell'es s'evanouissent 33 point A, et en les etendant jusqu’au
+dernier bout du tuyau EF.
+
+,C’est l’effet entier des forces de l'eau sur le mouvement du tuyau; car la pression de l'eau p
+· dans le tuyau‚ agissant sur tous les cotes egalement‚ se detruit elie-meme, de sorte qu’il n'y re-
+
+·sulte aucun moment pour (16133361- 16 mouvement du tuyau.
+
+dy — yddoe-r— Qdy dx
+
+—r— aas ‚ supposant l’element ds constant, nous aurons
+
+16. coron. 1. Puisqu'il y 3
+
+ 
+
+y—dy- — yy dax-i-deydae— d yy dat..
+r ads ads
+
+ 
+
+Dono si i'amplitude du tuyau est partout 13 meme 03 bien zz='ff‚ 13 valeur de 13 formule integrale
+
+νέξ sera = 3033,
+suppose xqu’en A il y ait Ξ-ῘΞΟ, 03 que le rayon ΟΑ y touche le tuyau. Or ff marque le sinus
+
+de l’angie AMO, que le tuyau fait avec le rayon' OM en M. Dono si cet angle devient droit en
+
+3 et partant 16 premier terme de l’ex-
+
+E ou OE =b, 03 aura pour le tuyau tout entier [Ξὲἕε ff,
+
+‘pressiori trouvee pour le moment des forces d'eau sera
+
+21⁰⁴ vsffl=2bffw
+

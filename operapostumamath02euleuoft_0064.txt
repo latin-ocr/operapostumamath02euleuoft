@@ -1,0 +1,49 @@
+‘ 48 L. EULERI OPERA POSTHUMA. Mechanica. ⁷
+
+20. Porro exponenda est relatio inter vires motrices et massas, quae cum aeque per se non
+determinetur, sed a mensura arbitraria pendeat, equidem semper cujusque corporis massam per pon-
+duS, quod idem corpus in superficie terrae esset habiturum, exprimere soleo, quandoquidem 'massae
+ponderibus proportionales deprehenduntur, per pondera vero etiam quaevis vires motrices utpote
+quantitates homogeneae exprimi possunt: Hac ergo ratione recepta, primum massae et vires motrices
+
+ad homogeneitatem reducuntur, tum vero etiam quadrata temporum et lineae.
+
+2¹. Temporum autem ratio deducta est ex notione velocitatis, quae in motu uniformi per spa-
+tium ad tempus applicatum indicari solet, velocitas autem ipsa per radicem quadratam altitudinis, ex
+qua* grave labendo parem celeritatem acquirit: unde tam velocitatum quam temporum mensura ab·
+soluta obtinetur, quae ita est comparata, ut quadrata tam temporum quam celeritatum pro lineis
+
+sint reputandae.
+
+22. Hoc igitur principio, cni omnium motuum judicium ita innititur, ut omnia principia me-
+chanica, quaecunque vulgo proferri solent, in eo contineantur, exposito, methodoque‚ qua ad omnis ’Ὗ
+generis motus investigandos, uti convenit, indicata, ad institutum exequendum pergo, ac primo qui-h
+dem motum gyratorium corporum solidorum circa axem quemcunque fixum examini subjiciam. Sit
+igitur (Fig. 122) corpus quodcunque EFGH, quod circa axem fixum Aa gyretnr, quocum unum
+quasi corpus continuum constituere putetur, sive axis per ipsum transeat, sive extrinsecus cum eo
+firmiter sit connexus, ita ut singulae corporis particulae tam inter-se quam respectu hujus axis ‘per-
+petuo eundem situm conservent.
+
+23. Hoc corpus primo consideretur in quiete, et qno singulorum ejus elementorum situs facilius
+in computum duci queat, praeter axem gyrationis Aa statuantur in corpore insuper duo axes OB et
+OC, cum inter se ¹tum ad Aa normales, qui se mutuo in puncto Ο decussent, et corpo'ri firmiter in·
+haereant. Situs horum duorum axium assumtornm‚ aeque ac punctum 0, ab arbitrio nostro pendet,
+perindeque est quomodocunque constituantur. Respectu borum ternorum axium ergo quaevis parti-
+cula corporis certum situm tenebit, qui commodissime per ternas coordinatas bis axibus parallelas
+definietur. Scilicet a particula corporis quacnnque Z demittatur in planum AOB perpendiculum ZY,
+quod axi OC erit parallelum3 tum ex Y axi OB parallela agatur YX, axi oA in X occurrens; atque
+
+situs particulae Z, respectu ternorum axium, per has ternas coordinatas ΟΧ =oe, XY=y et YZ=z
+determinabitur.
+
+24. Pro eadem ergo corporis particula Z hae ternae coordinatae perpetuo eandem quantitatem
+retinebunt, etiamsi corpus utcunque moveatur, propterea quod hos axes qnasi corpori infixos cum ε
+eoque simul moto's assumimus. In statu enim motus hi ipsi axes cum corpore moventur, sed ipso· '¹
+rum respectu quaelibet corporis particula perpetuo eundem situm retinet, per coordinatas ω, γ et z '⁴
+determinatum3 scilicet si corpus circa axem ΑΟα gyretur‚ bic quidem axis ΟΑ quiescit, sed ambo ἕ
+reliqui OB et OC circa eum aequaliter convertentur. Sin antem motus ad genus secundum pertineat, ³
+ita ut corpus circa punctum fixum Ο agitetur, tum fieri potest, ut omnes tres axes in continuo ζ
+
+motu versentur, nihilo vero minus eorum respectu quaelibet corporis particula constanter eundem
+situm conservet.
+

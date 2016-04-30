@@ -1,0 +1,56 @@
+S tatz'ca. 7
+
+36. Col-oll- 1. Potentiis ergo quotcunque puncto applicatis, ut definiatur potentia iis aequi-
+
+valens, oportet determinari potentiam cum iis in aequilibrio constantem, huicque aequalem et con-
+trariam applicari: erit haec potentia iis aequivalens.
+
+37. Coroll- 2. Patet etiam, data potentia quotcunque datis aequivalente, inde inveniri facil-
+lime potentiam, insuper ad aequilibrium obtinendum applicandam, illi nimirum omnibus aequivalenti
+aequalem et oppositam applicando.
+
+38. Col-011. 8. Fig. 15. Si ergo puncto· A applicatae sint duae potentiae AC, AD, com—
+pleaturque parallelogrammum ACPD, diagonalis ΑΡ repraesentabit potentiam ambabus AC et AD
+aequivalentem, ejus enim aequalis et contraria AB cum illis in aequilibrio consistet (32).
+
+Auct. script. in marqine. Hic principium compositionis et resolutionis potentiarum
+inseratur.
+
+39. coron. 4. Poterit ex § 33 eadem potentia aequivalens sine completione parallelogrammi
+inveniri, jungendo CD et ad ejus medietatem E ducendo AE: hujus duplum ΑΒ exhibebit poten-
+'tiam aequivalentem (§ cit..)
+
+40. Definitio 7. Media directae‘o quotcunque potentiarum vocatur directio potentiae, iis potentiis
+omnibus aequivalentis. ⁸ ⁷
+
+101. col-011. Duabus ergo potentiis AC et AD vpuncto A applicatis, media earum directio in-
+cidit in diagonalem AP parallelogrammi ACPD (38). ᾖ ‚
+
+142. Axioma 8. Loco quotcunque¹ potentiarum puncto applicatarum, earum 'potentia aequiva-
+lens substitui potest. ⁷ ⁷ Δ ⁴ ⁷ ⁷
+
+43. Problema 5. Fig. 16. Puncto A quotcunque potentiis AC, AD, AE, AF applicatis,
+invenire potentiam iis omnibus aequivalentem. <
+
+solutio. Duarum potentiarum AC et AD quaeratur aequivalens AG, jungendo puncta C et D
+recta CD, et per ejus medium L ducendo AG= 2AL (38). Substituatur loco AC et AD haec AG
+(32), et eodem modo quaeratur petentia AH aequivalens potentiis AG et ΑΕ (38), aequivalebit haec
+tribus potentiis AC, AD et ΛΕ; quarum loco hac AH substituta (42), porro quaeratur potentia AP,
+potentiis AH et AF aequivalens (38), aequivalebit haec ΑΡ potentiis AC, AD, ΑΕ et AF. Q. E. l.
+
+ῐιῑι. Coroll- Potentiis ergo( quotcunque AC, AD, AE et AF puncto A applicatis, invenietur
+potentia AB insuper applicanda, ut aequilibrium obtineatur, accipiendo AB aequalem et oppositam
+potentiae ΑΡ, datis aequivalenti (39).
+
+¹⁵5. 'theorema 4. Fig. 17 Pu'ncto A tribus potentiis AC, AD et AE applicatis, si ducatur
+CD, eaque in L bifariam secetur, dein jungatur LE, in eaque accipiatur LM= ³LE, 'ducaturque
+AM, hujus triplum ΑΡ exprimet potentiam datis AC, AD et ΑΕ aequivalentem. ’ ”
+
+”emman-atio. Producatur AL in G, ut sit AG= 2AL, erit potentIa AG aequivalens po-
+tentiis AC et AD, ducatur GE. demonstrari oportet primo rectam AM productam in medio II secari,
+et dein 3333( AM tertiam partem duplae AH, seu esse¹ ⁷
+
+“ ” AMzMH=2.1(3⁷8).
+Ex Geometria constat esse sin GAH: sin E⁷AH= GH. AE: EH. AG ex consideratione trianguli AGE3
+sed ex triangulo ALE erit sin GAH. sin ΕΔΗ-τ LM. ΑΕ. ΕΜ. AL, unde haec eruitur analogia:
+

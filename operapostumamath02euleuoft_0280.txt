@@ -1,0 +1,86 @@
+264 L. EULERI OPERA POSTHUMA. Astron-mecla.
+
+177. (toron. 3. Si partes integrales rejiciamus, innotescet vero proxime motus medius tam
+(BG—aa
+
+ditur, idque eo mium, quo major suerit inclinatilir). Linea autem absidum progreditur, quamdiu*
+
+lineae nodorum quam lineae absidum, ac si n=
+
+ 
+
+sit numerus positivus, linea nodorum regre-
+
+sin²e < -}‚ seu ε < 51ιο1ι5’; sin autem fuerit ε > 5li⁰ 45', etiam linea absidum regreditur.
+178. coron. a. Cum sit proxime ἀφ = ds =d6, erunt integralium valeres proximi
+' [ἀφ eos s = sin s, sdq) cos 20 =-{-sin 26, sdgp cos (26— s) = sin (20 — s) et
+
+[ἀφ cos ,(26 -i- 3) --- -g- sin (26 -ι- s) ,
+
+unde praeter motum medium utriusque lineae nodorum et absidum, anomaliae periodicae definiri,
+possunt.
+
+179. Scholion. Hae determinationes recte se habere sunt censendae, dummodo fractio
+GG—GG
+
+eveniat,ffut haec fractio non sit adeo parva, tum jam superiores formulae accuratius evolvi deberem*
+
+ut termini per nn multiplicati simul comprehenderentur3 hoc autem modo in formulas nimis polim,
+
+incideremus. Verum hinc statim ii termini excludi poterunt, qui nullius plane momenti videbuntum'
+
+n==
+
+ 
+
+satis suerit parva, ut termini quadrato nn affecti pro nihilo haberi queant. Sin autem
+
+iis tantum retentis, qui per integrationem insignes co‘efficientes adipiscuntur, cujusmodi est cos(26—2s),
+unde per integrationem oritur Η
+
+duffio—25)— 2⁸in (Qu-2⁸) '1'
+ea-aep. *mm' ’·
+
+sdq) cos (20-2s) =
+
+ 
+
+ιί·
+qui terminus etsi ex ordine per nn multiplicato nascitur, tamen ob denominatorem exiguum ad ordb- ,
+
+nem per n multiplicatum elevatur, Deinde etiam si excentricitas k fuerit exigua, per integratiomq 1'
+
+ulterius productas anguli absoluti satis notabiles *exsurgere possunt. Scilicet integratio scloepcosfflo—s) l
+ducit ad formam
+
+ 
+
+¹³5⁰(20-3) ÷sdq>(2Q-P)cos(20-s) Δ · lb l
+
+1-Μι-ἳβ ίψα-ἳβ ’ 11 ἒ
+
+at in eQ-P continetur membrum (⁴8 ἆ
+anm-u) ⁰2 ³
+
+{nh cos²e cos (QG—s) —
+
+ 
+
+8,, sin²e cos (26 - s), ‘³3
+
+quod per cos(2o-s) multiplicatum praebet quantitatem constantem
+
+ama-u)
+
+ 
+
+ 
+
+÷nlccos²e— ¹6ae sin²e‚ «ι
+
+ita ut inde oritur angulus absolutus , i
+a
+(l ΠΙ( 0⁰8²& -·-³” (126-1: ἢ) εἰηέ) φ l :J
+
+ad motum medium adjiciendus. Simili modo ex formula
+

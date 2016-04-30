@@ -1,0 +1,78 @@
+Astronomt'a mechanica. 221
+
+116. Problema. (Fig. 180.) Si duo corpora sphaerica se mutuo attrahentia A et Β mo-
+veantur in eodem plano, definire eorum motum absolutum.
+
+solutio. Moveantur ambo corpora A et B, quorum· massae iisdem litteris indicentur, in
+⁸plano tabulae, in quo assumta recta fixa OV, in eaque puncto fixo Ο, ad quodvis tempus elapsum
+‚²2⁴³ pro utroque corpore coordinatas orthogonales ΟΧ, ΧΑ et ΟΡ, ΡΒ assignari oportet. Pona-
+mus ergo pro corpore A coordinatas ΟΧ τ- Χ, XA= Y, et ducta AL rectae fixae OV parallela‚
+‘vocatisque distantia AB=9 et angulo LAB= φ, pro corpore Β erunt coordinatae
+
+0P=X÷vcoscp et PB=Y÷osinq0.
+
+Ο
+
+ΑΒ
+
+- Jam quia vis, qua corpora se mutuo attrahunt, est εἴ, corpus A sollicitabitur secundum di-
+
+rectiones fixas*
+
+AB AB .
+
+sec'. ΟΧ vi :5- cos φ, sec. XA vi = 52? sm ‹p3
+Α corpus vero Β sollicitabitur
+sec. ΟΡ vi = :3333 cos φ, sec. ΡΒ vi = {B sin φ. .
+
+ς ξαηιῐο ergo elemento temporis dc constante, habebimus has quatuor aequationes:
+
+29Bdt² ⁷
+
+Ι. dax: W ‚29Bat2 .
+
+eosq), ΙΙ. ddY= vv sincp, ’
+
+ 
+
+ 
+
+111. ddX-i- ‹ida› eosq> =32⁹Ad²² cos φ, Ν. ἀάῩ-ι- (ΜΛ) sin φ = ‘²Jfff sin (p,
+
+99
+
+ 
+
+ 
+
+J unde sublatis ddX et ddY supererunt hae duae aequationes
+
+—29(A÷B)at² —29(A-·-B)dt² .
+
+sm φ,
+
+ 
+
+ 
+
+(1) ‹111³› cosq>= cos φ, (2) ddaesinq>5=
+
+1ι {nibus definitur motus respectivus corporis B, qualis spectatori in A posito esset appariturus, quippe
+ᾖ qui motus per distantiam AB = o et angulum LAB=90 determinatur. Conveniuntque hae formulae
+
+ξι perfecte cum iis, quas in superiori capite invenimus. Definito autem hoc motu respectivo‚ pro ab·
+2 soluto deinceps colligimus
+
+Α (Α-ι-Β) ἀάΧ-μΒᾱά.νο,οεφ-;0 et (A÷B) ddY-1- de.vsingo=0,
+l nc proinde bis integrando
+l (A-o-B)X-=-Boc0sq>=Et-÷-(⁸; et (A÷B)Y-=-Bvsin90=Ft-÷-55,
+
+j* quibus motus uniformis communis centri¹ inertiae corporum in directum declaratur. Ad motum ergo
+
+ἔ absolutum utriusque corporis cognoscendum primo motum respectivum investigari convenit, quod
+ξ etsi jam in superiori capite est praestitum, solutionem tamen ex binis aequationibus hic expositis
+
+ξ potamus. Ac primo quidem haec combinatio (1) . osium—(2) ‚000qu praebet
+
+vsin mammem-v cosqodd.vsin φ = 0,
+

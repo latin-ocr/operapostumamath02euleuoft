@@ -1,0 +1,79 @@
+Astronomia mechanica. 2023
+
+1. Axis transversus sectionis conicae vocatur etiam linea absidum, ejusque terminus alter foco
+3 A vicinior absis ima, alter remotior absis summa.
+
+ll. Distantia soci A a centro sectionis conicae per semiaxem transversum divisa, seu binorum
+ἕ focorum distantia per axem transversum ipsum divisa, vocatur eaecentricitas orbitae, quae ergo nostro
+3 casu numero n exprimitur.
+
+111. Angulus ad focum A, quem recta AB cum linea absidum facit, vocari solet anomalia
+] vera, vulgo quidem bic angulus ad absidem summam refertur. Nihil autem impedit, quominus ad
+absidem imam referamus, quandoquidem corpus B, si orbita fuerit vel parabola vel hyperbola, nun—
+¹ g quam ad absidem summam pervenit, semper, autem perimam-transit. (Fig.177) Ita si C sit absis
+st ima, corpusque ex C ad Β pervenerit, angulum ΕΑΒ vocabo anomaliam veram, quam ergo in cal-
+J ,cnlo' nostro littera s denotat.
+
+lV. Angulus autem ΕΑΒ a recta quadam fixa AE computatus vocari solet lonqitudo, quae
+’ bic nobis littera φ exprimitur. Simili modo angulus EAG est longitudo absidis imae C, unde patet
+longitudinem φ inveniri, si ad anemaliam veram s· longitudo absidis imae EAG addatur.
+
+His praemissis ipsam motus rationem, prout orbita fuerit vel circulus, vel ellipsis, vel parabola,
+· rel hyperbola, investigemus.
+
+73. Problema. Si orbitat, in qua corpus B circa A revolvi videtur, fuerit circulus, definire
+
+rationem motus.
+
+, solutio. Erit ergo excentricitas n=0, et radius circuli simulque perpetua distantia AB=v=f2
+
+,lv unde si ponatur tempus, quo angulus ΕΑ,Β-”-;-φ percurritur, Ξῖ, ob ἀε-τάφ, habebitur
+
+Ῑφή ;’ unde cum tempus sit ipsi angulo φ, ideoque et arcui EB=fcp proportionale, motus
+
+29(A-*-B)
+
+ 
+
+ 
+
+erit uniformis, ejusque celeritas :ger-V 9 quae propterea est directe ut V(A -i-B) et
+
+ 
+
+'' reciproce ut Vs. Ac si tempuS, quo totus cirsculus percurritur, quodque tempus periodicum vo-
+
+catur,'ponatur = T, ob 90:271, erit
+
+Τ- 27tr'2sr -Ξπ 1⁰1ss -,
+‘'m''‘V—QT'W-Fffi'
+
+Ergo ob 3}ss- quantitatem constantem, tempus periodicum est directe in ratione sesquiplicata radii
+⁸ circuli f* et reciproce in ratione subduplicata summae massarum A—i—h' utriusque corporis, Tempore
+· {5:23} quovis tempore t percurritur arcus φ, ut sit φΞΞῖ-τ) unde
+' , ad quodvis tempus t locus corporis Β, ejus scilicet longitudo EAB facile colligitur. Pro mensura
+
+ergo periodico cognito T, ob
+
+Μ temporis absoluta definienda, consideretur ea corporum A et Β distantia, in qua vis eorum
+A÷B
+
+Α ’.ἠ nttractrix aequalis est gravitati, quae distantia sit =d‚ eritque -Ἑΐ = 1, seu‘A-i—B == dd3 Ubique
+
+’ 'tergo summa massarum A -1-Β per ejusmodi constantem multiplicari est censenda, ut fiat productum
+
+·v ss'l,=dd. Hinc ergo tempus t in minutis secundis exprimendo fiet t={3'3s{{2 ideoque totum tempus
+2nfv't'
+
+min. sec.
+
+ 
+
+gperiodicum T = «ufey
+
+ᾖ
+
+ 
+
+s}
+

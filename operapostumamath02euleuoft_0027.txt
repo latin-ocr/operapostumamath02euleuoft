@@ -1,0 +1,72 @@
+Stalz'ca. ⁴— .· 1 1Ὶ
+
+'cujus *summa a rectificatione parabolae dependet; vocetur summa ejus S, erit distanffia‘nemri poten-
+
+S
+
+tiarum a recta AJ= ἶΜ·
+
+60. Coroll- 8. Fig. 25. ξι curva CBD habuerit duos ramos BC, BD similes et aequales.
+‚Ducatur ejus :diameter BA, ad eamque'normalis EF. Patet centrum potentiarum in CBD termina-
+
+ᾖ ejus a recta EF investigari oportet, modo § 58 tradito. Distantiae inde inventae accipiatur AG
+
+aequalis, erit G centrum quaesitum.
+
+ 
+
+‚. 61. Exemplum. fig. 26. Sit CBD arcus circuli, cujus centrum A ; hisecto arcu CBD radio
+1 AB, ducatur ad eum normalis AP. Sit ABssa, PM—-y‚ APzoe, erit y=V(aa—-oeae) et
+
+ 
+
+ 
+
+i¹¹ Mm=7m⁰d=²w>3 unde syds=sadae=aae. Adeoque summa distantiarum omnium punctorum in
+¹ arcu CBD >erit· AB.CD. Ergo distantia centri potentiarum G ah A erit :AZZD.=AG‚
+
+62. 'theorema 7. Fig. 27. Si punctum A attrahatur ad puncta B, C, D et E viribus, quae
+sunt ut distantiae a punctis iisdem, trahetur illud semper ad punctum fixum M, centrum potentia-
+
+rum in 'punctis Β, C, D, Ε terminatarum, vi, quae est ut distantia ipsius A ab M.
+
+Demonstratio. Ductisrectis AB, AC, AD, AE, exponent hae rectae, quae sunt distantiae
+
+puncti A ab Β, C, D et E, potentiaS, quibus A respective ad haec puncta trahitur (per hypoth.);
+
+‘ {labemus ergo casum >potentiarum hucusque tractatarum (26). Quare A trahetur semper versus punc-
+
+tum fixum M (51) centrum potentiarum, et vi, quae est ut distantia AM, ducta in punctorum nu—
+⁶ merum (57) i. e. numero punctorum dato atque manente, ut distantia AM. Q. Ε. D.
+
+63. coron. Si ergo punctum A ad quotcunque puncta Β, C, D et E attrahatur in ratione
+
+distantiarum, idem est ac si illud ad unicum punctum M tiaheretur in eadem ratione distantiarum.
+
+64. SchoIion. Hucusque potentiaev expressae sunt per lineas in directionibus earum assumtas,
+ut 'inde deduceretur lex‘, qua'punctum &qualibet alia data, ad quae urgetur vi, quae semper est
+ut distantia ab iisdem, trahitur. At si ad ea puncta attrahatur vi, quae sit ut functio quaevis di-
+stantiae ab iisdem punctis, ν 'ad inventio'nemylegiffi ·qua ⁴ad omnia simul urgetur, potentias aper func-
+
+‘tiones‘linearum exprimere‘oportet3‘quoeirca sequentia rad hoc obtinendum adjungo.
+
+65. 'theorema 8. Fig. 28. ἼΞί punctum A urgeatur utcunque ad puncta Β et C viribus,
+quae'sint ut P et Q, duca‘turque linea AD secans angulum ΒΑΕ ita, ut sit sin BADtsinCADthP,
+
+exprimet AD mediam directionem.
+
+Demonstratio. Producantur lineae AB et AC in b et c, ut sit Ab: Aer-⁵1⁰³ Q3 expriment
+ergo hae lineae Ab, Ac potentias, quibus punctum A secundum rectas AB et AC sollicitatur. Juncta
+
+bc, erit sin BAD: sin CAD— -- bD Ac: cD. Ab= bD. Q: cD. P. Est autem ex hyp.
+sin BAD: sin CAD= Q: P, ergo Q. P—bD. Q: cD. P, consequenter bD=cD.
+
+Quare erit AD media directio (33). Q. E. D.
+
+, 66. Theon-ema 9. Fig. 29. Urgeatur punctum A ad Β et C potentiis P et Q, ducatur-que
+nodia directio AD. Erit BD: CD= Q. AB: P. AC.
+
+ἡ
+
+tarum in ipsam diametrum AB incidere. Ad hoc centrum ergo determinandum, nonnisi distantiam. ¹
+

@@ -1,0 +1,111 @@
+Astronomz'a mechanica. 21 3
+
+96. Problema. Si curva, in qua corpus B circa A moveri cernitur, suerit parabola, ad
+
+datum tempus assignare locum, ubi corpus Β versabitur.
+
+solutio. Denotante f semiparametrum parabolae, ut distantia absidis imae C a foco A -sit
+
+'AC·-=-,¹2-f'; si tempore t corpus ex C in Β usque progrediatur, confecta anomalia vera CAR --- s,
+f
+
+1÷coss
+
+ 
+
+erit distantia AB=0= ‚ et si A et Β corporum massas denotent, invenimus
+
+ 
+
+ 
+
+ 
+
+ 
+
+f-sf f ds svs? (2÷coss) sins
+
+t=V29(A-i-B) ,(1-1-0033)2ΞΫ29(Δ-ι-Β)’ 3‘3(1-i-cos³)²f
+
+‚Quo temporis rationem facilius tenere possimus, consideremus casum, quo corpus E circa‘ aliud
+
+corpus F circulum uniformiter describit, cujus radius =e, atque tempore eodem t angulus descrip-
+
+eise
+V29OE4F)
+
+unde ex. dato angulo τ definiri
+
+· τ, statuamus
+
+ 
+
+tus sit ε-τ, qui loco ipsius temporis t introducatur. Cum igitur sit t:
+
+, brevitatis gratia ‘'J-l? · VA÷B (2-1-coss) sins,
+sssf E* F 3(1-ι-οοειε)2
+
+oportet angulum s, id quod resolutionem aequationis cubicae postulat. Praestabit autem tabulam
+
+=m‚ ut obtineamus mv:
+
+ 
+
+ 
+
+(2 -ι- cos s) sin s
+3 <1 —1-coss)2
+
+3 rceps facile erit pro dato mv respondentem anomaliam veram s colligere. Ad hunc caleulum sub-
+
+ 
+
+.computare, quae ad singulos gradus anguli s exhibeat valorem formulae ‚ ex qua dein-
+
+3 levandum notetur esse
+
+(1÷Qcos²÷s)sin-{-s sinsss sin -21-3
+
+l “ κ mv=————————= 21 -ι-
+
+6 cos³ ἐ- s 3 cos 3- s 6 cos⁸ {a
+
+ 
+
+ 
+
+ 
+
+9
+
+⁸
+1¹· seu mv = ÷tang{-s—i— }tang7¹ s.sec²—{- s =-ss- tang} s (2-1-se02 -ζ- s)= ὲ tang—3 s -ι--ξ- tang³÷ s.
+is
+, Verumtamen etiam ex dato mr, modo hic angulus in partibus radii exponatur, angulus s definiri
+
+potest, nam ponatur tang -,¹,—s=z, erit sec² {73:1—1-zz, unde fit va=z (3 -i-zz), ex cujus
+
+ζ aequationis resolutione, si ponamus 3mvzu, deducimus
+
+z = tang {s =(V(1-i4 uu) -ι- ιι)“-ὲ“- (VO -ι- aa) — u)'3‘,
+
+·.vel quaeratur angulus ω, ut sit tang 2m=3mv‚ tum vero erit
+
+ῙΊ· ·< tang ἧς = fltang (ῐιδθ-ι- ω) - last-ang 045⁰- ω) 2
+n ¹ '
+
+sive tang {as = {hang (lr50-i- ω) - 1⁸lcot. (li50 -ι- ω),
+eujus ope calculus per logarithmos haud difficulter instituitur, quoniam
+
+log. fltang (¹²5⁰— ω) = — log. wastang (1450-4— ω).
+
+ι,
+
+² Fortasse calculus adhuc facilior reddetur, si quaeratur* angulus ψ, ut sit
+
+i
+Ξ
+{41
+
+fl
+

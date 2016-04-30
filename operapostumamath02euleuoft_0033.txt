@@ -1,0 +1,58 @@
+Stateca. 'l 7
+
+potentia, quae aequalis est potentiaessCD. Si vero puncto C plures potentiae applicatae fuerint, id
+ἦ quiescet, si media directio in obstaculum suerit normalis.
+
+83. col-011. 1. Fig. 101. Si ergo grave seu pondus C incumbat firmo obstaculo AB, quiescet
+³ illud, at subjectum obstaculum AB premet potentia aequali ejus ponderi (6).
+
+82. coron. 2. Fig. 42. Si autem puncto C duae potentiae CD et CE oppositae fuerint ap—
+* plicatae, quarum utraque in AB normalis, patet si CD fuerit major CE, punctum C in quiete per-
+manere, et obstaculum AB premere excessu potentiae CD super CE, at si CE= CD, ob statum
+ἦ aequilibrii (19), C quiescere et prorsus non obstaculum AB premere. Sin vero ΟΕ major fuerit
+quam CD, tum C amplius quiescere non posse, sed eodem modo in recta CE procedere, ac si dif-
+
+ferentia potentiarum CE— CD illuc traheretur.
+
+85. col-011. 3. Fig. 113. Si ergo puncto C potentia CD‚ perpendicularis in tangentem ab
+
+' obstaculi curvilinei ACB applicata sit, me non monente patet, eodem modo C in quiete permansu-
+
+ 
+
+rum, ac si ab designaret obstaculum, quoniam ab et ACB in puncto contactus C coincidunt.
+
+86. Scholion. Veritas axiomatis inde patet, ,quod ob firmitatem obstaculi C (Fig. 110) di-
+
+rectionem CD sequi non possit, et nulla adsit ratio, quare potius versus A quam B moveretur.
+
+87. Problema lo. Fig. lili. Puncto O obstaculo ΑΒ adjacente, eique potentia OC applicata,
+
+invenire potentiam ei insuper applicandam, ut O in quiete permaneat.
+
+solutio. Potentia OC resolvatur in potentias laterales OD, OE, complendo parallelogrammum
+,rectangulum CDOE, quarum OE est normalis in AB, altera vero OD agit secundum directionem
+obstaculi AB. Aequivalet potentia OC duabus OE et OD simul agentibus (38). Potentia autem OE
+puncto O nullum motum valet imprimere (82); adeoque non opus est hanc potentiam, applicatione >
+
+3 contrariae, dest-ruere. Altera vero OD punctum O llbere valet secundum OD promovere, quia ob-
+
+staculum ejus actionem-non impedit3 haec ergo applicatione contrariae, eique aequalis OF destruatur.
+ν Punctum O, applicata ei insuper potentia OF, in quiete persistet3 obstaculum vero AB premetur
+⁷ potentia OE.¹ Persistet autem O etiam in quiete, si potentia OE vel prorsus vel ex parte destruatur
+(811), applicata ergo OJ= OE. Duae potentiae OF et OJ simul, seu quae iis aequivalet OH (38)
+servabit O in quiete, et in h‘oc casu 'est OH⁸= OC, eique directe contraria. Deinde si saltem OG,
+‘quae minor 'est quam OJ, applicetur, conservabit OK, aequivalens ipsis OG et OF, denuo quietem.
+Quocirca ducta FH parallela et 'aequali ipsi OE, omnes rectae OK, quae ex O ad FH duci possunt,
+exhibebunt potentias una cum OC, in quiete punctum O conservantes. Poterit porro OE, quantum
+libet, augeri, et nihilominus quietis status conservabitur. Applicetur ergo, praeter OF destruentem
+OD, potentia OL: haessduae OF ct OL simul, seu iis aequivalens OM denuo O in quiete servat.
+Ergo si producetur· CO in H, ut sit OH= CO, atque ex H demittatur infinita recta HR perpendi-
+cularis in AB, quaecunque recta ex O ad eam ducta OK, OM punctum O in quiete conservabit. Q. E. 1.
+⁸ Script. ad mar-9. Melius haec solutio adornatur, praemittendo constructionem.
+
+88. coron. 1. Problema ergo hoc infinitas admittit solutiones, cum infinite possint applicari
+potentiae, cum data OC statum quietis servantes.
+
+1.. luleti Op. posthuma ἲ. n. 3
+

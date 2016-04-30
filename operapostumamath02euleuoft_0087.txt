@@ -1,0 +1,63 @@
+De motu corporum super superficiebus mobilibus. 71
+
+l sinus =m et cosinus =n, ab hac· vi orietur vis normalis ΡΝ =ae mS 'et tangentialis PT=nS.
+Vires autem, quibus corpus -P actu sollicitatur, aequivaleant vi normali Pn= N et vi tangentiali
+f Pe: T. Omnino ergo corpus P super superficie quiescente sollicitari censendum est a vi tangen-
+tiali -- Τ-ι-ηδ et a vi normali =N-mS, Quodsi igitur corporis in P celeritas ponatur debita
+altitudini v, qua tempusculo dt conficiat spatiolum ds, sitque corporis P massa :A ,et radius os-
+
+culi in P-ponatur =r; fiet dv: (T-i-nS)ds‚ et superficies a corpore premetur secundum direc-
+
+⁴ tionem normalis Ρη vi= 24(ss -rf Ν-ψι- mS). Q. E. l.
+
+39. Scholion. Ίῐι his quaestionibus hactenus posuimus superficiem a pressione corporis om·-
+Α nino non affici, neque ejus motum perturbari, sed eo motu perfecte progredi, quem ipsi potentiae
+² sollicitantes immediate imprimant. Qui casus locum habet, si massa corporis 'P sit quasi infinite parva
+s respectu massae superficiei. Quodsi vero massa corporis finitam habeat rationem ad massam super-
+’ ficiei, tum utique pressio corporis in superficie effectum exeret, ejus motum vel accelerando vel
+Ι retardando, hincque nova variatio in ipso corporis motu resultabit. Ad hunc ergo effectum deter-
+
+j minandum, sequens problema praemitti oportebit.
+
+120. Problema 5. (Fig.135.) Sit superficies ABG mobilis super basi BC, atque extra lineam
+AQB existat corpus P, quaeritur vis motrix superficiem et corpus in directione PQ ad AB normali
+
+l sollicitans, quae superficiem et corpus dato tempore cong-reget in puncto p.
+
+' solutio. Sit massa corporis P ejusve inertia =A, et massa superficiei ABC= M, tempus
+ἕ autem, quo inter se coire debeant‚. sit :da Ponatur vis motrix ad hoc requisita =P, quae eadem
+vis instar elastri PQ sese contrahentis et' perpetuo ad superficiem normalis tempuscula dt corpus P
+
+‘transferat in p, et superficiem in situm apb. Erit ergo vis acceleratrix corpus P in directione Pp
+P P
+
+sollicitans = Ξ, et vis superficiem in directione Qp sollicitans πῇ· „Tempusculo ergo dt corpus P
+¹ transferetur per spatiolum Pp: ‘3‘ss (ὃ 9). Quia autem superficies alium motum nisi in directione
+P
+
+; Bc recipere nequit, pars tantum vis 51* ad eam movendam impendetur, cujus directio ipsi BC est
+
+¹ parallela. Sit ergo anguli, quem tang-ens curvae in Q cum recta BC constituit, sinus -‘-=m, cosinus
+P
+
+ 
+
+ 
+
+ἓ =n; erit ducta Qq parallela ipsi‘BC anguli PQq sinus =n et cosinus =m. Hinc ex vi ᾗ in
+directione QP urgente resultat vis secundum· directionem Qq :fig—², qua ergo superficies tempusculo
+dt promovebitur per spatiolum Qq= liba-3} fig· Cum igitur, PQ sit normalis ad pq, erit
+
+mmP de² . Pdt2 1 mm
+Qp = —M— - ἶ, ideoque PQ= ”4— (Ῑ-ι- ff„
+ἓ quod spatium 'RQ quia est datum, reperitur P: acjxff-'jssms Q. Ε. l.
+
+Μ. coron. 1. Haec igitur congregatio superficiei mobilis et corporis P tempore dc perficitur,
+
+superficies secundum directionem BC sollicitari concipiatur a vi acceleratrice
+
+—PAE— ⁴mA.PQ ⁸
+— M —(M-*-mmA)dt²
+
+ 
+

@@ -1,0 +1,92 @@
+   
+   
+  
+   
+  
+   
+   
+    
+  
+     
+ 
+
+98 L. EULERI OPERA POSTHUMA. mechanica.
+
+Cette valeur substituee dans les equations trouvees ci-dessus, nous fournira les valeurs des veritablep
+pressions P, Q et R. Reprenons donc l'equation trouvee lit-haut}
+
+Q · · ’ ·
+
+ἀιιε- Mkk 2 ou bten celle-cn du=—Vds;
+
+en remettant pour V sa valeur trouvce‚ nous aurons cette equation
+
+4 (21pr -ι- 13qu -ι- cusr) dn 'usu-⁷
+
+daz—- Axoe-r-Byy-f-sz-f-Mkk
+
+Or les equations trouvees au 3 25 donnent
+
+dszssdaeVa, dqu=dy Va, ds Vr-ssszu,
+
+ιιι
+par 16 moyen desquelles la valeur d'e clu s’exprimera ainsi qu'il suit Ι v ...Ἧι
+du=—4u(Aoeav-·ss13yay4c2az) Δ ‚ ,χι
+Axx -ι- Byy -ι- Gz· -ι- Mkk
+τ’ 1
+dont l'integrale sera: ιι (Aoeoe -ι- Byy· -ι- sz -ι- Mlck)²== Const. ’
+
+Or cette constante doit etre determinee par letat du commencement οὐ ιι se change en 9, ,τ 6ιι a,
+
+γ en b, et z en c, de sorte que noue aurons cette equation Ι
+ιι (Aoeoe -ι- Byr -ι- sz ει- Mkk)2=q (Ααα -ι- Bbb -ι- Coo -ι-“Ι111ς1ι)2
+
+qui renferme la conservatiou duumoment du mouvement rotatoire, ainsi que nous l'avons fait ‘vo‘
+ci- dessus (3 18). ’
+
+3 29. S’il n'y avait pas de mouvemcnt rotatoire, les corps A, B, C parviendraient, dans Γί
+stant dt‘, aux points π, ξ et 93 mais Ξι present, ἐι cause du mouvement rotatoire, ils se trouven
+aux points p, ι’] et ν qui sont plus eloignes d· 0 que les autreS, et par cette raison, le mouvemen'
+
+des corps dans le tube recevra quelque accroissement. Αἰιιεί, 16 ειη-ειοῑι (16 l'espace que le cor
+ρπ2 .τάσῖ
+
+9οπ 911·
+
+par {³} donnera l'accele'ration du corps A dans la direction du tube, qui sera'=2—;‘sf-· La vite
+²77⁶ae- De la meme maniere on trouvera, po > ’ἶ
+
+ἏΨαν et dr Ξὲᾎαῖ Rassernblons m'aintenan
+
+ff
+toutes les equations que nous venons de trouver, et nous aurons les segt equations suivantes: “ ⁶! ·
+
+ 
+
+ 
+
+A ρειιὌοιιιῐ dans 16 tube, sera :op—ot: 2 ce qui donne · Mais ce surcroi't divi
+
+Vp sera donc augmentee, de sorte qu‘ on aura dp:
+
+ 
+
+ 
+
+les deux ‘autres corpS, les accelerations suivantes dq=
+
+1. βξ ’,ε-βξ, ιι. β-ζε ’βξ ιιι. βξ-βξ’ 1v.-01p;—-²·‘Js⁸²‚ v.‹1q=²“⁹7⁶⁹‚ v1. αν-ῗξξξξ
+
+VII. (Aaeae -ι- Β-γγ-ι- sz -ι- Mkk) Va— - (Aaa -ι- Bbb -ι- Ceo ἓ-ι- Mkk) vy, ς ,
+
+ 
+
+qui seront suffisantes pour determiuer le rapport entre les huit quantites variahles s, ιι, ω, p, 3·έᾷρέ
+
+z, r qui y entrent. , . 7., ι -‚ , ⁷ ἱ
+
+3 30. Comme toutes ces equations, excepte 16 derniere, sont differentielleS, on comprendra'»
+aISement, qu 'il doit etre extremement difficile de parvenir Ξι une equation qui ne contieline que deofl}
+
+ξ,
+

@@ -1,0 +1,108 @@
+ 
+
+ 
+
+Astronomia mechanica. ’ 235
+
+Hunc quidem casum, quo n > Ι, quoniam in mundo nusquam locum habere videtur, relinquentes,
+· alterum, quo n <1 accuratius persequamur, et quo pacto motus commodissime definiri atque ad
+
+datum tempus assignari possit, videamus. Manifestum autem est hunc motum parum a motu in
+ellipsi- facto, quem supra exposuimus, fore diversum.
+
+¹723. Problema. Determinationem motus, quo corpus N in casu praecedentis problematis
+
+circa corpus M in plano aequatoris revolvitur, ad calculum revocare.
+
+solutio. Primo cum s exprimat anomaliam veram corporis N, hoc est ejus longitudinem ab ⁵
+abside ima computatam, littera vero φ longitudinem veram denotet a directione quapiam fixa com-
+putatam, ab eadem hac directione fixa longitudo absidis imae erit :cp—3, quae ergo ita defi-
+nitur, ut sit ’
+
+(cc— aa) (3³ -ι- η sin s)
+
+90—s=C0nst.-1- 2ff
+
+unde patet lineam absidum non quiescere, sed in consequentia proferri, si sit cc > αα; sin autem
+
+fuerit- cc<aa‚ retro moveri. Corpus scilicet N ab abside ima egressum ad absidem summam ap-
+
+pellet confecto angulo q0=(1 ÷3(cc— —aa)
+
+ 
+
+)180⁰, hoc est majori quam 180ο si cc> aa; contra
+
+autemminori si cc < aa. -ln genere autem inventa anomalia vera τε, erit longitudo
+
+3 (cc— -αα) n (cc— aa).
+
+qp-zConst,-÷-(1-i—2 2ff
+
+ 
+
+>sa-
+
+ 
+
+Sln S·
+
+s,
+
+Sin autem anomaliam veram s spectemus ut datam, erit distantia JN= νεὶ-3433053
+
+2 ubi f* con-
+
+ 
+
+templamur ut semiparametrum orbitae, et n ej-us excentricitatem, etiamsi orbita non sit elliptica.
+
+Tum vero pro relatione inter tempus t et anomaliam veram s commode exprimenda introducatur ano·
+’ malia excentrica σ, ita ut sit
+
+ 
+
+ 
+
+ 
+
+ 
+
+cos σ --.- ἱέῗΐζέξε et sin σε ε’ῗζῖ οἷς),
+unde vicissim ex data σ fit ¹
+cos 3 = ¹cosa—n et Sin 3 Ξ sin: 1!ss —n·n).¹
+·-· π 0086 - ἠ 008 0
+
+His positis habebimus
+
+tV2f9 (M—÷— N) = Const. ‘bu—KQ* Ἥ,
+
+'s ‘unde vicissim pro dato tempore t primo anomalia excentrica σ, ex hacque porro vera s, hincque
+tam longitudo φ quam distantia «ΠΥ-εν definiri poterit.
+
+00- aa
+
+ff
+atque singulis revolutionibus corporis Ν tantum per angulum
+
+lltlv. Col-oll- 1. Cum fractio
+
+ 
+
+sit quam minima, motus lineae absidum erit tardissimuS,
+
+3 <cz—baa> 360⁰: α· aaa
+
+1105. col-011. 2. Tempus porro integrae revolutionis, quo corpus ab abside vel ima vel
+» 3(⁰⁰ ww) 360⁰, reperitur
+
+5ῐ30ο progredietur.
+
+ 
+
+ 
+
+ 
+
+summa egressum iterum ad eandem revertitur, consecto ang-ulo gp=(t —÷-
+

@@ -1,0 +1,52 @@
+52 ¹ L. EULERI OPERA Posmumm mama..
+
+poris OA, OB, OC, ad axes spatii absoluti Οα, Οβ, Ογ inclinantur. Erit ergo cos Aa=cosp‚ seu
+angulus p aequalis est arcui Aa: tum vero ob cosAss=3>=sinpcosr3 pate‘t r designare angulum
+Ααβ. Denique ob cosBa=SB=sin p cos q, patet q denotare angulum αΑΒ; manifestum autemest,
+si dentur primo angulus βαΑτ-ν, secundo arcus aA=p, et tertio angulus aAB=q, tum* positionem Ξ
+
+omnium trium punctorum A, Β, C in spatio absoluto determinari.
+
+1ιο. En ergo insigne theorema trigonometricum, quo idem punctum M duplici modo ad terna
+
+sphaerae puncta quadrante a se invicem distantia refertur
+
+cos Ma = cos Αα cos MA -ι- cos Βα cos ΜΒ -ι- cos Ca cos MC,
+cos Μβ = cos Αβ cos MA -ι- cos Ββ cos ΜΒ -ι- cos Css cos MC,
+cos My = cos Ay cos MA -ι- cos By cos ΜΒ -ι- cos Cy cos MC,
+
+cujus demonstratio more geometrico absolvenda non parum sagacitatis requirere videtur.
+
+tl. His igitur subsidiis cum ex analysi tum trigonometria sphaerica comparatis, ipsa problemata
+mechanica aggrediamur, siquidem etiam principia, ex quibus eorum solutio peti debet, sufficienter
+sunt exposita. Quae subsidia cum ad motus genus tam primum quam secundum pateant, a genere ἶ
+primo nostras investigationes incipiamus, quo corpus circa axem fixum gyrari assumitur. Quodsi ergo ἑ
+OA fuerit iste axis fixus, quia is in spatio quoque absoluto situm suum constanter retinet, cum axe
+Oa confundi poterit, ita ut sit Αα--τ 0, ideoque αΒ et aC arcus 90 graduum.
+
+De motu rotatorio col-ports rigidi eil-oa axem fixum.
+
+42. Sumto OA pro axe fixo, circa quem corpus utcunque gyretur, congruat is cum 'axe Oa* t
+spatii absoluti, et ad tempus quodcunque t bini reliqui corporis axes habeant in spatio absoluto situm , ξ
+OB et OC, et puncta Β et C erunt in circulo maximo βγὸ, cujus polus est α. Positis jam ω, γ, z
+coordinatis elementi corporis Z axibus OA, OB, OC parallelis, et X, Y, Z coordinatis ejusdem ele·
+menti axibus immobilibus paralleliS, si adhibeamus supra inductam relationem in has duplices coor-
+dinata8‚ habebimus Aa=0 et aB=aC= 90⁰.
+
+ 
+
+143. Hinc ergo co'efficient'es assumti 21, Q, 6, etc. ita definientur, ut sit. cos Aoe=21=1, {³
+cosBa=ffi=Q cosCa=OE=0, cosAss= ,ib-0 et cosAy=<s=u Ac si ponatur B,3=s‚
+erit cosB6— = 6 =cos s, cosBy=.§§=sins‚ cosC26⁶= ὗε —sins et cos Cy=3=coss. ,Ι
+Quibus valoribus introductis habebimus X: ω, Y= ycoss—zsin s, Z= ysius-i—zcoss, ubi
+,ιτ- Ββ denotat angulum βαΒ, quem corpus jam tempore t‘ circa axem Oa vel OA motu angulari ’
+confecit3 spectari ergo dehet s tanquam functio temporis t, dum coordinatae ω, y, z ratione temporis
+sunt quantitates constantes.
+
+Ιιῐι. Quoniam nunc situs elementi Z respectu spatii absoluti per ternas coordinatas X, Υ, Ζ
+exprimitur, quae cnm tempore variantur, 'dum alterae m, γ, z constantes manent, si massa elementi
+Z per dM indicetur, et differentiale temporis dt constans assumatur, ad motum hujus elementi pro-
+
+sequendum requiruntur tres vires motrices· secundm directiones axium θα, Οβ, Oy sollicitantes,
+quae sunt
+

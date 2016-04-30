@@ -1,0 +1,59 @@
+-w, Astronomia mechanica. 185
+
+37. scholion 2. Hoc theorema quidem tantum ad corpora rigida, 'quorum partes ita firmo
+1exu inter se sunt conjuncta, ut a nullis viribus de situ suo relativo dimoveri queant, accommoda-
+muS, sed etiam quodammodo ad corpora flexibilia atque etiam fluida extenditur, quatenus scilicet
+1· tum ad motum progressivum centri inertiae spectamus. Quodsi enim elementa corporis fuerint a
+430 invicem dissoluta, quoniam vireS, quibus bina quaeque se mutuo attrahunt, sunt aequales et con-
+4· iae, hinc nulla vis in centrum inertiae resultat. Ab his scilicet viribus fieri potest, ut partes
+1 idem corporis quomodocunque inter se commoveantur, commune autem centrum inertiae jugiter
+,ιι ιιεεοιιῑ, vel si semel moveri coeperit, perpetuo uniformiter in linea recta progrediatur. Ex quo
+
+famur, ut quotcunque fuerint corpora se mutuo attrahentia, eorum commune centrum inertiae vel
+··escat, vel uniformiter in directum promoveatur. Hinc ergo certum est omnium corporum mun-
+
+snorum commune centrum inertiae vel in perpetua quiete versari, vel uniformiter in directum
+3fferri. Atque hoc jam statim inipso limine certissime affirmare licet, etiamsi adhuc minime
+1111’1,ῑ quo motti singulavcorpora concitentur, in quo sine dubio veritas maximi momenti continetur.
+ι ,
+
+z 38. Problema 1. Si corpus finitum, data figura praeditum, attrahat corpusculum ad datam
+
+*wis et insignem ab eo distantiam remotum, definire tam quantitatem quam directionem ejus
+
+ὲ vis, qua corpusculum sollicitatur.
+
+”a solutio. (Fig.172.) Cum corpusculum a singulis elementis corporis finiti attrahatur, definiri
+mrtet vim ex omnibus istis viribus elementaribus resultantem. Quoniam igitur corporis finiti figura
+- .. data, tam ejus centrum inertiae quam ternos 'axes principales, eorumque respectu momenta in-
+'-'e pro cognitisassumi licet. Sit igitur J centrum inertiae corporis attrahentis, et JA, JB, JC 1
+
+,’ tres axes principales, eorumque respectu momenta inertiae Μαα, Mbb, Mcc, denotante M cor-
+
+-’: massam. Corpusculum autem attractum, cujus massa =m, sit in H in distantia ab illius
+1’,1 o inertiae JH=h‚ quae recta cu'mv ⁴axibus principalibus saciat angulos HJA =a‚ HJB=A3 et
+111.) =y, ut sit cos2a-i- cos²,3—=—cos²y = 1. Hinc demisso ab H adfplanum AJB perpendiculo
+1Ῑ1’1,, et ex G ad JA productam normali GF, erit JF -1ι cosa Γ θ-Ῑιοοεβ et GH -hcosy
+4 ·ipiatur jam corporis elementum quodcunque in Ζ, pro quo coordinatae axibus principalibus
+4' 1llelae sint JX=oe, ΧῩτ-γ, YZ--z3 massa autem istius elementi sit =dM, eritque ex indole
+1 ·m principalium et centri inertiae saeclM-——Q ιβγάΜεΟ, ssz=03 porro ιβαῆγιῖΜΞΟ,
+kizam=msyzdn1= ο, atque smum-:gama 4- ce—aa), smum: ὲΜῳιΗ-οο-ιιιι),
+ᾗιάΜτ, {M (aa —1-bb—cc). Ducatur recta HZ, qua posita -εν erit
+
+ἲ ε’ = V( (h cosa — oe)²—i— (h cosss -γ)21-ι- (Ῑι cosy — z)²)‚ seu
+,επ v = 1!th — 212 (ω cosa-i-gy cosss'j-i- z cosy) -4- ae2-i-y2-i- θ’).
+’ positis, corpusculum m in H ad elementum dM in Z situm attrahitur vi = σ’ἶῗΜ, ubi quidem
+
+ 
+
+·1,ι cientem constantem C negligere licet, deinceps, ubi opus fuerit, facile introducendum3 ita ut
+
+,Γ
+‘unce secundum HZ sit =mJ¹M Ηα, Ηβ, Hy axibus prin-
+
+*libus parallelaS‚ praebebit 1
+
+utute ri ορ. posthuma τ. ιι. 24
+
+                                    
+

@@ -1,0 +1,52 @@
+” Sintica. ’ ἶ 5
+
+.‚ 21. Col-oll- Quando ergo ¹duabus potentiis directe contrarie puncto applicatiS, id in aequi-
+librio consistit, concludendum est, eas potentias esse inter se aequales.
+
+-22 Problema 8. Datae potentiae puncto applicatae aequa-le invenire pondus.
+
+e, , Solutio. Fig. lv. Sit punctoA applicata potentia iu directione -AB; producatur. BA ultra A,
+in >eaque alicubi firmetur, clavus. (ἔς, filum puncto A ,alligatum super C traducatur, eique? dein alia
+³. 31911116 '³¹5³ P⁰¹¹d0f³ appendantur, donec aequilibrium obtineatur. Erit tum pondus P aequale potentiae,
+punctum A secundum ΑΒ trahenti. ,Trahitur enim, A versus AC vi, quae aequalis. est ponderi P (1 lt).
+Et quia est aequilibrium, haec vis ipsi AB aequatur (21). Q. Ε. F.· Δ
+
+23. coron. Hoc ergo modo omnes potentiae ad pondera reduci possunt, cum inveniri pos·-
+sint pondera cuilibet datae potentiae aequivalentia.
+⁷ 2ῐι. Definitio 6. Potentia α aequalis dicitur duabus aliis, b et c, simul sumtis, si hisce b
+
+et c, puncto A (Fig. 5) secundum directiones AB, AC, inter se parallelas et coincidentes applicatis,
+illa a, directe contrarie applicata juxta AD cum hisce in aequilibrio consistit. ι
+
+25. col-011. Hinc innotescit, quid sit potentia dupla, tripla etc. nempe si sit c=b, erit
+a=2b3sic—2b,er1ta—3betc. ’
+
+26. nypothesis. Potentiae in posterum designabuntur per lineas rectas iu earum directione
+sumtas rationemque ipsarum potentiarum servanteS‚ ut potentia dupla per lineam duplam, tripla per
+triplam exponetur3 et generaliter, si dico (Fig. 6) puncto A duas potentias AB et Ac εεεθέιρρΙί-
+catas, inde intelligi debet trahere eas secundum directiones ΑΒ et AC, et esse inter se ut lineas
+ΑΒ et AC. “
+
+27. Scholion. Possunt etiam potentiae hoc modo concipi, quemadmodum eas considerabo in
+demonstratione sequentis theorematis. Si (Fig. 7) puncto A applicata fuerit potentia ΑΒ, concipio
+ἐἰ normaliter junctam esse CD, quae cum *basi EF cohaeret pluribus filis ΟΕ, ‘DF contractibilibus3
+unde fiet, ut¹ haec fila 'contrahere se quaerentia lincam* CD ad EF trahere conentur, et hoc ipso
+punctum A in linea AB* promovere contendant. Cum dein supponam, singula fila aequali vi sese³
+contrahendi valere, potentiae diversae erunt inter se ut numeri filorum3 ita ut potentiam duplam
+'duplus filorum numerus exhibeat, triplam triplus, etc. ’
+
+' ’ 28. Axioma 2. Omnis potentia tantum agit quantum potest.
+
+29. 'theorema 2. Fig. 8. Si puncto A tres potentiae AB, AC, AD fuerint applicatae,
+obtinueritque aequilibrium, eritquaevis potentia AC ut sinus anguli BAD'a reliquis comprehensi.
+
+Demomtratlo· Considerentur potentiae, ut §27 monitum est, erunt potentiae AB, AC, AD
+inter se ut numeri filorum (Fig. 9) BE, CF, DG. Cum omnis potentia tantum agat, quantum potest
+(28), omnia haec fila se tantum contrahent, quantum poSsunt, antequam acquiescant, aequilibriumque
+efficiant. Quare in statu aequilibrii *omnium filorum summa erit contractio, seu summa longitudinum
+omnium* filorum' erit-minima. Unde status aequilibrii per methodum maximorum et. minimorum de-
+terminari poterit.² Ea sic se habet, ut totius status situs proximus concipiatur, quo ea quantitas,
+quae maxima vel minima esse debet, invariata deprehendetur. Transferatur igitur A in αἶ ita, ut sit
+AB-Aa'B, et hoc-modo longitudo filorum ΒΕ non immutatur. Ducantur ‘¹Ca- et Da et perpendicula
+Ay et ah. Patet [ila CF elongata esse elemento aq, verum fila DG'decurtata elemento Ah. Sit
+

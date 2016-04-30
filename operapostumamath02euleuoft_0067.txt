@@ -1,0 +1,56 @@
+ 
+
+De motu corporum cz'rca punctum fimum mobilium. 51
+
+35. Repraesentat jam· (Fig. 123) sphaera Οαβγ spatium absolutum, respectu cujus situs corporis
+quovis momento desmiri. debeat: commodissimum autem est spatium *absolutum instar sphaerae consi-
+derare, quo praecepta trigonometriae sphaericae in usum vocari possent. Existente ergo Ο centro hujus
+sphaerae3 sint Oa, Οβ, Or terni axes spatii absoluti, immobiles et ‘inter se normales, eruntque arcus
+αβ, ay, βγ in superficie sphaerae quadrantes, eorumque adeo cosinus =0 et sinus = 1, posito
+rad10 sphaerae ει 1. Corporis autem, cujus motus investigatur, centrumque in centro sphaerae 0
+immobile haeret, terni *axes OA, OB et OC transeant per superficiei sphaericae puncta A, Β, C,
+praesenti quidem temporis instanti, ita ut arcus in figura non expressi AB, AC et BC sint pariter
+quadrantes. ¹ ι
+
+36. Pro corporis elemento quocunque Z, cujus a centro O distantia est 02==‹‚ sint ternae
+coordinatae axibus in corpore infixis et cum corpore mobilibus OA, OB, OC parallelae ω, γ et z;
+ejusdem vero· elementi ternae coordinatae axibus spatii absoluti et immobilibus Oa, Οβ, Oy parallelae
+· sint X, Y et Z. Unde si recta ΟΖ superficiem· sphaericam in M trajiciat, indeque tam ad puncta
+A, Β, C, quam a, β, γ arcus circulorum maximorum ducantur, erit ut vidimus:
+
+Ι· cosMA=—7‘ cosMB= 2 cosMC=
+
+1¹< ἢκ
+
+ἑ,
+¹ cosMa=÷{‚ cesMsszv ‚ οοεΜγΞΞ.
+
+Pendeant autem hae posteriores coordinatae ita a prioribus, ut sit
+X=21oe÷58y÷OEz,-Y=S>x÷(8y÷{5z, ΖεΘω-ι-ᾧγ-ι-ὓζ.
+37. substitutis autem pro ω, γ,- z et X, Y, Z superioribus valoribus habebimus
+
+⁵ v ³ eos Ma'ss· 91 cosMA 4- Q cosMB 4—OE eos MC,
+= eos Μβ-Ρ ‘Deos MA -ι- (ξ cos ΜΒ -ι-· {5 cos MC,
+eos My— -·'· (SjcosMA—i— ⁸§cos ΜΒ —i—fi} cos MC,
+
+unde facile valores eoefficientium per quantitates ad figuram pertinentes exhibere poterimus, Cum
+enim hae formulae debeant subsistere, ubicunque punctum M assumatur, ponamus punctum M sumi
+successive in ipsis punctis A, Β,- C. ’ ’
+
+38. Puneto M autem primo in Α sumto, ut sit MA-O, arcus ΜΒ et MC abibunt in qua-
+! (stantes, eritque cos ΜΒεε 0 et cos MC— 0, unde nostrae aequationes praebebunt
+
+. D cosAa-at :cosAss ΞΒ, ¹eosAy=Gx 4
+Deinde sumatur- M m Β, ut fiat MB=÷=0 et eos ΜΒεειί item cos MA--o et cos MC-:Q atque
+
+¹ prodibit
+
+cos Βα- - ᾧ, neos Ββ- ·- (ξ, cos Βγ- — 5}-
+Denique sumto M in C, ut fiat MC -· Ο, cos ΜΒ·- - 1 et cos MA— -- 0, cos ΜΒ- - 0, orietur
+cosCa=OE‚ cos Οβτ-τὲιῦ, «φεῦγε-*3.
+
+39. Patet ergo litteras ἀ, Β, ῗ(ξ,ϊπΞ),- (ἐμῇ, Q& 3 exprimere cosinus· arcuum, ’ quibus
+
+puncta mobilia A, Β, C a fixis α, β, γ distant, seu denotare cosinus angulorum, quibus axes cor-
+ᾗ·
+

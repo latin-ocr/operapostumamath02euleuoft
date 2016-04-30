@@ -1,0 +1,59 @@
+56 L. EULERI OPERA POSTHUMA. Machanica. ¹
+
+De mot'u corporis rigidi eil-ca ceptrum fixum.
+
+59. Motum circa axem fixum ideo hic accuratius definire visum est, ut pari modo calculus pro
+motu circa punctum fixum suscipi possit. Sumtis ergo in spatio absoluto tribus axibus immobilibus
+(Fig.123).0a, Οβ, Ογ, existente 0 illo puncto fixo, circa quod corpus a viribus quibuscunque sol·
+licitatum movetur, pervenerit corpus elapso tempore t in eum statum, ut jam axes ipsi infixi in spatio
+absoluto situm teneant ΟΛ, OB, OC. Quem situm si ad quodvis tempus assignare potuerimus, mo-
+
+tum corporis perfecte babebimus cognitum3 sumimus autem utrosque hos ternos axes inter se normales.
+
+60. Pro situ porro axium mobilium ΟΑ, ΟΒ, OC respectu immobilium'definiendo⁹ statuamus ut
+supra: cos Aa = ⁵21, ‘cos Βα = 213, cos Ca = 6, cos Αβ = ᾖ), cos Ββεᾶ, cos Css= ἓξ, cos Αγ-τΘ,
+cos Βγτ-ᾦ, cos Cy = 3, eruntque hae quantitates 21, 58, G etc. functiones solius temporis t, quae,
+
+ut vidimus, ita a se invicem pendent, ut sit
+
+2121÷ffiffi÷csss=1‚ 2121÷3>Q÷ffl=1‚
+33³>÷cc÷5553=1‚ msa-(tc -ι-ῷῷει,
+
+(ωψῷῷ-μῦεςει, <scs -ι- ῑςῑς ÷ss=1‚‘
+
+2133÷ffiss÷csss=m ὓῐᾟ-ι-ΞῦΘ-ι-Θῷεθ,
+ὓῐΘ-ε-Ἧῷ-Ι-(ξῧεθ, ὓῙΕξ-ι-Ξὶῖς-ι-Θῧ--ψ
+ῶΘ-ι-(ξιῷῂι-ὗῧεθ, ἕὸΕδ-ι-Θῦ-ι-ᾥῧεθ.
+
+61. Si jam coordinatae cujusvis elementi Z=01M, axibus corpori infixis 0A, OB, OC paral-
+lelae sint x, γ, z, quae ratione temporis sunt constantes; atque ejusdem· elementi coordinatae axibus
+immobilibus Οα, Off, Oy parallelae ponantur X, Y, Z, J'am invenimus esse
+
+X=21ae÷sssy÷csz, Y=ffiae÷ssy÷55z, ·Z=(Soe-i--§y·—÷-Sz.
+62 His¹ positis quaeramus vires ad motum particulae Z requisitas, quae ex his coordinatis l
+X, Y, Z, ita reperientur ut sint
+
+samar — aaut
+
+ 
+
+ 
+
+ 
+
+vis sec. Oa = w - ἶρ- (aeddm -1- ydem -1- zado),
+vis sec. 0ss = ²4ssde = {Ji—{¹ (zedam -i-ydcm -1- ιάἀῦ) ,
+vis sec. Ογ -- ἓαέξαῑ = {g}
+
+(mado -ι- yda& -ι- zdd 3),
+
+quia nempe hic de motu ejusdem elementi Z est quaestio, coordinatae ω, γ, z pro constantibus,
+functiones vero temporis tantum 21, Q, (ξ etc. pro variabilibus sunt habendae.
+
+63. Praestabit autem has vires ad alias directionesreducere, qui ipsis axibus corpori infixis sint
+
+parallelae, quae reductio facile instituetur hanc regulam observando. Si vis quaepiam V secundum ἱ
+directionem OM ageret, ea resolveretur in has vires γ
+
+vim sec. ΟΛ = V cos MA, vim sec. OB ,ς V cos ΜΒ, vim sec. OC = V cos MC
+

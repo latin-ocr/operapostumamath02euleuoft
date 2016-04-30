@@ -1,0 +1,67 @@
+208 L. EULERI OPERA POSTHUMA. Λακωνικά.
+
+87. coron. 4. Aequatio centri ergo s—-v maxima evadit si
+
+ιιΙω
+
+ 
+
+1÷ncoss=(1—nn)} et 0033=(¹-”:) -1’
+1
+unde sit 003 0- =1·-(1—rm)4 et τ = G—nsin 6,
+
+ 
+
+n
+
+quae erit anomalia media, cui maxima aequatio centri convenit. Pro ea ergo erit s > 90⁰, 6< 90⁰, Ι
+multoque magis τ < 90.
+
+88. Coroll. 5. Sumta anomalia media τ negativa, fiunt quoque anomaliae σ et ,ς negativae
+ejusdem valoris, unde binis anomaliis mediis τ et 3600—1‘ par respondet aequatio centri, quae
+autem priori casu est addenda, posteriori subtrahenda.
+
+89. scholion. Dum ergo corpus ab abside ima ad summam progreditur, aequatio, centri est ⁷
+positiva, seu anomaliae mediae addenda, et quidem ab ima usque ad certum terminum continuo
+crescit, unde ad absidem summam usque iterum decrescit, ubi evanescit. Tum vero ab abside
+summa ad imam progrediendo per pares aequatioues anomalia media est minuenda, unde sufficit
+aequationes centri nosse pro transitu ab abside ima ad summam. Si enim anomaliae mediae τ con·
+veniat aequatio centri ε, anomaliae mediae 360⁰— τ conveniet aequatio centri -ε. Modus autem’.
+hic expositus ex data anomalia media computandi anomaliam veram commodior reddi potest, si ex·-¹
+centricitas fuerit valde parva, id quod plerumque usu venit, unde hunc casum seorsim evolvisse Juvabit.
+
+90. Problema. Si excentricitas η fuerit valde parva, ⁶pro data anomalia media definire.. 2
+aequationem centri et anomaliam veram.
+
+Solu-io. Primo ex anomalia media τ colligitur anomalia excentrica σ ope aequationin'
+
+l
+τ-τσ-ηείῃ σ, unde erit ι l· Ξ
+
+ο ᾗ,
+6=v÷nsin(‘c—i-nsin(v—u-nsin(‘c-t-nsin(v-}-'-etc.‚ ξ
+
+vel etiam ope hujus formulae 1
+σ = τ -ι- (η- -ὲ-η3) εἰητ-ι-(ὲ-ηη ——}¹n⁴) siu 2τ -ι--ξ-η3 sin 3τ -ι- 3¹ η* sin Ιιτ, s ὁ
+ᾳ
+
+ 
+
+ubi potestates ipsius n quarta altiores sunt neglectae. Inventa autem anomalia excentrica σ, ex en ἵ
+anomalia vera s definitur hac aequatione ds = Ἵῑὲὶᾷἲῖ), unde fit ’
+ds = do (1 -ι- n cos σ -ι- n²cos²c5 -ι- η3 cos30· -ι- n‘ cos‘ o· -ι- n⁵ cos⁵6 -ι- etc.)V(1— nn). Ὀ,
+
+ 
+
+Cum igitur sit
+cos 6 = cos σ
+
+cos²6= ᾗ -ι-’ῖ cos 20
+cos³6'= {⁸-cos6-i- ÷cos 30
+
+cos⁴6=-}—÷--2-cos2o‘-i--‚¹‚—coslm
+
+οοεῦσ-εξ-ξοοεσ-ι-ῑξῑ c0s30÷1÷c0s56
+
+etc. ' . ε
+

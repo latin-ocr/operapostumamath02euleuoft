@@ -1,0 +1,101 @@
+Astronomia mechanica. Α 21 5
+
+’ erit radix realis y=2Vbtang2qn Hoc scilicet modo regula Cardani commodius ad calculum
+, accommodatur. Vel etiam ex vangulo ω statim est
+
+ς
+ἑ
+
+γ = (13713113αῶοψ ω) - 1³stang (450— ω)) Vb.
+
+102. Problema. Si curva, quam corpus B circa Α describit, proxime tantum ad parabolam
+accedat, ad quodvis tempus ab abside ima elapsum locum corporis in curva assignare. ¹
+
+solutio. Excentricitas ergo n unitati proxime aequalis assumitur, unde si ut ante tempus t
+ex motu uniformi, quo corpus quodpiam E circa aliud F ad distantiam =e circulum describit,
+’ definiamus, atque in hoc circulo tempore l absolvatur angulus --τ, ponaturque
+
+e—'tse -νΙΔ-ι-Ιῖ —
+fo E-i-F—
+
+ 
+
+m3
+
+ex superioribus habemus elapso tempore t ab abside ima C distantiam
+
+AB=0= f et mv: ¹ 3Arc.cos·
+
+(1 - mo?
+
+n—i-coss nsins*
+
+1-i-ncoss W
+
+ 
+
+ 
+
+ 
+
+denotante ι’ι semiparametrum orbitae et s anomaliam veram seu anguium CAR. Haec quidem sor-
+mula pro casu, quo n <1 et orbita est ellipsis, valet, unde patet pro tempore motus ab abside
+
+ima ad summam prodire
+
+mv: π
+
+ 
+
+(1 -ηηῑέ
+
+id quod ex approximationibus minus liquet, quippe quae non ad absidem summam usque extenduntur.
+Nam cum sit ¹
+
+Ι Arc cos n-f-coss —Arc sin sinswsss—nn)
+Ι ” 1-1—'ncoss— ⁹ 1—t-ncoss ⁹
+
+ 
+
+ 
+
+llic sinusxquidem est valde parvus, quamdiu* anomalia vera s non proxime ad 180ο accedit. Cum
+' flgitur existente sinu ιι minimo 2sit ”
+
+Arc.sina = a -ι- ξιι3 -ι- ἑὸιιὸ -ι- ῖῗῑαἿ etc.
+
+erit Arc sin sine 'tsss —nn) -“ sins τίω —rm) (1 -nn)fsin³s 3 (1 -ηηέ sin⁵ s
+⁰ 1-1-ncoss -“ 1-ι-π coss 6(1-·-ncoss)³'''‘4o (1÷ncoss)⁵
+
+ 
+
+ 
+
+ 
+
+ 
+
+2
+
+ideoque nostra aequatio fiet
+
+Α. ’ῃτ--ῌ-μη sins “4- sin³e 43(1-nn)sin⁵ s·
+)(1-÷—n coss) 6(1-ι-η cos³)⁸ 40(1-÷-ncoss)⁵
+
+ 
+
+ 
+
+’δή
+’ Quoniam igitur n proxime ad unitatem accedit, sive sit n < 1 sive ⁴n > 1, formula inventa aeque
+‘locum habet, neque tamen eousque progredi licet, ut denominator l-i-ncoss proxime evanescat.
+ponamus ergo n=1—‹5 et tang -ζ-ε-ι-Ζ, :ac reperiemus
+
+2⁷. 42³ 248 1⁵
+
+'¹ ' ¹ ’ Μ’τξὶῇ-ῑῇῒῦῖκδψῃξ-ε-ι-εην”“5(2-δ-.-εω)5
+
+ 
+
+ 
+

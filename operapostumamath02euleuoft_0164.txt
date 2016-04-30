@@ -1,0 +1,116 @@
+148 L. EUL-Em OPERA POSTHUMA. nemnem.
+
+Soit maintenant la section d'eau MN sollicitee par deux forces acceleratrices, l’une P selon 13
+direction ΑΡ, et l’autre Q, selon la direction PM; et par les principes de 13 mecanique on aura en
+
+prenant dc pour constant: ¹
+2ddae = Pdt² et 2ddy = th2,
+
+ 
+
+ 
+
+ou bien P= ἀμ et Q= (W 2
+
+οὺ il faut substituer les valeurs de ddoe et ddy, qui leur conviennent en vertu de l'equation
+παι
+
+ῙῙΫυ
+
+ 
+
+dt= 7 en supposant dt constant. De la on aura:
+
+.’ f
+
+zzvdds -÷- 2zvdzds —- {tizdsdv = Ο
+
+et l’on sait qu'il y a sk«
+doeddae -ι- ἆγᾶἆγ —.=' dsddgg
+
+Or, ayant trouve ces deux forces acceleratrices P et Q, on les reduit-a aisement a deux autres,
+
+dont l'une agit suivant la direction du tuyau Mm, et l'autre selon la direction perpendiculaire MN
+de÷Qdy de—de
+ds ds
+
+ 
+
+ 
+
+au tuyau. La premiere sera = , et l’autre = · D'ou remettant pour P et Q
+
+les valeurs trouvees‚ on aura:
+
+2aaeaax-e-2dy ddy— Qdds
+asat² ““ «11²
+deddy — Qdyddoe·
+ds «11²
+
+ 
+
+13 force acceleratriee seion Mm=
+
+et la force acceleratrice selon MN =
+
+01⁸⁸
+
+mv supposant la com-be
+
+Le rayon de la developpee etant pose =1·, on sait que r=
+
+concave vers l'axe.
+
+2111 ds ds dv
+
+..f-
+
+z 2„ 9 les formes cherchees serunt:
+
+ 
+
+ 
+
+Donc puisque dds = —
+
+daz ds dsdv
+
+ 
+
+ 
+
+13 force suivant Mm=— 2 -ι- 2 2
+κᾶε vdt ,
+13 force suivant ΜΝ Ξ-ξᾶξῖτ--Ἔῖο
+
+ 
+
+03 sont les forces acceleratrices, dont la section d'eau infiniment mince MN est sollicitee dans sin-¹
+
+stant present, οὐ 13 vitesse de l'eau dans la section AB du tuyau est supposee = Vv.
+‘mv ’
+
+τι*
+etant negative, marque que l'element d’eau en est pousse suivant la direction NM, c’est a dire vers
+
+2. coron. 1. La force acceleratrice —
+
+ 
+
+2 qui vient d'etre trouvee pour la direction MN,
+
+le centre du cerole osculateur de la courhe AM au point M. En effet, on voit que cette formale.
+
+²54⁹ exprime la force centrifuge qui convient a l'eau, en tant qu'elle est obligee de suivre dans son
+
+ 
+
+mouvement la courbure du tuyau. Car posant la vitesse veritable de l’element d'eau MN = VV , de ’
+
+ 
+
+sorte que V marque la hauteur due ἐι cette vitesse, on aura ’νῖεΞ-ἷεπὲυ, et partant ἓξ Vt. 1
+(1ὀὺ 13 force NM sera :gg-⁷ qui est, comme on sait, l'expression de la force oentrifuge d'un corps Ἴ
+
+qui se meut dans un cerole dont le rayon =r avec la vitesse :VV-
+

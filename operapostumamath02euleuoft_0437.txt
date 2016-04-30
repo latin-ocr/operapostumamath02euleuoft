@@ -1,0 +1,78 @@
+Sur les t‘ndqalile‘s dans Ie mouvement dest planet-93. 421
+
+· ra la plus convenable pour 16 031631. Οι· quoique le corps Q, en tant qu 11 representa une
+tutem soit sollicite par plusieurs forces, il s'en trouvera toujours une, dirigee selon QC et expri-
+§ee par une fonction de ω, par rapport 3 laquelle les autres soient tres petites3 et c'est dans ce
+
+ι mouvement du corps.
+
+:t que nos formules pourront sournir des approximations assez propres pour nous representer 16
+ὲ 11. Probleme 2. Le corps etant d'abord attire au point G par une force qui est recipro-
+
+quement proportionnelle aux carres de ses distances 3 66 point, et ensuite, par d'autrcs
+forces quelconques, tres petites 3 l’egard de 13 premiere, et situees dans 16 plan du mou-
+
+vement du corps, trouver la nature (16 66 mouvement.
+
+,soluti-ou. {Posant, comme auparavant, la distance CQ :¹ae ct l’angle ACQ=90‚ soit 13
+
+Α
+
+ζ’ ’ iere force agissant selon QG = —‚
+
+m et, que les petites forces se reduisent 3 deux, P et Q,
+
+’,ἰ 13 premiere P soit⁴ dirigee vers QG, et ,l'autre Q vers QV‚ · perpendiculairc ὲ QG· AmSi la
+
+³ t e ‘exprimee dans le probleme precedent par P, sera ici ὲ-ι-Ρ, et 13 force Q sera Q. Nous
+‘Q ,- ms donc, comme auparavant, X == -. sQffdsp, et ὲ cause de s—Zadoe Δ.
+
+ 
+
+xx = —x' 2 si nous posons
+
+Ξίῑ -s(Pdae-1- ρωᾶῲ), ‘ce‘ que Y etait ci-dessuS, sera ici Y-i-f}‚ X et Y renfermant les con-
+'j ‘tes qui entrent dans 16 031631 par ces deux integrations. Mais on voit que les parties variables
+
+’ᾗ ,ᾗ ermees dans les lettres X et Y seront fort petites, puiSqufelles resultent des petites forces
+ἱιῐί-οῑ Q. Cela pose, nos deux equations differentielles, qui contiennent le mouvement du corps,
+
+ 
+
+{i t 01ch ' ⁸
+
+33 , · ἀφ :z ’Tv'x- et dae— = ‘— V(Yaeoe-=-Aae—X)
+
+3³ 11 faut remarquer, que si les petites forces P et Q etaient = Ο, les quantites X et Y seraient
+¹ Ξῖ ntes, et 16 corps (166(3310336 section conique autour du foyer C, selon les regies de Kepler.
+
+⁴¹¹! aurait donc, dans 66 cas, β Ὗ
+
+s ι oe= ⁶
+
+'l ³.sp ⁸ 1-—9cosv
+
+. ’Ἰι {b marquerait 16 demi· -parametre de 13 section, q l'excentricite, et ν l’anomalie vraie‚ ou l’elonga·
+ι (16 13 plus haute abside. Gardons donc pour le cas propose 13 meme formule avec cette diffe-
+*r , que les quantites b et 9 ne soient plus constantes, mais variables3 et il est evident, que
+
+'variabilite dependra des forces P et Q. Soit donc
+
+ 
+
+l* oe= Ρ
+¹—qcosv
+
+. . , ,,
+1 dptr 13 nous introduisons‚ au lieu d’une variable ω, trois nouvelles variables p, q et v, mais dont
+
+² ᾗ· ’ seront dete‘rminees par cette condition, que 13 valeur (16 dm doit etre exprimee par une telle Α
+
+·e Zdt sino, ou plut6t par —Zdtsinv, parce que depuis l'angle v=0, 13 distance ω va 63
+
+= Ayant donc
+
+doe=-1}V(Ya=oe-n-Aoe—X)‚ ou dae=de1s(Y-0-——3-)
+
+ΦΦ
+

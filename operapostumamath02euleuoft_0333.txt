@@ -1,0 +1,48 @@
+mc& ,.
+
+XII.
+
+vsolutio duorum problematum, Astronomiam mechanicam
+spectantium.
+
+5633
+
+——-—-——.
+
+1. Problema. (Fig. 192).⁷ Si corpus sphaeroidicum ex materia homogenea conflatum, attraha-
+tur ad centrum virium 0, cujus vis sit reciproce proportionalis quadratis distantiarum, in-
+venire mediam directionem, secundum quam hoc corpus urgebitur. .
+
+solutio· Repraesentet circulus ‘AGBH sectionem hujus corporis per ejus centrum C ad axem
+nnormaliter factam, seu sit iste circulus planum aequatoris hujus corporis sphaeroidici propositi, in
+5Pb¹¹0 tabulae exhibitum, et recta EF, quae huic plano normaliter insistere concipienda est, referat
+,ἱωπι corporis, cujus idcirco poli sint in E 'et F. Ponatur radius aequatoris CA = CB: a, semissis
+fluis (ΣΕ-τ CF= b. Sit centrum virium ubicunque ,situm in 0, unde ad planum aequatoris demitta-
+{ntur perpendiculum Οὓς per D et centrum C agatur recta DAOE, huicque diameter perpendicularis
+¹lGB. Vocetur distantia Cn:- Γ et OD = 9, 'ita ut sit V(ff -1-4‘99) distantia centri virium Ο a centro
+v»eorporis C. Jam consideretur corporis quaecunque particula M, unde ad planum aequatoris demitta-
+
+  
+
+{itur perpendicularis MQ, et‘per Q diametro AB normalis ducatur corda NPN‘. Vocentur nunc
+'tff'ffinaffff CP=ae, PQ=y et QM=z3 per P quoque axi EF parallela agatur recta RPR', et
+lmen! ipsi NN' parallela MRM'‚ atque per R trajiciatur TR ipsi DC parallela, erit
+
+l
+
+DT=PR=QM=z, MR=PQ=Y› TR=DP=f—oe et TO=9—z.
+
+'Hinc fiet TM=V((s— ae)² -ι-γγ), et distantia puncti M a centro virium Ο, nempe recta
+
+l M0=1s(rr÷‹r—oe>²÷w—z>²)‚
+
+‚Usque brevitatis gratia ponatur = ν. Urgebitur ergo punctum M in directione ΜΟ vi acceleratrice‚
+
+bmdrato ν’ reciproce proportionali; sit ergo haec νὶε-τ-ἒ, qua punctum M in directione Mo
+
+ἶ
+ἑ
+l
+
+immutatur. Resolvatur haec vis'secundum directiones Mm ipsi Do parallelam, et MT, eritque vis
+

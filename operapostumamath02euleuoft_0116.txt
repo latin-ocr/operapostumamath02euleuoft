@@ -1,0 +1,92 @@
+100 L. EULEm OPERA PosTHUMA. Maiam-00 ζ
+
+solution du problemc propose· car a present nous n'avons plus que cinq quantites inconnues: ω, γ, ,
+
+     
+   
+      
+   
+      
+
+z, ιι, s 3 de'terminer.
+
+ἕ 32. Quoiqueces trois equations que nous venons de trouver, soient differentielles du second:
+degre, pourtant chacune ne contient que trois variables, et ce qui est principalement a⁴remarquer,⁵
+elles sont tout-a-sait semblables entre elles, et cette meme ressemblance nous ouvrira un chemin
+pour parvenir a la solution que nous cherchons. En considerant les trois equations differentielles'
+
+du second degre qui sont·
+
+,τ ddx dud-‘B —ddy εἰκάς] z ddi dudz
+l‘ -Ῑ-Ῐ- -ῇ-Ι-Ξιιάεἳ, Π ff ——d32 -Ι-Ξιιάεἳ, nl — :552—42uds2’
+
+ 
+
+ 
+
+ 
+
+il est d'abord clair, que si nous avions la resolution de lune, nous ne manquerions pas de connaitre
+les deux autres Car supposons que la valeur de ω nous soit connue, et l'on verra sans aucune
+difficuhe, qu 'on satissera aux deux autres equations en prenant γ et z ou egales a m, ou en une
+raison constante a la meme ω. Car posaut y =mae et z= noe, 13 seconde et la troisieme equations
+
+se re'duiront a la premiere. ’ ''
+
+§ 33. Supposons donc y=moe et z=noe‚ et nous aurons
+
+udae² mmudx² , nnudae²
+P=as2' elz—ff-:mmp et r= ds, =nnp3 ι
+
+ 
+
+ 
+
+ce qui nous donne la solution d'un cas particulier du probleme proposc. Gar ces relations devant:
+
+subsister toujours, nous aurons, pour 16 commencement du mouvement,
+
+b=ma, c=na, βεηιηια et y=nnoe.
+Δ1
+
+Or, parce que Vss = πηνα et lsy=n1sa, cette solution se rapportera au cas ou les vitesses propreq
+des corps enfermes dans le tube, Va, ’νβ et νγ, sont proportionelles aux distances 0A=a, OB=123
+ot OC=c, c’est a dire, ou les chemins ΑΡ, BQ, CR que les corps decrivent, sont egalement in,
+clines a la direction du tube OF. Si donc des le commencement‚ de pareils mouvements 'ont ete
+imprimes aux corps, le meme rapport subsistera toujours, et par consequent, les lignes ΑΡ, BQ, CR
+
+seront semblables entr'elles. Mais dans ce cas, l’equation Vll se changera en celle-ci
+
+(Aaeae -ι- mm 13aeae -ι- ηη Caeae -ι- Mlclc) Va = (Aaa -ι- mm Baa -ι- nn Caa -ι- Mkk) Vq,
+
+να- Mka9÷aa(A÷mmB-n-nnc) Vq
+
+,, , .
+dou 10ss ure Mkk÷oex<A÷mmB÷nnC>
+
+et differentiant les logarithmes ⁴1⁸⁶— — 2oed=⁷c <A -ι- mmB -*- Mc) J
+2u=1mc1e -ι- ,τω (Α -ι- mmB -ι- nnc) ἔ
+l
+
+Soit, pour abreger, A -ι- minB -ι- nnC -—-= D, et la valeur
+
+du —2Daedx ν
+27⁴: Mkk-f-Daex
+
+x ‹id-z dud-2:
+ᾗ* =— αεὶ “’““
+
+ 
+
+ 
+
+substituee dans l'equat'ion 2u ‹122'
+
+oeds² = ddoe - 2Doedx²
+
+donnera —ff- ΜΗ -·- ΒΜ·
+
+ 
+
+‚tl
+

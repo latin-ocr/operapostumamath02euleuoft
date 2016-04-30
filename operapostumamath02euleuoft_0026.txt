@@ -1,0 +1,64 @@
+ιο L. EULERI OPERA POSTHUMA. nectam-00. ῗ
+
+56. Problema ’1. Fig. 22. Quotcunque potentiarum BA, CA, DA, EA, etc. puncto A ap·
+
+plicatarum invenire centrum M.
+
+solutio. Ducta quacunque recta GH, ex punctis R, C, D et Ε extremis potentiarum datarum,
+in eam rectam demittantur perpendicula Bb, Cc, Dal, Ee, quorum summa aequalis eritv distantiae
+centri potentiarum M a recta GH, ductae· in numerum potentiarum (51⁵). Erit ergo distantia centri
+potentiarum a recta GH aequalis summae omnium perpendiculorum Bb, Cc etc. divisae per' numerum
+potentiarum. Accipiatur in· HJ, normali in GH, distantia haec centri sic inventa Ημ. Dein de-
+mittantur ex punctis B, C, D, Ε in rectam HJ perpendicula, erunt haec bH, GH, dH, εΗ. Quorum
+summa divisa per numerum potentiarum exhibebit distantiam centri quaesiti a recta HJ; sit ea Ηῃι.
+Compleatur rectangulum ΗηιΜμ. Cum puncti M distantia a HG sit ΜηιΞΗμ, ει, a HJ, sit
+
+Μμε Hm, erit M centrum potentiarum quaesitum. Q. E. l.
+
+57. Col-oll- 1. Ducta ergo AM, eaque pro numero potentiarum replicata, habebitur potentia
+
+omnibus aequivalens.
+
+58. coron. 2. Fig. 23. Si numerus punctorum B, C, D, etc. sit infinitus, constituatque cur-.-
+vam continuam BE, simili modo invenietur centrum potentiarum. Quaeratur summa omnium distan-
+tiarum punctorum M, m a recta GH, eaque dividatur per numerum punctorum, qui exprimetur curva
+BME, et obtinebitur distantia centri potentiarum a GH. Eodem modo quaeratur summa distantiarum
+singulorum curvae punctorum a recta HJ, qua divisa per curvam BME', obtinetur distantia ejusdem
+centri a recta HJ et hoc modo determinabitur. Accipiatur elementum curvae quodvis Mm, quod
+dicatur ds3 demittantur perpendicula MP, mp, sit PM z γ, exprimet yds summam distantiarum
+punctorum in Mm contentorum a GH; ergo syds exhibebit summam omnium punctorum in ‘BE
+distantiarum a GH. Ergo sydszssME aequatur distantiae centri potentiarum a GH. Eodem modo
+demissis ex M „et m in HJ perpendiculis MQ, mq dictoque MQ=ae, erit distantia centri a
+HJ = s oedszBME. Unde dabitur
+
+59. Exemplum. Sit Fig. 21* curva parabola AMC parametri a; sit AP=ae, PM = γ, AB
+axis curvae, erit yy=aoe, ergo
+
+Mm = ds :3⁹ V(aa -ι- liyy) , unde yds = Q is(aa -ι- Ιιγγ);
+
+.- aa 2
+
+erg-o [γᾶεΞῇ-(αα-ι- ῐιγγ)2 —E 3a --ι-Υγ>ῑ -.-,
+
+sit E focus, erit ΑΕεῑα, PE=ae —{a, ergo
+
+EM =÷G¹I⁰÷yy> et ss÷yy=a.EM, consequenter syds--z—EMVa. ·EM-†·;‘
+
+Ducta tangente MT et demisso ex foco Ε perpendiculo EN, erit EN ——2—Va.EM, unde
+
+——-—-
+
+3 3 “3’ ΑΕ
+
+ 
+
+ 
+
+sy ds=⁴¹³³¹⁶¹m um 4 (ΕΝθψ-ΑΕΒ).
+
+—24OE1v—AE2)
+
+Ergo distantia centri potentiarum arcus AM ab axe AB est— - 3AE AM Dein aud-5:⁹5⁹ V(ws† Ery),
+
+ 
+

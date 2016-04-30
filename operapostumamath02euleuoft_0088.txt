@@ -1,0 +1,95 @@
+72 ’ L. EULERI OPERA Posuimus„ Meckanica
+
+42. Coton. 2. Corpus autem P, quod ante conjunctionem referebatur ad punctum superficiei
+Q· per normalem PQ, ad quod punctum etiam a vi P essetreductum, si superficies immobilis ex-
+
+titisset, nunc non in q sed in p cum superficie coit, ita ut propter hanc conjunctionem spatiolum qp
+mnA-PQ
+
+ 
+
+confecisse sit censendum; quod'spatiolum est pq=n÷mmA
+
+143. Col-011. 3. Si ergo ¹ad locum corporis P ad superficiem relatum respiciamus, durante con-
+
+gregatione hoc corpus censendum est percurrisse spatium pq, ideoque corpus P censendum erit
+
+4η — 4πιπΔ. PQ
+
+sollicitari„ secundum directionem tangentis vi acceleratrice εἷ’-2 - (M÷mmA) w· Secundum directio·
+
+nem normalem autem PQ corpus P sollicitatur vi acceleratrice :3ss ⁴²¹·PQ
+
+A :ww-emmas
+
+ 
+
+ 
+
+ 
+
+lili. Problema 6. (Fig. 136.) Sit superficies ABG liberrime mobilis super basi EF, cujus
+massa sit =M, quae autem ipsa a nullis viribus sollicitetur: Super ea vero moveatur corpus P,
+cujus massa sit =A, a viribus quibuscunque sollicitatum, unde non solum in ipso corpore P, sed
+etiam in superficie motus generetur: determinare ad quodvis tempus motum cum corporis P tum etiam
+superficiei AB.
+
+solutio. Pervenerit post tempus quodcunque t superficies in situm AB, ubi habeat motum
+secundum BC progrediendi cum celeritate debita altitudini ιι. Corpus vero hoc tempore versetur in
+P, ubi sit ejus celeritas relativa secundum directionem tangentis PQ debita altitudini v. Praeterea
+autem habet motum cum superficie communem secundum directionem Pp celeritate ενα, quibus
+duobus motibus conjunctim verus corporis motus constituitur. Sollicitetur autem corpus in P a
+duabus viribus acceleratricibus‚ altera tangentiali =T, altera normali. =N. His positis investigemus,
+cujusmodi motum corpus P tempusculo dt sequi debeat, si esset liberum et a superficie sejunctum.
+
+Primum igitur ob motum relativum in directione PQ et vim tangentialem perveniet tempusculo 'de
+
+in Q, ut sit PQ=dth÷ ss. Hinc vero ob motum secundum Pp, perducetur in q, ut sit Ως
+
+parallela ipsi Pp, et =dt Vn. Denique ob vim normalem ex q-in r· traducetur, existente ᾳνεΝ-ἶῗ
+
+et normali ad PQ; existetque'adeo corpus P post tempusculum dt in puncto r, si a superficie
+esset solutum. Quoniam. vero superficies a nullis viribus sollicitatur, motu insito perveniet iu situm apb,
+ut sit Bb=Pp = dt Va, eritque recta pq tangens curvae in hoc situ. versabitur ergo corpus iu
+
+r extra curvam aph, in qua tamen revera ponitur inclusum. Cum igitur tubus apb in se corpus
+
+contineat firmitate sua per vim normalem, quam a corpore sustinet, per similem vim normalem corpus τ
+
+,οφ
+
+ex r tempusculo dt in curvam reduci debet. Sit anguli PQq‚ quem tangens curvae in P cum basi
+
+E'F constituit, sinus =m, cosinus =n‚ et curvae in P radius osculi =r, erit qn=⁹⁹² —P02 ’
+
+—-
+
+Ναε2 1²02— Νιιι2 ναι*
+
+ἳι·-“-ἳ”ἶ’Δ
+
+ideoque distantia corporis a curva rn=—4-i-3r——- 4 —i——ff- Quamobrem per praecedentem ⁴
+
+ 
+
+propositionem restitutione corporis in curvam primum superficies AB secundum directionem BC sol-
+
+licitabitur vi acceleratrice, quae erit = ⁴⁷⁸⁴ '¹⁷‘ Μ «
+
+ 
+
+ 
+
+mnA
+
+ 
+
+ex ejus massa A in vim acceleratricem, quae requiritur ad corpus ex r in curvam reducendum,
+
+(M÷mmA)'Et—²=M÷mm4(N÷2{)· Deinde ipsum corpus ·
+secundum curvae tangentem P Q praeter vim tangentialem T sollicitabitur vi‘ acceleratrice = .
+
+. .,,“
+
+amm (Ν -ι- ἓὲ) Denique vero corpus in P superficiem premet normaliter vi, quae est productum ἵ
+

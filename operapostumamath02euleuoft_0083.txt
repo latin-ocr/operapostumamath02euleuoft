@@ -1,0 +1,70 @@
+ 
+
+De motu corporum super superficiebus mobilibus, 67
+
+quoniam punctum mobile perpetuo superficiei inhaerere ponc, tanquam in tubo movebiturss 'Ex quo
+tota quaestio huc reducetur, ut determinetur motus puncti in tubo sive recto sive curvo, utcunque
+moto. Ac primo quidem hunc tubum, ¹inquo corpus: instar ,puncti consideratum moveatur,- ‹immo-
+
+bilem assumam, quo facilius hinc solutio ad tubum mobilem derivari queat. - ι’ f· - ι
+
+20. Problema 1. (Fig. 13'1.) invenire motum corporis Ρ super superficie immobili AB, ''si
+s corpus P a nullis viribus sollicitetur, ² · ·
+
+solutio. Ponatur corpus in P hahere celeritatem altitudini v debitam, qua celeritate nisi su-
+perficiei AB inhaerere cogeretur, moveri pergeret in directione tangentis Pa, atque tempusculo dc
+absolveret spatium Pnzdth. lmpenetrabilitas autem' superficiei impedit, quominus corpus P se-
+. mitam Pp deserat, atque perinde in corpus aget, quasi id continuo a vi, cujus directio ad Pp sit
+normalis, sollicitaretur, Sit haec vis acceleratrix =q,-qua corpus secundum Pa progressurum continuo
+normaliter ad Pp sollicitetur, haecque vis tanta esse debebit, ut* temp,usculo dt non spatium Ρπ sed
+‚ arculum Pp, qui ipse sit particula viae praescriptae AB, absolvat. At per (13) vis acceleratrix q,
+
+>cujus directio ad Pp vel Ρπ est normalis, corpus cogetur in arcu circuli progredi, cujus radius est
+
+ἐξ, qui ar,cus ut cum elemento curvae Pp congruat, necesse est ut ῗῖ aequalis sit radio osculi
+curvae AB ιιι P. Sit igitur radius osculi curvae in puncto P=r·‚ eritque {3:7· et ᾳε-ἶ-ν· Tum
+
+qq ἀι2
+
+ 
+
+vero ,si celeritas in p debita ponatur altitudini c> -ι- ἀν, erit dv: ‚ ideoque ob dt2 differentiale
+
+secundi gradus erit dv=03 atque corpus motu aequabili super su⁴perficie AB incedet. Q. Ε. 1.
+
+21. coron-1. Quoniam igitur corpus super superficie AB motu aequabili incedit, si ponamus
+‘corporis initio in A celeritatem fuisse debitam altitudini c, hanc eandem celeritatem continuo con-
+
+servabit, eritque in P altitudo celeritati debita v =c.
+
+22. corou. 2. Si ponatur arcus AP=s, *et ejus elementum Pp== ds, quod tempuscnlo dt
+
+¹ ¹ celeritate Vc percurritur, erit ds— - dt Vc, hincque dt— = ΐ-σ, ex quo fit· tempus t-——Jc— .- {47} Quare
+
+spatia percursa erunt temporibus proportionalia, omnino ut motus aequabilis postulat.
+
+' 23.1301·011.3. Quoniam vero ipsa curva ad corpus in superficie Pp continendum normaliter
+
+³ ’ in corpus agit vi acceleratrice (ΙΞ-Ξὲ--Ξῖοᾏ tanta vi corpus vicissim curvam in P secundum directio-
+, nem normalem -PQ premet, haecque pressio aequalis erit vi motrici in corpore P ex vi acceleratrice
+
+'q orta. Quare si massa corporis P ponatur = A, erit pressio, quam superficies a corpore in di-
+
+2210
+
+rectione PQ sustinet, -Λᾳ-ε-Γ, ubi A simul denotat pondus, quod corpus P esset habiturum,
+
+si esset grave.
+
+21». col-011. 4. Quamvis ergo 'corpus P ponatur gravitatis expers, tamen dum in superficie AB
+' incedit, pressionem exerit normalem PQ, quae erit ad pondus corporis P, quod esset habiturum, si
+- gravitate gauderet, uti se habet altitudo celeritati debita c ad semissem radii osculi curvae in P.
+
+‹ *²* 25.· Prome-na 2. (Fig. 132.) lnvenire motum corporis P super superficie immobili AB, si
+l. 'corpus P interea a viribusx quibuscunque sollicitetur.
+
+80111ίί0. llabeat corpus P cum in l’ venerit, celeritatem debitam altitudini vv, qua ergo si
+
+³ sibi esset relictum, secundum tangentem Ρη progrederetur, atque tempusculo dc conficeret spatium
+ᾖ
+

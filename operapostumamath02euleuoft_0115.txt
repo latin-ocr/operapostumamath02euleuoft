@@ -1,0 +1,84 @@
+De motu corporum in tubo mobili circa axem fimum. 99
+
+variables. Et quand meme on pourrait surmonter toutes *les difficultes, qu'on rencontre dans ce cas
+de trois corps, en suivant les regles ordinaires de l’elimination‚ on sera pourtant oblige d’avouer
+qu'une pareille operation doit devenir tout ἐι fait* impossible, si le nombre des corps etait plus grand.
+Π est vrai³ccpendant, qu'on peut trouver encore une equation integrale qui comprenne la conser-
+yation des forces vives et qu'on obtiendra de la maniere suivante. L’equation differentielle, d’ou
+
+<nous avons tire la valeur de ιι, se reduit ἐι cette forme
+
+Aoeaedu -ι- Byyda -ι- Οζῑάιι’-ι- Mkkda -ι- ῐιΑιιωᾶαε -ι-’ῑιΒαγᾶγ -ι- [ι Cazdz τε Ο;
+
+mais les equations IV, Vv et Vl donnent
+Affdp — 2Aaaedoe = 0, Bffdq — 2 Βιιγᾶγ = 0, Cffdr — 2Cazdz = Ο,
+eqtmtions qui, etant ajoutees ἐι celle le, produiront cette somme
+
+Affdp -ι- Bffdq-r- Cffdr -ι- Aoeaeda -ι- Βγγᾶιι -1— sz da÷Mkkda÷2Aaaedae÷2Bayds -ι- 2 Cuzdz = Ο
+
+dont l' integrale appliquee au cas propose sera
+Affp—i-Bffq-i-Cffr—i- A xoeu—i- Βγγιι-ι- szu—i— Mlclca = Affa÷Bffl3÷ Cffy-r-Acra 9—1—Bbb9—i-Cccq—i-Mkk9
+
+laquelle, etant divisee par ff, montre evidemment la conservation des fcrces vives. Mais de cette
+equation, quoique integrale, nous ne tirerons presque aucun avantage3 car quand meme nous vou-
+drions, par le moyen de ces deux equations integrales, eliminer deux variables, le calcul deviendrait
+
+si e'mbrouilie et si penible que personne ne pourrait le developper ni le subir.
+
+§ 31. 11 nous faudra donc chercher un chemin qui ne soit trouble ni par d'inextricables calcu18‚
+ni meme par un plus grand nombre de corps contenus dans le tube. A cet effet, des six equations
+
+premieres je joindrai ensemble deux ἐι deux, savoir la 1 et lV, la 11 et V, la 111 et Vl, et par
+
+udoe²
+ἀε2
+
+ 
+
+&etto combinaison, je pourrai eliminer les quantites p, q, r. La premiere equation donne p— = 2
+
+d‘ou, en supposant l’element ds constant, nous tirerons
+
+dae²du Qudxddoe
+
+1. 11³² ’μ *11³² ’
+
+ 
+
+ 
+
+dp:
+
+i , . max
+
+¹ or la quatrieme equation donne dp: ff ; par consequent, nous en obtiendrons l’equation suivante
+
+ 
+
+Qum duda: ‘2qu . . ω ddae duda:
+7: W -ι- ds, , ou bien celle-ci 7f= «1³2 *ffis‘i‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Par la meme methode‚ nous reduirons les equations 11 et V, en eliminant la lettre q, ἐι celle-ci
+Ι
+
+1 et les deux equations 111 et VI donneront
+
+y —ddy dudy
+7:312* “““ ww
+
+z ddz duda
+777: ‹il—⁸² ’.- 2ud32·
+
+ 
+
+ΙΠόἱΙέιι donc les six equations reduites ὲ trois qui, conjointemcnt avec la septieme‚ renscrment la
+a*
+

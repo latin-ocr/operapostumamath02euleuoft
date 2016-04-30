@@ -1,0 +1,93 @@
+, Astronomt'as mechanica. . 287
+
+. 205. Scholion 1. Quando ergo motus corporis perturbantis N constat, ut ad singula tem-
+
+poris. momenta ejushlocus assignari possit, tum ope nostrarum formularum perturbationes singulis
+ἶ momentis produc-tae assignari poterunt. Haec antem temporis momenta, etsi in calculo infinite parva
+gunt⁴ assumta, 'tamen ‚plerumque satis notabilia temporis intervalla, veluti horae, dies, quin etiam
+
+hebdomades. eorum loco assumi licet, siquidem his intervallis exiguae mutationes oriuntur, vel potius
+l quamdiu mutationes tempori fuerint proxime proportionales, Quatenus enim eae a ratione temporis
+recedunt,‘ eatenus tempus· in minores partes secari oportet. lta hae formulae commode adhiberi
+, poterunt, si quaestio fuerit, ‘quantum motus cujuspiam planetae principalis ab ,actione alius planetae
+flel- cometae perturbetur, siqnidem utriusque motus in idem fere planum incidat. Ex eodem fonte
+¹ Geleb« Clairaut perturbationem motus¹ cometae jam apparituri, qui retro annis 1682 et 1607 fuerat
+observatus, feliciter determinavit, quod negotium etsi summopore laboriosum, eo felicius successit,
+quod perturbatio, tantum, quoad in vicinia planetarum Jovis ac Saturni versabatur cometa, fuerat effecta.
+‘3‘ 206. Sehsslion 2. Expressiones inventae in alias formas transfundi possunt introducendo an-
+k gulos trianguli LMN. Si enaim ponamus hos angulos MLN=q>-a=z, LMN=y et LNM=ae,
+¹ ' νείκη] vsinz
+
+1 ¹1³1l58it OE4Y÷z=180⁰' erit 11:5¹¹oe et w: ⁸5¹¹ae
+
+ 
+
+ 
+
+‚ quibus valoribus introductis ob
+
+d90=ng29p(L-÷-M) et 0- ¹³ 2
+
+''- 1÷qcoss
+
+ 
+
+, ἧῇθήῃῃωῑ variationes ¹tempusc'ulo dt productae:
+
+¹ “²³¹‘' 1, · pro variatione semiparametri P, Ἰ
+Eli ι · ” ’ ’ ⁵ -.
+
+ι -anmpsiffl-‘iv · 3 · 3
+dP = wau-(⁸¹¹¹ Υ ⁵¹¹¹ ²)³
+
+Ϊ ζ’* ² ’2. 'pro variatione semiaxis transversi r,
+
+, 'eu'z dr·-.···²””'‘¹⁹’⁸¹¹¹²³'
+
+t· ᾗ . psin²ysin²z
+
+¹ ael etiam hoc :modo
+
+((1 -ι- q coss) “inv-4- sin3z) -ι- q sins <sin²y cos γ -ι- sin² z cos z));
+
+ 
+
+ 
+
+’ ἄν, = -Qnrrdo sin²x
+
+ψ mmmm& (sin3y—sin32-1-qsin2y sin (y 43) -’-. q 351122 gin (z - 8));
+
+ 
+
+› τι, „ ’3, pro variatione excentricitatis q,
+
+-πάφ sin²x
+
+ 
+
+dq= . 2 . 2 (sins(sin²y cosy÷sin²z cosz)—1-(2⁰‘”³⁸1''‘q———ssgffl⁵-²—⁸)(sin3y· —sin³z));
+amysnnz , V J¹÷q⁰⁰fl⁸
+
+ 
+
+14. pro variatione longitudinis absidum α,
+
+doe = ndaep sin²oe
+
+sin a (2 -ι- q cos s) (sin3y - sin³z));
+q sin²y sin² z
+
+1-i—qcoss
+
+ 
+
+(cos s <sin 'y- cos γ —r- sin²z cos z) —
+
+¹
+
+l Cum hae formulae non parum sint complicatae, quovis casu oblato non tam facile dici potest, utrum
+l hae· variationes fuerint positivae, au negativae? antequam veros earum valore's evolverimus. interim
+¹ Quia ex istis formulis variationes casu 90—29=z = 0 colligere haud licet, priores formae* in praxi
+l anteferendae videntur. ’ ” “ ·
+

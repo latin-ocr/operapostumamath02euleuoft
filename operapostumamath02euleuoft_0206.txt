@@ -1,0 +1,61 @@
+190 L. EULERI OPERA POSTHUMA. Astron. meet.
+
+46. Problema 2. (Fig. 173.) Si corpus finitum attrahatur ad punctum N valde remotum, aa·
+ad corpus, cujus totam massam in eo puncto collectam concipere licet, invenire vi·
+attractricem, qua illud corpus sollicitatur. y (a
+
+solutio. Sit J centrum inertiae corporis attracti, et JA, JB, JC ejus axes principales, (1(ἑὲ
+Ρθ
+
+rum respectu ejus momenta inertiae sint Maa, Mbb, Mcc, denotante littera M ejus massam. Cor
+
+autem attrahentis centrum inertiae sit in Ν, cujus effectus ut perinde se habeat, ac si tota ej?
+massa, quae sit =N‚ in puncto N esset collecta, hujus corporis momenta inertiae omnia inter ’ἑ
+aequalia sunt concipienda, quemadmodum ex § ῖιΟ intelligitur. Hoc posito, singula corporis Affi
+elementa ad ipsum punctum N attrahantur viribus distantiarum quadratis reciproce proportionaliffl
+et quoniam hae vires aequales sunt et contrariae viribus, quibus corpusculum in N collocatum, cufi
+quidem massa esset =N‚ ad singula corporis M elementa attrahitur, 'vis etiam tota, qua corpusess
+
+a corpore N sollicitatur, aequalis et contraria erit vi, qua corpus N, ut punctum consideraturum
+
+inertiae distantia JN -h et anguli NJA— = α, NJB= β, NJC=y, ductisque ex N rectis Να, ‚
+
+corpore M attrahitur, et quam in problemate praecedente determinavimus. Ponatur ergo centro Α
+Ny parallelis ternis axibus principalibus JA, JB, JC corporis attracti, vires, quibus corpus}
+
+ 
+
+ 
+
+sollicitatur, ita ad directiones Να, Νβ, Ny reducentur, ut sit vis M
+sec. Να- = ]ι1Νοοεοια(1-ι--εῖα-α-(3 - 5 cos ἙΙα) -ι- Qss — 5 cos26) -i-{ffss — 5 cos’y))‚ il·
+sec. NsszMng⁰⁸ss(1÷}-22(3—5cos²ss) 3⁰⁰ Τἠμί-5609, y)—i-—(1—5cos² α)), Ἱξ
+
+     
+
+ 
+
+sec. ΝγεΜἚοεγῌ ÷³—⁰⁰(3—5cos² y)-i-——(¹-Scos² α)-ι-- (1—5cos²,6)) Μ
+quippe quae sunt aequales et contrariae iis, quas in problemate praecedente invenimus, nisi ὦ
+hic corporis attrahentis massa sit N, cum ibi ejus loco habuissemus litteram m. Etsi autem .›''-·
+
+vires hic ad punctum N siut relatae, tamen corpus ΑΒΕ sollicitare sunt censendae; scilicet qs Ι
+
+’ oportet vim illis ternis aequivalentem, cujus directio ad corpus ΑΒΕ usque producta vim hoc ,ις ,
+
+in §143 vires corpus ΑΒΕ sollicitantes ita repraesentari possunt, ut primo adsit
+
+vis sec. JNss—-st-ss(i÷{ffl(1—3cos2a)÷{—22(1-300s²ss)-‘·-⁵—⁶⁰(1—3c0s²y))
+
+tum vero hae tres vires valde exiguae
+
+Να- ΜΝ (2 aa— ——bb —cc) cos a
+
+Sec. '³4 9
+sec· Νβ- — ΜΝ (Ξὸῦ- (11Ϊῇ cc) cos β
+sec, Ny = Q.
+
+’.Α
+
+ 
+

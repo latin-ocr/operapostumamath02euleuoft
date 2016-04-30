@@ -1,0 +1,103 @@
+204 L. EULERI OPERA POSTHUMA. Astrammech.
+
+Ἧι. col-oll- 1. Ex dato ergo tempore periodico T pro quovis tempore dato t angulus inter-
+ea descriptus φ per hanc analogiam facile definitur th= 360⁰: φ; unde pro diebus, horis, minutis
+
+et secundis motus angularis q> assignatur.
+
+75. Col-oll- 2. Ex tempore etiam periodico T et radio circuli descripti f, determinatur di-
+
+stantia corporum d, in qua eorum vis attractrix, qua Β ad A urgetur, aequalis est ponderi corporis.-
+
+Qnrlsf
+
+B, cum sit d: TVQ ‚ ubi perpetuo est tenendum, tempora in minutis secundis exprimi oportere.
+
+ 
+
+76. Col-oll- 3. Si idem corpus Β modo in majori modo in minori distantia eirca corpus A
+in circulo revolvatur, erunt tempora periodica in ratione sesquiplioata radiorum, seu quadrata tem· Ι
+porum periodicorum erunt ut cubi radiorum.
+
+77. Problema. Si orbita, in qua corpus Β ex Α spectatum moveri videtur, fuerit ellipsis,
+
+rationem motus definire.
+
+solutio. Erit ergo numerus n, quo excentricitas exprimitur, unitate minor, ac si ponatur
+
+semiparameter ΞΓ, anomalia vera seu angulus ΕΑΒ-ες, erit absidis imae C distantia AC: s-orsss'
+f Γ
+
+-nn 1—nn
+imae C seu angulus Eijza, a directione fixa ΑΕ computata, a qua corpus Β egressum elapso
+
+2 et semiaxis conjugatus =
+
+ 
+
+semiaxis transversus =
+
+ 
+
+Statuatur autem longitudo absidis
+
+‘ tempore =t pervenerit in Β, ut sit longitudo ejus EAB=90, erit 90=a÷s, ac habebimus has “
+
+aequationes: Posita distantia AB=02
+
+ν — s fis! s 1 &Arc-cos n÷coss - nsins )’ “ 1
+
+— 1÷n coss
+
+ett
+
+ 
+
+ 
+
+ 
+
+quae formula proprie indicat tempus, quo corpus ab abside ima C in B usque pervenit, anomaliam-
+
+:m .,·(1..rm)² 1÷n coss (1—rm)(l-*-ncou) 5
+que veram CAB=s absolvit, quod tempus primo definiri convenit, cum deinceps ex eo tempus l
+
+i
+,4
+
+pro angulo ΕΑΒ = φ haud difficulter concludatur. Cum igitur posito s=0 fiat t=0, statuamus
+s == 180⁰, erit tempus ab abside ima ad summam
+
+W! π
+
+ 
+
+ 
+
+= V29 (A-o-B) ⁰ Ξ,
+
+(ι - rm)²
+
+6
+
+cui iterum aequale* fit tempus a summa ad imam, ita ut totum tempus periodicum‚ quod ponatur l!
+= T, futurum sit κ ³t
+Ξ ΞΠ fys . Ι·
+
+(1--r·v·)³1s52,‹1(A-1-13)⁹
+
+ 
+
+quo tempore integra revolutio seu anomalia vera :360⁰ absolvitur. Hinc si motus angularis esset ,ἰή
+
+aequabilis tempore t, conficeretur angulus ετ, ut sit ' 4
+
+mss ἶ {1
+
+a :tss360⁰:v, seu t=·—·-··a-—-·— ,,
+(1 - „10³ νὴ, (A ÷ B) ‹1—nn)³1‘29 (Δ ⁴- 12) ἐ·“
+
+2⁷tt’1st'
+
+ideoque ex cognito tempore periodico T, si motus esset aequabilis ad quodvis tempus elapsum t,
+

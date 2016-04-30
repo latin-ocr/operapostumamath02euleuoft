@@ -1,0 +1,51 @@
+24 L. E ULER Ι OPERA POSTHUMA. mechanica.
+
+yy ss (noe -ι- ὲ)2 (αα - ῐιωω) = nnaaoeoe -·- lvnnoe⁴÷ naaoe — lvnoe³÷ {aa — aeoe,
+aequatio ad curvam quarti ordinis. Et quoniam y· habet duas dimensiones, erit curva ex utraque
+axis plaga eadem, quapropter curva satisfaciens erit una continua curva, non ex duabus curvis com-
+posita. (Fig. 67).
+121. 'theorema 121. Fig. 68. Si fuerit puncto 0, intra angulum AOB sito, potentia quae-
+
+cunque OC applicata, producta CO, erit potentia, qua AO premitur, ad potentiam, qua ΒΟ premitur,
+ut cos BOF ad cos AOF.
+
+Demonstratio. Vis OC resolvatur in duas laterales OD et OE, quae sint perpendiculares in
+AO et OB. Cum vis 00 aequivaleat duabus OD et OE simul agentibus (38), vis autem OD tota
+in pressionem lateris AO, et vis OE in pressionem lateris OB impendatur, erit viS, qua AO premi-
+tur, ad vim, qua ΒΟ premitur, ut OD ad OE, seu CD, i. e. ut sin DCO: sin DOC; sed sin DCO=
+sin COE, et ob angulos AOD, BOE rectos, est sin COE=cos BOF et sin DOC= cos AOF. Ergo
+vis in AO est ad vim ἰῐῖ ΒΟ, ut cos BOF ad cos AOF. Q. E. D.
+
+122. Coroll. 1. Fig. 69. Si ergo fuerint duo plana inclinata AO et Bo in O concurrentia,
+et in angulo pondus 0 incumbat, quia in hoc casu OF est verticalis, ducatur horizontalis MN, et
+erit cos AOF :sin ΛΟΜ et cos BOF =sin BON. Quare vires, quibus plana haec inclinata premun-
+
+tur, sunt reciproce ut sinus angulorum inclinationis.
+
+123'.co1·011.2.Fig·.68. Si OC in OD incidat, tota vis in pressionem lateris Ao impen-
+ditur; si autem ultra OD cadit, tum punctum Ο non amplius in aequilibrio persistit, sed juxta OA ⁴
+movebitur; ut ergo O in quiete persistat, oportet ut OC intra OD et OE cadat.
+
+‚Seetlo secumda-
+
+De aequilibrio potentiarum, virgae rigidae applicatarum.
+
+124. Axioma 5. Fig. 70. Si figurae cujuscunque( ACD puncto A applicata fuerit potentia {⁴
+AB, eundem haec in figuram exercet effectum, ac si in puncto quolibet alio M, in AB producta '³
+
+assumto, applicata fuerit secundum eandem directionem agens.
+
+125. Scholion. Veritas hujus axiomatis cuique facile innotescet, hoc modo rem consideranti, i
+ac si filum in M fixum secundum directionem ΜΒ traheretur3 tum enim figurae usque in A vexacte ᾗ
+adjacebit. Ponatur filum in A usque agglutinari, effectus ejus non mutabitur; resecetur portio AM,
+effectus manebit; quare sive filum in A sive in M figatur, effectus idem erit.
+
+126. coroll. Fig. 71. Si ergo figurae ACD duae potentiae AB, ab applicatae sint, produ· .
+cantur directiones earum donec sese mutuo in M intersecent3 utraque earum eundem praestabit ef« z·
+fectum, ac si in M essent applicatae. Reducitur igitur hoc modo casus duarum potentiarum, duobus ἰ
+diversis punctis'figurae applicatarum, ad casum jam expositum praecedenti sectione duarum *poten- ’
+tiarum eidem puncto applicatarum.
+
+127. Scholion 1. Manifestum est, hic intelligi debere potentia& cum figura in eodem plano
+constitutas; alioquin sese mutuo nusquam intersecarent.
+

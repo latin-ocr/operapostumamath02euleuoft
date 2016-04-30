@@ -1,0 +1,53 @@
+ 
+
+De motu corporum circa punctum fimum mobilium. 147
+
+16. Εο ergo regulam facillimam, cujus ope quovis casu pressio corporis in fulcrum definiri
+potest, eaque tam late patet, ut non solum ad omnia motuum 000 liberorum genera extendatur,
+sed etiam ad omnia corporum genera, sive sint solida, sive fluida, eodem successu accommodari
+possit. Reducitur ergo 000 3011101 haec de pressione corporum in fulcra seu sustentacula difficillima
+quaestio, sed etiam ipsa motus omnium corporum detes'minatio ad puram quaestionem staticam, prop-
+terea quod vel aequilibrium inter vires, vel aequivalentia virium exquiritur. Pro¹ motu scilicet ipso
+definiendo aequilibrium adesse debet inter vires actu sollicitantes P, et inter vires ad motum requi-
+’ sitas negative 31110133, hoc est inter vires P et —Q, quod quidem aequilibrium ex immobilitate
+fulcri deducitur: tum, vero cogitatione remota fulcri immobilitate, differentia illarum virium P— Q
+ζ praebet vim a fulcro sustentam.
+
+⁴ 17. Apparet ergo fulcrum eatenus tantum premi, quatenus vires actu sollicitantes superant vires
+ad motum requisitas, ita ut si nullis opus sit viribus ad motum prosequendum, fulcrum omnes vires
+³‚sollicitantes sustineat. Contra vero fulcrum nullas plane vires sustinebit, quando vires actu sollici-
+tantes viribus requisitis omnino fuerint aequales, quo casu motus corporis perinde se habebit, ac si
+4 esset perfecte liberum, neque ejus motus ullo modo limitatus. Si enim axis vel fulcrum nullam vim
+5 sustinet, motus idem omnino erit, ac si axis vel fulcrum prorsus tolleretur, quo pacto corpus 10
+j perfectam libertatem se movendi? vindicatur.
+Ἰ 18. Principium autem mechanicum, ex quo vires ad quemvis motum prosequendum requisitae
+ᾗ expeditissime definiri possunt, ita se habet: Considerate (Fig. 121) corporis elemento quocunque, cujus
+Ἰ 1113333 311 dM, motus ejus ita sit comparatuS, ut elapso tempore εἰ, 1(1 elementum pervenerit in Z, cujus
+‘¹ loci situs per ternas coordinatas, in datis directionibus fixis assumtas AX: ac, XY=y et YZ=z
+¹. definiatur, ita ut hae quantitates oe, y, z tanquam functiones temporis spectari possint, quarum
+differentialibus dm, ἀγ· 01 dz, ad elementum temporis'dt 1013113, verus particulae Z motus continetur.
+Sumto jam differentiali temporis dt constante, ad motum elementi Z=dM prosequendum tribus
+opus est viribus motricibus‚ secundum directiones, illis coordinatis parallelas AX, XY et YZ, sollici-
+tantibus, quae sint Zp, Zq et Zr, eruntque hae vires: ⁴
+
+ 
+
+ 
+
+1. Vis secundum Zp ipsi AX parallcle urgens :QdZZdoe.
+ll. Vis secundum Zq ipsi X Y parallele urgens :2dessng
+111. Vis secundum Zr ipsi YZ parallele urgens Ξὲαέῗάτ·
+
+ 
+
+Directiones autem harum ternarum virium ita sunt concipiendae, uti 10 figura repraesentantur, ita
+ut tendant ad singulas coordinatas az, y et z augendas, siquidem vires prodeant affirmativam sin
+auten siut negativae, directiones 10 contrarium sunt mutandae.
+
+¹9. Quod ad binarium attinet, quo hae formulae sunt affectae, is a mensura determinata, qua
+tempus cum reliquis quantitatibus 10 comparationem ducitur, pcndetsquae si alia statueretur, qui—
+cunque alius numerus aeque adhiberi posset. Utor autem 1110 03 ratione, secundum quam tempus,
+quo grave ex altitudine quacunque a libere delabitur, per ἳνα exprimi solet, ita ut si a denotet
+duundinem lapsus uno minuto secundo facti, expressio temporis quaecunque t per 2Va divisa in
+minuta secunda convertatur; hoc ergo modo tempus t cum magnitudinibus σε, γ, z comparabitur.
+

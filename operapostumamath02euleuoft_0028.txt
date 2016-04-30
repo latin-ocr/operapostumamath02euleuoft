@@ -1,0 +1,55 @@
+12 L. E U L E R l OPERA POSTHUMA. Mcchanica.
+
+Demonstratio. Cum AD sit .media directio, erit sin BAD2sinCAD= Q:P (65); sed est
+sin BAD : sin (ΓΑΒ = BD.AC:CD.AB, ergo ' -
+Q: P -—- BD.AC:CD.AB consequenter BDtCD = Q.AB:P.AC. Q. E. D.
+
+67. col-011. Si vfuerit P=b.AB'¹ et Q=c.AC'¹, erit BD:CD=c.-AG⁰-¹:b.AB'·-¹. Si
+
+ergo puncta B et C in ratione reciprOca‘duplicata distantiarum attrahant, erit ηις-2, unde
+’ ’ ’ ΒυξευεοζΑΒΒώΛσῧ.
+
+. 68. Theon-ema 10. Fig. ⁶28. Puncto A sollicitato ad Β et C potentiis Pet Q, erit potentia
+aequipollens adalteram datarum P ut se habet sinus anguli ΒΑΕ ad sinum CAD, existente AD
+
+media directione.
+
+Demonstratio. Productis‘AB et AC in b et c, ut sit Ab2Ac=P:Q, bisecta bc, exprimet 1
+AD dimidium potentiae aequivalentis (33). Est autem ’
+
+sin ΒΑΜ.. cAD = 120.A1)10D.Ab; sed bc = 209, ergo sin BAC: sin CA'D = esrom, = l
+potentia aequivalens: P; ergo potentia aequivalens est ad P ut sin BAC ad sin CAD. Q. E. D» Υ, ι,
+
+69. coron. 1. Fig. 29. Juncta recta BC, quam media directio in D secet, erit
+s'in BAC: sin CAD = BC . AD: CD . AB;
+
+consequenter ‘potentia aequivalens erit ad alterutram datarum, puta ad eam, quae secundum AB
+agit, P, ut BC.·AD:CD.AB.
+
+70.co1·011.2. Est autem BD· co: Q AB· P. Ac (66), ergo Bc. co: Q. AB-s-P'. AC: *aaa
+consequenter, potentia aequivalente dicta AE, erit AE. AC. AB: P. AC. AD÷Q. AB. AD. '
+
+71. Problema S. Fig. 30. Si punctum A ad puncta quotcunque B, C, D, E, etc. attrahatur
+in ratione cujusvis functionis distantiarum AB, AC, AD, AE, etc., invenire mediam directionem
+
+harum potentiarum et potentiam aequivalentem.
+
+solutio. Producantur, si opus est, directiones AB, AC, AD, ΑΕ, etc. et accipiantur Ab, Ac,
+Ad, Ae, etc. ‚ quae se habeant ut eae functiones, adeoque exprimant potentias, quibus punctum A
+secundum respectivas directiones sollicitatur. Quo facto media directio et potentia aequivalens ex
+§§ 56 et 57 determinabitur, demittendo ad invicem normales FR et LR, ex punctis b, c, d, e, etc.
+⁴ perpendicula bF, cG, dH, eJ et bK‚ cL, (ΖΜ, eN, etc.; dein accipiendo RP aequalem summae per-¹
+pendiculorum in FR, divisae per numerum potentiarum, et denique ducendo perpendiculum Po,
+aequale summae perpendiculorum in RL, divisae per numerum potentiarum, erit Ο centrum poten-
+
+tiarum; unde reliqua facile determinantur. Q. E. l. ’ . ⁴ ” ” l
+l
+
+72.Proh1ema 9· Fig. 31. Si punctum A ad singula puncta curvae ΒΜ trahatur ἰιι ratione
+
+cujusvis functionis distantiarum, invenire mediam directionem et potentiam aequivalentem.
+
+solutio. Assumatur quodvis curvae elementum Mm, et dimittantur ἰιι AB perpendicula MP, l
+mp; dicatur AP=oe‚ PM —y Am: z—-VQoeoe -ι- γγ) Sit functio, secundum q'uam A ad puncta j
+elementi Mm attrahitur, Z, producatur Am in Ν, ut sit AN: Ζ, demittanturque' perpendicula NQ ἶ
+

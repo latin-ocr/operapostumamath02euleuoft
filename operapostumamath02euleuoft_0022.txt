@@ -1,0 +1,53 @@
+6 L. E U L E RI OPERA POSTHU MA. Machanica.
+
+numerus filorum CF = m, filorum DG=n. Omnium ergo filorum longitudo crevit elemento m.a9
+et decrevit elemento η.ΑΙι. Quare ex* proprietate minimi, cum in utroque situ A et a eadem esse
+debeat filorum longitudo, erit ηιιὰφ-ὲ-εη.ΑΙι, unde m=n=Ah:a9. Est autem Ahza9=sinAahtsin aA93
+sed sin Aah=sin BaD seu sin BAD,³quia Aah—i-BaD aequatur duobus rectis, 011 Daq et- BaA
+rectos. Simili modo est sinaAq=sin BAC. Ergo ηπ. n==sin BAD. sinBAC. Est vero m: n=AC: AD (27);
+ergo ACtAD=s1nBAD. sin BAC. Simili ratiocinio evincitur esse AB: AC= sin CAD: sin BAD, 1
+01 ergo quaevis potentia sit ut sinus anguli a reliquis duabus potentiis formati. Q. E. D.
+
+30. coroll.1. Ergo substituendo loco potentiarum pondera P, Q et R (Fig. 10) requiritur
+ad aequilibrium obtinendum, ut sit v Ξ
+
+Ρ; Q = sin DAC : sin BAD
+et P: R: sin CAD : sin BAC.
+
+31.001·011.2. Habito ergo aequilibrio, cognoscetur inde ratio potentiarum seu ponderum ex .
+
+sinibus angulorum.
+
+32. Problemata. Fig. 11. Ρο11010 Α duabus potentiis AB, AC applicatis, applicare tertiam Ι
+AD, cum illis in aequilibrio consistentem.
+
+solutio. Ex potentiis 110115,ΑΒ,1 AC compleatur parallelogrammum ABEC, in quo per A
+ducatur diagonalis AE, in qua 11111οΑ prolongata accipiatur AD=AE3 dico hanc AD exhibere
+tertiam potentiam* quaesitam. Est enim AD (= AE):AB=sin ABEzsin ΑΕΒ. Sed ob figuram
+ABEC parallelogrammum, est sin ABE ——- sin BAC et sin ΑΕΒ = sin ΕΑΘ = sin CAD. Consequenter
+erit AD: AB=sin BACtsin CAD, ergo ¹hae tres potentiae in aequilibrio consistunt (29). Q. Ε. l.
+
+33. Coroll. 1. Si ducatur in parallelogrammo ABEC altera diagonalis BC, haec et altera ΑΕ
+se mutuo bisecabunt in, F. Quamobrem AD est dupla ipsius AF; unde haec fluit problematis con-
+structio: Fig. 12. Datae duae potentiae AB, AC jungantur recta BC; haec bisecetur in F, duca-
+turque AF, ct in hac ultra A producta sumatur AD==2AF. Exprimet AD tertiam potentiam, cum
+datis AB et AC ιιι aequilibrio constantem. ,
+
+34. Col-011. 2. 81 ergo Fig. 13 tres potentiae AB, AC, AD, puncto A applicatae, aequilibrium
+
+composuerint, junganturque BC, BD, CD, singula haec latera bifariam secabuntur 111 F, G et H a
+productis directionibus potentiarum DA, CA et BA.
+
+35. 'rhem-ema 3. Fig. 111. Si fuerint puncto A quotcunque potentiae AB, AC, AD, ΑΕ,
+AF, AG in aequilibrio constantes applicatae, et earum quaevis AB in alteram partem in P produ-
+catur, 01 sit ΑΡ ΖΑΒ, exprimet haec ΑΡ potentiam reliquls AC, AD, AE, AF, AG aequivalentem,
+aequalem nimirum cum illis in punctum A effectum exerentem. -
+
+nemausa-atio. Cum omnes potentiae aequilibrium servent, potentiae AC, AE, AF, AG
+impediunt 110 potentia AB effectum suum obtineat3 oportet ergo, ut ,eae omnes simul conentur
+punctum A, secundum plagam ipsi A oppositam, i. e. secundum AP, 01 vi ipsi AB aequali promo-
+vere (5). Sed idem praestat potentia AP, quae 01ιο cum AB puncto A applicata, etiam aequili-
+
+brium constituit (19). Quare potentia‘AP aequivalet omnibus, praeter· AB'nempe, AC, AD, ΑΕ,
+AF, AG simul agentibus, Q. Ε. D. v
+

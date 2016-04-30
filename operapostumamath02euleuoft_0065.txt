@@ -1,0 +1,55 @@
+De motu corporum σίνοα punctum fisi-um mobilium. 49
+
+- 25. Motus autem corporis, sive ad genus primum, sive secundum referatur, dummodo punctum
+Ο quiescat, distinctissime cognoscetur si ad quodvis tempus situm ternorum axium respectu spatii
+absoluti assignare noverimus, Tum enim simul cujuslibet corporis particulae verum situm respectu
+spatii absoluti definire poterimus, quem si ad quodvis temporis instans colligamus, ex mutatione situs
+momentanea ipsum motum cujusque particulae facile concludemus; spatiolum enim a quavis particula
+descriptum ad elementum temporis applicatum praebebit ejus celeritatem, et duo motus ejusdem
+particulae duobus tempusculis successivis inter se collati ostendent cum celeritatis tum directionis
+mutationem, quibus rebus plane omnia, quae de motu corporis universo quaeri possunt, continentur.
+Hocque ergo modo perfectam motus cognitionem impetrabimus.
+
+26. Dum autem corpus ad spatium absolutum referimus, in eo quoque tres axes assumi conve—
+niet, quorum respectu situs corporis quovis momento definiri debet. Hi igitur tres axes spatii
+absoluti probe sunt distinguendi a tribus illis axibus, quos corpori infixos concipimus: illi enim
+revera sunt immobileS, hi vero cum corpore simul moventur, atque ex situ horum axium respectu
+illorum quovis momento tam situs corporis quam ejus motus· cognoscitur. Quare dum corpus ut-
+cunque movetur, ita ut punctum Ο immotum maneat, ejus motus perfecte describetur, si ad quodvis
+tempus 'situm axium corpori infixorum respectu axium spatii absoluti assignare poterimus.
+
+27. Quo igitur cujuslibet elementi corporis Z verum motum ad quodvis tempus definire queamus,
+’ primum ejus situm respectu axium ternorum ipsi corpori infixorum indagare debemus, qui quidem
+situs, uti vidimus, commodissime per ternas coordinatas his axibus parallelas determinatum et quamdiu
+idem corporis elementum spectatur, hae ternae coordinatae nullam mutationem subeunt, utcunque
+corpus moveatur. Unde si hae coordinatae per ω, γ et z designentur, eae pro quantitatibus con-
+stantibus erunt habendae, quamdiu scilicet idem corporis elementum spectatur, vpropterea quod ejus
+’ situs respectu horum axium, qui corpori infixi simulque cum eo mobiles statuuntur, nulli mutationi
+est obnoxius.
+
+28. Deinde vero ejusdem elementi situm quoque respectu ternorum axium absolutorum explorari
+j' oportet, quod pariter per alias ternas coordinatas his axibus parallelas commodissime praestabitur.
+Ῐ Jam vero hae coordinatae etiam pro eodem corporis elemento labente tempore pro variabilibus sunt
+ἶ habendae, atque ex hac ipsa variatione ejus verus motus aptissime dijudicatur, siquidem ejus situs
+ἶ respectu horum axium continuo immutatur. ,Quodsi ergo hae coordinatae per litteras X, Y, Z de-
+
+signentur, hae successu temporis mutationem perpeti censendae sunt, dum praecedentes ω, y, z pro
+
+Ἴ constantibus haberi debent.
+
+ 
+
+29. Quoniam ergo cujusque elementi motus ex coordinatis ⁴mobilibus X, Y, Z peti debet, in id
+Ῑ imprimis est incumbendum, ut has coordinatas ex coordinatis fixis ω, γ, z derivemuS, quem in finem
+¹ ad quodvis tempus situm axium corporis, respectu axium spatii absoluti, explorari convenit. Princi-
+
+’ palis igitur quaestio tum huc redibit, ut cognito situ axium corporis respectu axium spatii absoluti,
+
+¹ pro quocunque corporis elemento ternae coordinatae mobiles seu variabiles X, Y, Z ex coordinatis
+
+-immobilibus et fixis ω, γ, z definiantur: quod igitur quemadmodum commodissime fieri possit, dili-
+gentius dispiciamus. Haec autem disquisitio tam ad motus secundi generis quam primi generis aeque
+
+patebit, quia unum saltem corporis punctum Ο tanquam fixum assumimus.
+1.. Euleri Op· posthuma T. 11. 7
+

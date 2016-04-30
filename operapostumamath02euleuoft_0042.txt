@@ -1,0 +1,54 @@
+26 L. EULERI OPERA POSTHUMA.M0011am·00. '
+
+Ducatur igitur (Fig. 75) OM parallela ipsius AC vel BD accipiaturque aequalis AC-i- BD, exprimet
+
+haec OM potentiam duabus datis aequivalentem.
+
+Script. ad mar9. Momentum potentiae aequatur momentis potentiarum aequivalentium.
+
+135. Cor01105. Fig.76. Inventa potentia aequivalente OM, obtinebitur potentia propositas
+AC et BD in aequilibrio servans. Producatur nimirum MO in alteram partem in Ν usque, ut sit
+ΟΝ - OM; exprimet ΟΝ potentiam cum OM in aequilibrio stantem. Cum autem OM aequivaleat
+ambabus AC'‘et BD, patet et ΟΝ in aequilibrio conservaturam potentias AC et BD.
+
+Script. ad ιιιαν9.ν Momentum potentiae AC in O aequatur vi, quam virga in O habere
+
+debet, ne frangatur.
+
+136. Col-oll- 6. Fig. 77. Si directiones potentiarum in eadem recta cum virga jaceant, ut
+AC et BD, erit tum A01¹BO=BD sin DBAACsi'nBAC id est ut 020. Quare cum‘hic 0 ad 0
+rationem quamcunque habere queat, punctum Ο ubicunque accipi poterit, et potentia aequivalens etiam
+in ipsam AB incidet, et aequalis erit differentiae inter has potentias, inque plagam fortioris dirigetur.
+
+137. Scholion. Veritas hujus corollarii immediate ex axiomate quinto patet, Juxta quod
+eodem redit, in quo virgae AB puncto potentiae applicentur, quia directiones earum in eam inci-
+dunt. Idem ad plures potentias eodem modo extenditur.
+
+138. Coroll- 7. Fig. 78. Methodus tradita, duarum potentiarum aequivalentem vel contra-
+riam inveniendi, facile ad plures potentias extendetur. Hoc modo sint virgae AB applicatae poten-
+tiae AC, JD, KE, LF, IVG- et BH, sumantur primo duae AC, JD, harumque quaeratur aequivalens,
+quae loco duarum AC, JD substituatur3 hujus et alius v. gr. ΚΕ iterum quaeratur aequivalens, loco
+trium AC, *JD, ΚΕ substituenda, et hoc peragatur, donec omnium aequivalens OM obtineatur.
+
+139. 'theorema 15. Fig. 79. Sint virgae rigidae AB duae potentiae AC, BD quaecunque
+applicatae, ductaque sit potentia OM iis aequivalens, Tum. si in AB producta punctumquo'dcunque
+Z accipiatur, erit ΟΜ.οΖ sin MOZ Ξ AC.AZ sin CAZ ÷ DB.BZ sin DBZ. ·
+
+Script. ad mar9. NB. Propositio haec valet, si Z extra rectam AB sumatur: generalius
+ergo proponatur demonstratio.
+
+Demonstratio. Patet per § 132 esse AC. AOsin CAZ= ΒΒ. ΒΟείιιΒΒΖς ergo ob ΑΟΞΑΖ-ΟΖ
+et BO= OZ— ΒΖ, erit AC. AZsin CAZ—AC. OZsinCAZ= BD. OZsinDBZ—BD. ΒΖείιιΒΒΖ, sive
+ACAZsinCAZ÷BD.BZsiuDBZ=AC.OZs1nCAZ÷BD. OZsinDBZ-OZ(ACsinCAz-i-BDwsinDBZ).
+Nunc circa positionem lineae OM consulatur 3 133, juxta quem ducatur 'Bc aequalis et parallela ipsi
+AC et juncta cD, bifariamque secta in e, ducta est Bai: 2Be, quae aequalis est et parallela ipsi
+OM. Ducatur porr'o per e recta 1)9 parallela vii-'gae' AB3 erit aee sin Be9- ΒΙ) sm ΒῙὲ-ι- Β9 sin B9e‚
+seu OM sin ΜΟΖ Β1) sin CAZ -ι- Β9 sin DBZ Dein ἰιι ΔΒε9 est ” ’
+
+. . ἶ ἶ 'sin De9 sin D9e (εέἰιι DBZ) D9· De, ι
+etin Δ1ἓο est 2 Ξ. sin ces: siucfe (-- sin ΟᾹΖ)Ῑ-- οζι ce,
+
+ergo oh sin De9= sin ces* et De= ce (hyp), erit —‡
+
+'¹ lfss'⁴i'·{
+

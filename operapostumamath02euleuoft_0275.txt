@@ -1,0 +1,61 @@
+ 
+
+Astronomz'a mechanica. 259
+
+170. col-oll- 1. Uti ω inclinatio orbitae et ψ longitudo nodi ascendentis vocari solet, ita
+
+angulus ‘QJN = ο· argumentum latitudinis et angulus φ longitudo in orbita appellatur, ,quae autem
+tantum ficta, cum tam linea nodorum quam inclinatio continuo mutetur.
+
+171. col-oll- 2. Si vires ‘exiguae ita fuerInt comparatae ‚ ut sit
+sinw(Ycos ψ -Χείηψ)- Zcosm = 0,
+
+tum ob dzp= Ο et dco=0, tam linea nodorum quam inclinatio nullam patitur mutationem, ideoque
+⁴ corpus N in eodem perpetuo plano feretur.
+
+172. Col-olna. Cum autem angulus in plano AJB sumtus AJY vocetur corporis longitudo,
+· ea erit =w÷Ang.tang (tangocos ω), tum vero latitudo corporis, quae est angulus YJN, est
+
+l angulus cujus sinus est {- = sin σ sin ’ω.
+ἰ
+
+s
+
+173. Scholion. Haec methodus motum corporis ad planum fixum reducendi illi multum
+anteferenda videtur, qua ipsa corporis longitudo seu angulus AJY in calculum introducitur, quo
+¹ pacto formulae satis intricatae redduntur. Hoc igitur incommodum hic maximam partem sustulimus,
+³ dum angulum σ, quo argumentum latitudini-s denotatur, ac praeterea longitudinem in orbita seu
+
+, angulum φ induximus, quoniam hoc modo formulae zdae—oedz et zdy-—ydz tam commode expri-
+muntur, unde etiam fit μ
+
+ydoe — oedy· = — ov ἀφ cos ω atque yddoe — oeddy = 2911dt² (1⁷ae —- X y).
+⁸ Haec ergo per 2 (ydoe — aedy) multiplicata et integrata 'dabit ·
+'l ’ (ydae —- aedy)²= lqudt²sWd90 cos ω (Xy -- Yoe) == v⁴dq>2 cos2w,
+
+, quae etsi jam in praecedentibus contineatur, saepe ingentem usum praestat, uti in sequente problemate
+’ patebit. Hinc scilicet commode relatio inter dt et ἀφ desumi poterit. Deinde etiam vis huJus
+ἰ methodi in hoc consistit, quod elementum temporis dt penitus e formulis integralibus exclusimuS,
+J quo deinceps commode ex calculo eliminari posset.
+
+174. Problenia. Si corpus M, *cujus momenta inertiae respectu axium JA et JB sintae-
+qualia, circa tertium axem ιῙΟ utcunque gyretur, ac circa id corpus sphaericum N quo-
+” modocunque moveatur, hujus corporis N motum definire.
+
+solutio. (Fig. 183.) Plano axium JA et 2113, quod quasi est corporis M planum aequatoris, pro
+ε plano fixo assumto, sit Μαα momentum inertiae respectu axium JA et JB, at Mcc respectu axis JC.
+Pro motu ergo secundum problema praecedens definiendo habebimus ex §128 has aequationes
+
+ 
+
+ 
+
+ddoe Ξ —251(M-4-N)xdc²(¹43(4aa-i-cc)—15(aaaex-÷-aayy-i-cczz))'
+³ Qvo 29⁴
+ddy= -21<M÷N)yat²(¹43(4aav-÷-00)—15(aaxae-{a:1yy-o-cczz))'
+ν
+ἀάΖ--ἳςΛΜ-ῡ-ΝΠ zdt² (¹ 43& aa-i-³3⁶0)—15(aaxoe÷aayy÷cczz) ,
+-“ ν3 ἳνν 20⁴
+
+ 
+

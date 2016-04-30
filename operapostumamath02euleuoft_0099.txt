@@ -1,0 +1,100 @@
+De motu corporum in tubo mobili circa amem fimum. 83
+
+29. Resumantur aequationes differentiales quae sunt
+
+2212«aeoe (Am -ι- mma
+
+-1- = Adoe sin— -1-- αὲ(Αω -1- My) cos —⁸-2
+
+1. Adp-i-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ΙῙ- , ' ff , f
+ll. (²15⁶ae ''bfflfflu -1- “A'bmoe— — (Aae ÷ M9)‘¹⁸ cos 7’
+111. {¹7} ss {13-
+Ponatur angulus {=q> et u= mssffM—kp et habebuntur liae aequationes
+
+ 
+
+l. Adp -1- Λᾶν-τ Adeo sin φ -1- (Aoe -1- Μ9)ἀφ cos φ,
+
+11. Adr· 4 Δῖἓῖωαῶῑ- -- (Am -1- M9)d‹p cos φ,
+
+dx αφιίμωω-ι-Μιειιγ
+ΠΙ. 73:ss
+
+quarum trium aequationum ope relatio iuter quatuor variabiles p, r, ω et φ debet definiri.
+
+ 
+
+30. Resolutio harum aequationum multo videtur difficilior quam fortasse est, si enim casum
+contemplemur, quo tubus omni inertia carere ponitur, manifestum est corpus perinde moveri debere,
+ac si penitus esset liberum, ideoque vel in recta verticali descendet, vel parabolam describet. Verum-
+
+tamen hic ipse motus ex aequationibus inventis nonnisi summa molestia erui potest. Facto enim
+
+ffl
+
+M - Ο aequationes tres inventae abibunt facto ιι -ΞΞ in has:
+
+dp÷ dr: doe sin φ -1-ωάφ οοεῳ,
+
+dr—i-Zgssz-oedmcosm et -αἷωεαῒέρ,
+
+ 
+
+ex quibus quomodo verus corporis motus cognosci queat, investigemus3 quae quidem investigatio ita
+erit comparata ut, nisi motus jam ante esset cognitus, vix suscipi potuisset. ⁴
+
+31. Ob variabilium multitudinem ante omnia unam eliminari oportet, conveniet autem eliminari
+
+ω una cum dcc. Tertia autem aequatio dat doezoe‘fflsp, qui valor in reliquissubstitutus dat
+
+ 
+
+ωάφ sin φ . Vp -1- ωάφ cos ‹p‘tsr
+
+dp -1- dr =——T————-—- et dr -1- ngfftlpr = aedgo cos φ,
+ex posteriori fit aedqo == egro -1- Ξῖζῖἴ, qui in priori substitutus producet hanc aequationem
+
+ 
+
+ 
+
+      
+ 
+
+ 
+
+dr sin φ . 'tsp ἦ. ἀνιχν 4 deoesimpnsr
+
+f ἄρν’· -1- drVr = cos φ cos φ -1- 2rdq2Vp‚
+
+ 
+
+'neu per ——-— multiplicando hanc
+
+ 
+
+dp cos (1)-Ψὲ
+2171) 2172·
+
+f quam evenit esse integrabilem, integrata enim dat: cos qup—sin 90Vr=Va
+
+-dgosianVp—clqocosqur=0,
+
+ 
+
+32. Deinde aequatio prima, quae sponte est integrabilis, dat p÷r=oesinq>÷b3 ab hac
+ι subtrahatur quadratum prioris p cos² φ - 2 sin φ cos cp. Vpr—i- r· sin2 φ--τ- c, atque remanebit
+
+(sin qup -1- cos cp V1·)²= ω sin φ -1- b — c.
+ᾗ
+

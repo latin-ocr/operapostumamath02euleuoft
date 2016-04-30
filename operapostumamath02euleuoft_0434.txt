@@ -1,0 +1,53 @@
+418 L. EULEm OPERA PosTflUMA. mom&
+
+Qu’on decompose ensuite aussi les forces P et Q selon ces memes directions, et la force P suivant
+QG donnera ¹une force selon QT parallele ἐι PC, =Pcos cp, et selon QP, = Psin φ. De meme,
+l'autre force Q suivant QV donnera pour la direction QT la force negative -ρείμφ, et pom· h
+direction QP, la force Qcosq), a cause de l'angle PQV= PCQ. Donc le corps en Q sera sollicitfi
+
+selon QT, par une force Ξ Ρ 003 cp - Q sin φ ’ η
+et selon QP, par> une force = P sin cp -ι- Q cos φ.
+
+⁴¹1»
+
+Maintenant, sachant ces forces acceleratrices, ou plutot retardatrices, puisqu'elles tendent a (110110οῗ
+
+103 coordonne'es p et q, les principes de Mecanique nous fourniront, en prenant l'element ‘'t-³¹?
+
+Ρ
+
+temps pour constant, les deux formules suivantes:
+
+ια
+ῃΞ-Ροοεφ-ι-Ωείηφ et -Ξ-Ρείιιφ-Ωοοεφ, “¹³23
+
+Qddp Ξαειᾳ
+οιι2 αε2 v .
+d'ofl nous tirons ¹ · 13:
+ddq 003 φ - ddp 310 φ = ὲ -ζ- th² et ddq sin φ -ι- ddp cos φ = — -ζ- Ράι’. <³4
+Mais ayant p = ω 003 φ et q = ω 310 90, l’on aura ’ῑῄ
+ᾳοοεφ-’ρείηφε-Ο et qsinq>÷pcosoe=ae3
+donc en prenant les differenUelles ⁵ ’ἶ
+dqcosoe—dpsincp—qdcpsinqe—pdcpcoscp=dqcosoe-t-dpsingo—oedq)=0 ἢ ’ἦ
+ἀᾳείηφ-ι-ἀρ 003φ-ι-ᾳάφ 003φ-ράφ 31οῳτ-ἀᾳ 310 φ-ι-ἀροωφεάω, ἐξ
+on obtiendra les formules suivantes “34²3 ,
+dqcosrp—dpsinqo=oed90 et dqsinqo÷dpcosq>==doe, ᾗ
+Prenons encore les differentielles, pour avoir ἱ ῃ v
+ddq cos φ —- dclp sin cp —— ἀᾳᾶφ 310 φ ῖ- (Ιρᾶφ 003 φ = ἆωὰφει- oeddcp ,ἑῇ
+qui, ὲ cause de ἀι] 310 φ -ι- dp cos cp = dx, se change en {Q '⁴
+ddq'zsscos φ - ddp 310 φ -.- Ξάωάφ -ι- oeddrp. ’ὅ 1
+
+De meme, l'autre equation differentiee donne ’ 4„
+ddq 310 φ -ι- ddp cos φ —1— ‹lqdqo cos φ -— ἀρᾶφ 310 9⁰⁸: ddoe ι
+qui, a cause de ἀι] 003 φ -— dp 310 φ = ωάφ, 30 change en' ’
+
+ddq sin φ -ι- ddp cos φ = ddae — oed502,
+
+ 
+
+Et partant nous aurons fles deux equations (1111010οῑ10-(11601001101103 suivantes, qui determineroffl: “
+
+mouvement du corps par les varIables α,- et φτ - 2 3¹
+Qdoedqo -ι- ωααφ = — -3- th² ⁷* ,ἶ c
+ddae-aedqo2=--;-Pdt². · ’ J?
+

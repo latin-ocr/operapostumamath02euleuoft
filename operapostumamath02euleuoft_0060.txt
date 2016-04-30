@@ -1,0 +1,49 @@
+44 L. EULERI OPERA POSTHUMA. Mechamcoe.
+[ι. Exposui ergo in Comm. Acad. Berol. Tomo VI novam regulam mechanicam, quae ad omnis
+generis motus, quorum corpus est capax, accommodari potest: praeterquam autem quod haec regula
+admodum prolixis calculi formulis est contenta, ea etiam ejusmodi elementa, quae a corporis figura
+pendent, requirit, ut ea pro quovis corporis situ peculiari calculo investigari debeant. Retuli enim ibi
+constanter situm corporis ad spatium absolutum, in quo sumtis pro lubitu ternis axibus fixis, ad quodvis
+temporis punctum, non solum corporis momenta inertiae respectu istorum axium colligi oportet, sed
+etiam alias quantitates, quae ob corporis figuram in calculum ingrediuntur. Quoties igitur situs cor-
+poris respectu horum ternorum axium mutatur, quod quidem singulis momentis fieri potest, valores ¹
+illarum quantitatum semper de novo per computum erui debent, quo pacto motus determinatio ple· ἒ
+rumque molestissima redditur, atque adeo saepe ne suscipi quidem potest: propterea quod, si fuerint l
+vires a situ corporis pendentes, ipse situs inter quantitates incognitas est referendus, ι
+5. Quo igitur huic tanto incommodo occurrerem, idem negotium nuper alia via confeci, et motum j
+ex ejusmodi elementis definivi, quorum determinatio non a situ corporis respectu ternorum illorum l
+axium in spatio absoluto sumtorum penderet, sed a tribus axibus in ipso corpore assumtiS, et cum ἐ
+ἰρεσ mobilibus Quoniam enim respectu istorum axium corpus perpetuo eundem situm conservat, 1
+
+Hinc etiam regulae ad motum definiendum, quas ibi tradidi, multo facilius ad usum transferri, atque 3
+
+elementa illa semel determinasse sufficit, sicque, labor calculi continuo de novo instituendi evitatur.
+
+ad motus corporum a viribus quibuscunque sollicitatorum investigandos satis expedite accommodari pos- ᾗ
+, sunt ld solum incommodum etiamnunc restat, quod saepenumero ad calculos fere inextricabiles l
+deducamur: verum, etsi in hoc non tam Mechanicae quam Analyseos defectus cernitur, tamen si istas j
+regulas frequenti usu nobis magis familiares reddemus, dubium est nullum, quin calculus, per plura ἶ
+tentamina tandem tractabilior efficiatur. Quod idem de aliis difficilioribus investigationibus experientia
+luculenter testatur, quae nonnisi post plurimos conatus demum ad faciliorum usum sunt traductae. Ι
+
+6. Quae autem tum temporis de hoc argumento conscripsi, brevitati consulens fere nimis suc- ,
+cincte proposui, neque cuncta momenta, quibus'haec investigatio innititur, satis luculenter explicavi· ἳ-
+Tum vero etiam hoc negotium per formulas valde prolixas et'taediosas ad finem perduxi, quae cum
+tandem aliquanto vsimpliciores extiterint, nullum est dubium, quin eaedem-per viam magis planam et ⁴
+facilem obtineri queant. Quoniam igitur tam ardui operis tractatio repetita semper nobis novum Ξ
+lumen largiri solet, ac tam insueta objecta, quae cum hac investigatione sunt connexa, nonnisi fre- ³
+quenti et assiduo usu nobis familiaria redduntur, hoc quidem idem argumentum denuo aggrediar, μ
+operamque dabo, ut id tam perspicue, quam quidem ob rei difficultatem fieri poterit, exponam. '
+Quoniam vero ante ad motus tantum eos, qui circa centrum gravitatis fiunt, indagationem institui,
+nunc rem aliquanto generalius sum complexuruS, motusque, qui circa quodcunque punctumnfixum ,
+evenire possunt, ad examen revocabo. Ι
+
+7. Omne corpus ita moveri potest, ut duo quaevis ejus puncta in quiete permaneant, ac tum
+simul o‘mnia puncta, quae inter haec duo in directum jacent, quiescunt, quo casu corpus circahanc
+lineam rectam in gyrum agi dicitur, hicque motus ratione celeritatis in infinitum variare potest. 'sin
+autem praeter ea duo puncta tertium quodpiam punctum, non inter ea situm, seu cum iis 000 in ζ
+
+Ἀ
+
+directum jacens, in quiete retineatur, tum evidens est nullum plane motum in corpus cadere posse.
+

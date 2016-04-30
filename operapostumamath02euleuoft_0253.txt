@@ -1,0 +1,61 @@
+Astronomz'a mechanica. 237
+
+lineae absidum mutabilitatem inesse debere, quae tantum a figura Jovis non sphaerica proficiscatur3
+
+quod phaenomenon si per observationes confirmari posset, mirifice theoriae attractionis univer-
+3‘ salitatem confirmaret.
+
+1248. Scholion 2. Quanquam in hoc motu, quem hic definivimus, tam via a corpore
+descripta, quam temporis ratio areis proportionalis maxime est transcendens, tamen calculum ita
+commode administrare licuit, ut determinatio motus vix difficilior, quam in casu ellipsis simplicis
+
+evaderet. Totum scilicet discrimen huc est perductum, ut linea absidum mobilis statueretur, dum
+
+ 
+
+s reliqua omnia prorsus cum motu elliptico supra exposito conveniunt. Hoc compendio Astronomi jam
+‚ pridem feliciter sunt usi, dum motus planetarum primariorum ita repraesentant, ac si in ellipsibus
+f mobilibus circa solem revolverentur, in motu autem lunae iusuper tam excentricitatem quam para-
+’ metrum ellipsis variabilem. statui'oportere agnoverunt3 quae idea eximium calculi alias intricatissimi
+χ compendium largitur. Atque· non solum haec ita se habent, quando curva percursa sita est in
+eodem plano, sed etiam quando ejus planum est variabile3 tum autem hujus variabilitatis rationem
+Ι singulari modo ita ad quodpiam planum fixum referri convenit, ut ad quodvis tempus tam intersectio
+
+’ quam inclinatio planorum definiatur.
+
+149. Scholion 3· Hoc 'modo approximationem institui conveniet, quando formulae analyticae,
+g quibus motus determinatur, resolutionem non admittunt, quemadmodum in hoc capite usu venit, ubi
+hunc solum postremum casum, quo corpus M bina momenta inertiae respectu axium JA et JB
+Ι :aequalia habere, alterumque corpus N in ipso horum axium plano AJB moveri ponebatur, expedire
+] licuit. Fundamentum autem hujus approximationis in hoc ‚est situm, quod inter vires corpus N
+l sollicitantes una prae ceteris eminet, quae ad punctum quasi fixum J dirigitur et quadratis distan-
+ὴ tiarum reciproce est proportionalis, reliquae autem vires prae hac sint valde exiguae. Tum enim
+motus corporis N non multum a ratione motus in sectione conica facti differet, cujus aberrationem
+l tantum ab ‘ista lege definivisse sufficiet. Quemadmodum ergo his casibus ope approximationis ad
+ἲ 'solutionem pervenire liceat„ in sequente capite generatim explicabimus, in quo duplex investigatio
+ἶ riht instituenda, prout motus corporis N vel in eodem plano absolvetur, vel secus.
+
+caput V.
+
+Δ Determinatio motus corpo‘ris, quando inter vires, quibus sollicitatur, una ad
+ι punctum fixum tendens, quadrato distantiae ab eo est reciproce proportionalis,
+
+ἓ
+ξ
+
+ἰ
+
+last
+
+reliquae vero vires prae illa sunt valde parvae.
+
+150. Problema- (Fig.182.) Si corpus N circa punctum quasi fixum J in eodem plano mo-
+veatur, atque ad id trahatur vi quadrato distantiae reciproce proportionali, praeterea
+
+vero a viribus quibuscunque illius respectu valde parvis, corporis motum definire.
+
+solutio. Elapso tempore T sit distantia JN -—- ν et angulus AJN z: φ, ut sint
+JX=ae=vcoscp et XN=y=0siucp.
+
+ἕο
+

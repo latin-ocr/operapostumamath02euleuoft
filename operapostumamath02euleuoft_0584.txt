@@ -1,0 +1,58 @@
+568 L EULERI OPERA POSTHUMA.
+
+1⁰³¹*³ considerantiam
+
+    
+    
+   
+     
+   
+  
+    
+
+Sar la re'fraction d'une seule sur-face sphdrique re'f'rinqente.
+
+1. Je commence par consideret· une seule surface spherique ada (Fig. 244.) dont le centre
+en J sur l’axe ΟΡ, et dont la refraction soit telle que pour les rayons moyenS‚ qui, y tombent ”
+milieu Ο en allant dans le -milieu P, fle sinus d'incidence soit ἐι celui de refraction comme ης
+Pour les rayons plus ou moins refrangibles, on n’a qu'a regarder le nombre n comme variablef.
+
+d'y ajuster son differentiel dn.
+
+2. Soit ἐι present 0 un point rayonnant situesurA-l'axe', dont le rayon νΟΛ dirige vers J Ϊ
+souffrant aucune refractiom tiendra {a meme route ΑΡ. Mais pour un autre rayon incident uf
+conque Oa, soit aP le rayon refracte et ayant tire la droite Ja, pour avoir l’angle d'incidence ι’
+et celui de refraction PaJ, la nature de la refraction‚ en supposant Oa un rayon moyen, fou
+
+cette proportion:
+sin OaJ: sin PaJ= n: 1.
+
+3. Or par le trianglevoaJ on a: sin OaJ:sin OJa=OJ t Oa et par le triangle PaJ ο
+sin OJa : sin PaJ—„-÷ PazPJ (ΙόὺΙ l'on tire en composant ces deux proportions
+
+sinOaJ:sin PaJ= OJ.Pa:'PJ.Oa=n:1
+et partant nous aurons cette equation pour exprimer la nature de la refraction:
+
+OJ.Pa=n.PJ.0a.
+
+Ιι. On voit bien que cette refraction ,devient d’autant plus grande, plus le point.a est el* ἱ
+du milieu A; ce qui m’ohlige ἐι consideret deux cas: l’un οὺ le point a n'est qu'infiniment* , ³
+peu eloigne du point A, et l'autre, οὺ son eloignement ιιΑ n’est plus si petit qu’il puis& ³
+neglige.
+
+Ι. Cas, οὺ l'eloignement αΑ est quasi insiniment petit.
+
+5. Dans cette hypothese les distances Oa et Pa ne differeront de oA et PA3 et parta 3⁴
+refraction sera exprimee par cette egalite OJ. PA=n.PJ. ΟΑ, qui en tournant notre, ηιμ
+distance de l'objet ΟΛ, a celle de l’image ΑΡ et au rayon de la sphericite AJ=aJ‚' 4) Ἦ
+cette forme: » Ὗ, 'VJ'
+
+(0A÷AJ)PA=n(PA-AJ)0A ³
+d'ot'l l’on tire: '
+
+(n—1)OA.PA=.-AJ(PA-=-n.0A) ou T=az÷ffl ’
+
+ 
+
+6. Cette derniere formule est tres 'propre ἐι marquer le rapport qui regne entre les di
+

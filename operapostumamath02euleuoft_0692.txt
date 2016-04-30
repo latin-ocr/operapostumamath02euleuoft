@@ -1,0 +1,58 @@
+‘iwan-,Qu
+
+676 L. EULERl OPERA POSTHUMA. Phyma
+
+28.Proh1eme 1. Adtant de verres qn 'on voudra etant disposes sur laxe ΟΖ en A, B,·
+D, E (Fig. 266), devant lesquels se trouve un objet 00, trouver tant ie lieu que ’
+grandeur de toutes les images qni seront representees par tous ces verres. g γ’
+
+solution. Soient les distanees de foyer de chacun des νει-τρε, de celui en 21:12, de ee.¹⁴
+en B=q‚ en C= r, en D=s, en E=t etc„ et que 13 distance de l'objet Oo devant le premg τ’,
+verre en A soit A0=a, et la hauteur, prise a voionte, Oo=z‚ dont il s'agit de determinet ’
+images. Soit donc Pp l‘image formee par le premier verre, qui, tenant lieu de l'objet a ,ηζ
+du second verre Β, soit Qq la seconde image, et ainsi de suite Rr la troisieme, Ss 13 quatri ιι
+Tt la einquieme etc.‚ οὺ il saut concevoir que de ces images la premiere Pp, 13 troisieme ΒΓ, '⁸ ·³·
+cinquieme Τε etc. sont renversees‚ et les autres savoir la seconde, 13 quatrieme, la· sixieme ⁵ *ἶ
+
+droites. Qu· on pose donc les distances:
+ΑΡεα, BQ= β, CRzy, DS=3, ET=e,
+BP=b, CQ=c, DR= d, ES=e etc„
+
+et pour 13 grandeur des images on aura d'abord independamment des verres les determinah' ,,
+suivantes:
+
+Ρρεαέ, Ωᾳεῗ, ΒΓΞα-ἰέἷι Ss= -β-αὸζδα etc. . Ι
+Ι
+
+Or, en tenant compte des verres memes, on obtiendra les formules suivantes:
+
+aa βῠ γο δά te
+paz-m, (1:533, '⁸:⁶37’ δῖ’-ατε» ⁸:03-ss etc. ΙΙ
+ι
+
+Οὐ il faut observer que les distances α, b, β, c, y, d, δ etc. peuvent souvent devenir negati
+mais puisque les distances entre les verres sont necessairement positives, savoir· , , ξ ³ Ι
+
+ΑΒ-εα-ι-ὂ, BC: β-ι-ο, CD=y÷d, DE=3÷0 etc„
+
+ees quantites compose'es doivent toujours etre positives, quoique l'une ou l'autre des parties d.·· ΙΙ
+negative. Ὗ ’ . ΙΙ
+
+29. Coroll'. 1. Pour appliquer ce probleme general aux lunettes„ il faut supposer 13 ιύ ⁴,
+de >l’objet A0= a infinie, mais en sorte que -ἰ- devienne une quantite finie qui exprimera le ’ ’,Ι
+diametro du ehamp apparent, lorsque z est pris pour le demi-diametre de toute l'etendue du
+
+qu'on decouvre par 13 lunette. Donc si nous posons ξ = φ, nous aurons:
+
+Pp=aq>, ρᾳ--αῗφ Ηνεὸί-γ-φ, Ss=ss⁸q2 etc.
+
+et p =a, les autres formules demenrent les memes.
+
+30. Col-oll- 2. Mais la condition de 13 vision distincte exige que 13 derniere image ξ
+
+ 
+
+aussi infiniment eloignee. Dono si nous regardons limage Tc comme la derniere il faut qu’il 1,ΙΙ
+
+ET=0=- 00 et partant c= e. Or 13 grandeur de cette derniere image etant Te:
+

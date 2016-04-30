@@ -1,0 +1,67 @@
+Nouvelles tables astronomiques pour le soleil. 353
+
+[ment d’accord avec la verite. C'est donc sur ees corrections que j'ai dresse les tables solaires ci-
+jjuinteS, et j'espere qu'elles satisferont aux ohservations plus exactement, qu'aucunes autres, pourvu
+tqu'on ne neglige pas la correction tiree du lieu de la lune. Au reste, ces tables sont construites
+snr- Ie meridien de Berlin selon le vieux style, au temps couraut astronomique, comme les tables de
+
+   
+    
+     
+
+*street ou de Flamsteed. J’ai aussi calcule de nouveau la table des equations de 5 ὲ 5 degres,
+*ayant remarque que celles, dont on se sert communement, sont fausses en quelques endroits de 2 ou
+ξ3 secondes. Les epoques avant J.-C. ont ete rangees, comme on le fait pour les legarithmes ne-
+tga’tifffi en mettant 10001 pour la premiere annee de J.-C. afin qu'on puisse soustraire autaut d'annees
+tqu'on' voudra. Par exemple, si l’on voulai't calculer un lieu du soleil pour l'an 158 arvam J.-C., on
+1n‘n qu’in eter ce nombre de 10001, et chercherle reste 98113 dans les tables, en prenant* l'epoque'
+,19801 et en y ajoutant 1ι2 ans. Faisons le calcul pour cette meme annee, le 26 Septembre 22⁶ 30',
+mempssauquel Hipparque a suppose que l'equinoxe etait arrive:
+
+    
+     
+     
+    
+      
+
+    
+    
+  
+
+Longit. moyenne
+
+Anomalie moyenne Dist. de la 2> au Θ
+
+      
+     
+  
+
+Α. 9801 9⁸ 6⁰ 17’ 12” -651250‘ 2’ 52” 10⁸ 9Ο 32’ 10”
+
+110 18 12 11 29 1111 52 8 26 50 2
+
+2 11 29 31 20 11 29 29 1ιο 8 19 111 117
+
+Septembre 7 29 30 143 7 29 30 10 2 22 21 7
+
+'. 261· 0 25 37 37 0 25 37 311 10 16 57 33
+
+gg„ ,22⁶ ὅτι -51 ι3 ιι ιο 29
+
+ἒ st ᾗ, ·. V 30⁹ ι ιιι, 15 ιιι
+
+ssfi21. , , 3 20 20 35 5 16 21 22
+’μαψ retranchez
+
+Ψ
+
+{⁸¹³ , ajoutez‘
+
+dffl'mffimm&
+
+'stul l’equinoxe est arrive 9 heures plus tetqu’Hipparque n'a cru, ce qui est tres prohable ἐι cause
+
+45
+
+1ae luter} Op. ponbum 211.
+
